@@ -1,0 +1,98 @@
+#                                                                                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                              accession  query name                                     accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                                      ------------------- ----------                           -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+CAJ89990|Streptomyces_ambofaciens_ATCC_23877|Non           -          putative_bphC1_VicinalOxygenChelateSuperFamily -           4.7e-137  448.6   0.1  5.3e-137  448.5   0.1   1.0   1   0   0   1   1   1   1 -
+WP_004003465|Streptomyces_viridochromogenes_Tue57|Non      -          putative_bphC1_VicinalOxygenChelateSuperFamily -           7.4e-137  448.0   0.3  8.2e-137  447.8   0.3   1.0   1   0   0   1   1   1   1 -
+WP_017564578|Nocardiopsis_synnemataformans|Non             -          putative_bphC1_VicinalOxygenChelateSuperFamily -           1.9e-136  446.6   0.1  2.1e-136  446.5   0.1   1.0   1   0   0   1   1   1   1 -
+YP_007519387|Streptomyces_davawensis_JCM_4913|Non          -          putative_bphC1_VicinalOxygenChelateSuperFamily -           8.1e-136  444.6   0.1    9e-136  444.4   0.1   1.0   1   0   0   1   1   1   1 -
+WP_005473668|Streptomyces_bottropensis_ATCC_25435|Non      -          putative_bphC1_VicinalOxygenChelateSuperFamily -           1.6e-135  443.6   0.1  1.8e-135  443.4   0.1   1.0   1   0   0   1   1   1   1 -
+WP_004003431|Streptomyces_viridochromogenes_Tue57|Non      -          putative_bphC1_VicinalOxygenChelateSuperFamily -           2.4e-135  443.0   0.1  2.7e-135  442.9   0.1   1.0   1   0   0   1   1   1   1 -
+WP_020421195|Amycolatopsis_sp_ATCC_39116|Non               -          putative_bphC1_VicinalOxygenChelateSuperFamily -           2.9e-135  442.8   0.0  3.2e-135  442.6   0.0   1.0   1   0   0   1   1   1   1 -
+WP_018529113|Streptomyces_sp_HmicA12|Non                   -          putative_bphC1_VicinalOxygenChelateSuperFamily -           3.3e-135  442.6   0.1  3.6e-135  442.4   0.1   1.0   1   0   0   1   1   1   1 -
+WP_003088983|Amycolatopsis_vancoresmycina_DSM_44592|Non    -          putative_bphC1_VicinalOxygenChelateSuperFamily -           5.3e-135  441.9   0.2  5.9e-135  441.7   0.2   1.0   1   0   0   1   1   1   1 -
+YP_005329890|Blastococcus_saxobsidens_DD2|Non              -          putative_bphC1_VicinalOxygenChelateSuperFamily -           8.2e-135  441.3   0.2  9.1e-135  441.1   0.2   1.0   1   0   0   1   1   1   1 -
+WP_005473453|Streptomyces_bottropensis_ATCC_25435|Non      -          putative_bphC1_VicinalOxygenChelateSuperFamily -           8.6e-135  441.2   0.2  9.5e-135  441.0   0.2   1.0   1   0   0   1   1   1   1 -
+WP_009330041|Streptomyces_ipomoeae_91-03|Non               -          putative_bphC1_VicinalOxygenChelateSuperFamily -           9.6e-135  441.0   0.1  1.1e-134  440.9   0.1   1.0   1   0   0   1   1   1   1 -
+ZP_06922066|Streptomyces_sviceus_ATCC_29083|Non            -          putative_bphC1_VicinalOxygenChelateSuperFamily -             6e-134  438.4   0.1  6.7e-134  438.3   0.1   1.0   1   0   0   1   1   1   1 -
+WP_020639381|Amycolatopsis_balhimycina|Non                 -          putative_bphC1_VicinalOxygenChelateSuperFamily -           6.1e-134  438.4   0.1  6.8e-134  438.2   0.1   1.0   1   0   0   1   1   1   1 -
+YP_006366237|Modestobacter_marinus|Non                     -          putative_bphC1_VicinalOxygenChelateSuperFamily -           6.3e-134  438.4   0.1  7.2e-134  438.1   0.1   1.0   1   0   0   1   1   1   1 -
+WP_020125795|Streptomyces_sp_303MFCol5_2|Non               -          putative_bphC1_VicinalOxygenChelateSuperFamily -           7.8e-134  438.0   0.1  8.6e-134  437.9   0.1   1.0   1   0   0   1   1   1   1 -
+WP_020513854|Actinoplanes_globisporus|Non                  -          putative_bphC1_VicinalOxygenChelateSuperFamily -           5.5e-133  435.3   0.1  6.1e-133  435.1   0.1   1.0   1   0   0   1   1   1   1 -
+YP_005463416|Actinoplanes_missouriensis_431|Non            -          putative_bphC1_VicinalOxygenChelateSuperFamily -             1e-132  434.4   0.1  1.1e-132  434.2   0.1   1.0   1   0   0   1   1   1   1 -
+WP_006369860|Gordonia_polyisoprenivorans_NBRC_16320|Non    -          putative_bphC1_VicinalOxygenChelateSuperFamily -           5.9e-132  431.9   0.2  6.5e-132  431.7   0.2   1.0   1   0   0   1   1   1   1 -
+WP_008361750|Nocardioidaceae_bacterium_Broad-1|Non         -          putative_bphC1_VicinalOxygenChelateSuperFamily -           7.2e-132  431.6   0.0  8.1e-132  431.4   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_06410531|Frankia_sp_EUN1f|Non                           -          putative_bphC1_VicinalOxygenChelateSuperFamily -           4.4e-131  429.0   0.0    5e-131  428.8   0.0   1.0   1   0   0   1   1   1   1 -
+WP_019930818|Nocardia_sp_BMG111209|Non                     -          putative_bphC1_VicinalOxygenChelateSuperFamily -           6.4e-131  428.5   0.0  7.1e-131  428.3   0.0   1.0   1   0   0   1   1   1   1 -
+WP_018334653|Actinomycetospora_chiangmaiensis|Non          -          putative_bphC1_VicinalOxygenChelateSuperFamily -           9.8e-131  427.9   0.0  1.1e-130  427.7   0.0   1.0   1   0   0   1   1   1   1 -
+WP_017975304|Actinopolyspora_halophila|Non                 -          putative_bphC1_VicinalOxygenChelateSuperFamily -           2.9e-130  426.3   0.0  3.3e-130  426.2   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_07292814|Streptomyces_hygroscopicus_ATCC_53653|Non      -          putative_bphC1_VicinalOxygenChelateSuperFamily -           6.6e-130  425.1   0.2  7.4e-130  425.0   0.2   1.0   1   0   0   1   1   1   1 -
+WP_017934257|Nocardioides_sp_Iso805N|Non                   -          putative_bphC1_VicinalOxygenChelateSuperFamily -           9.8e-128  418.0   0.1  1.1e-127  417.8   0.1   1.0   1   0   0   1   1   1   1 -
+WP_016693463|Rhodococcus_rhodochrous|Non                   -          putative_bphC1_VicinalOxygenChelateSuperFamily -           2.9e-126  413.2   0.1  3.2e-126  413.0   0.1   1.0   1   0   0   1   1   1   1 -
+ZP_06920691|Streptomyces_sviceus_ATCC_29083|Non            -          putative_bphC1_VicinalOxygenChelateSuperFamily -           1.7e-124  407.4   0.0  1.8e-124  407.3   0.0   1.0   1   0   0   1   1   1   1 -
+WP_019057978|Streptomyces_prunicolor|Non                   -          putative_bphC1_VicinalOxygenChelateSuperFamily -           7.5e-124  405.3   0.0  8.4e-124  405.1   0.0   1.0   1   0   0   1   1   1   1 -
+WP_019068962|Streptomyces_sp_R1-NS-10|Non                  -          putative_bphC1_VicinalOxygenChelateSuperFamily -           9.1e-124  405.0   0.0    1e-123  404.8   0.0   1.0   1   0   0   1   1   1   1 -
+YP_921900|Nocardioides_sp_JS614|Non                        -          putative_bphC1_VicinalOxygenChelateSuperFamily -             1e-123  404.8   0.0  1.2e-123  404.6   0.0   1.0   1   0   0   1   1   1   1 -
+WP_016640837|Streptomyces_aurantiacus_JA_4570|Non          -          putative_bphC1_VicinalOxygenChelateSuperFamily -           1.1e-123  404.7   0.1  1.3e-123  404.5   0.1   1.0   1   0   0   1   1   1   1 -
+WP_010545073|Sphingomonas_elodea|Non                       -          putative_bphC1_VicinalOxygenChelateSuperFamily -           9.1e-123  401.7   0.0    1e-122  401.6   0.0   1.0   1   0   0   1   1   1   1 -
+WP_020654725|Massilia_niastensis|Non                       -          putative_bphC1_VicinalOxygenChelateSuperFamily -           5.8e-122  399.1   0.0  6.3e-122  398.9   0.0   1.0   1   0   0   1   1   1   1 -
+WP_018092833|Streptomyces_sp_FxanaC1|Non                   -          putative_bphC1_VicinalOxygenChelateSuperFamily -           6.2e-122  399.0   0.0  7.1e-122  398.8   0.0   1.0   1   0   0   1   1   1   1 -
+WP_004207105|Sphingobium_yanoikuyae_ATCC_51230|Non         -          putative_bphC1_VicinalOxygenChelateSuperFamily -           2.2e-121  397.1   0.0  2.5e-121  397.0   0.0   1.0   1   0   0   1   1   1   1 -
+WP_017501640|alpha_proteobacterium_LLX12A|Non              -          putative_bphC1_VicinalOxygenChelateSuperFamily -           2.3e-121  397.1   0.2  2.5e-121  397.0   0.2   1.0   1   0   0   1   1   1   1 -
+WP_010412117|Citromicrobium_sp_JLT1363|Non                 -          putative_bphC1_VicinalOxygenChelateSuperFamily -           3.6e-121  396.4   0.1    4e-121  396.3   0.1   1.0   1   0   0   1   1   1   1 -
+YP_003819039|Brevundimonas_subvibrioides_ATCC_15264|Non    -          putative_bphC1_VicinalOxygenChelateSuperFamily -           3.9e-121  396.3   0.0  4.3e-121  396.2   0.0   1.0   1   0   0   1   1   1   1 -
+YP_495994|Novosphingobium_aromaticivorans_DSM_12444|Non    -          putative_bphC1_VicinalOxygenChelateSuperFamily -           5.1e-121  395.9   0.0  5.6e-121  395.8   0.0   1.0   1   0   0   1   1   1   1 -
+YP_005331396|Blastococcus_saxobsidens_DD2|Non              -          putative_bphC1_VicinalOxygenChelateSuperFamily -           8.8e-121  395.2   0.0  9.9e-121  395.0   0.0   1.0   1   0   0   1   1   1   1 -
+WP_007014250|Novosphingobium_pentaromativorans_US6-1|Non   -          putative_bphC1_VicinalOxygenChelateSuperFamily -           8.9e-121  395.2   0.1  9.8e-121  395.0   0.1   1.0   1   0   0   1   1   1   1 -
+YP_776193|Burkholderia_ambifaria_AMMD|Non                  -          putative_bphC1_VicinalOxygenChelateSuperFamily -           9.4e-121  395.1   0.0  1.1e-120  394.8   0.0   1.0   1   0   0   1   1   1   1 -
+YP_833806|Burkholderia_cenocepacia_HI2424|Non              -          putative_bphC1_VicinalOxygenChelateSuperFamily -           2.9e-120  393.5   0.0  3.5e-120  393.2   0.0   1.0   1   0   0   1   1   1   1 -
+WP_007012513|Novosphingobium_pentaromativorans_US6-1|Non   -          putative_bphC1_VicinalOxygenChelateSuperFamily -           3.1e-120  393.4   0.0  3.4e-120  393.2   0.0   1.0   1   0   0   1   1   1   1 -
+WP_017670018|Blastomonas_sp_AAP53|Non                      -          putative_bphC1_VicinalOxygenChelateSuperFamily -           3.6e-120  393.2   0.0  3.9e-120  393.0   0.0   1.0   1   0   0   1   1   1   1 -
+WP_019368675|Sphingomonas_sp_ATCC_31555|Non                -          putative_bphC1_VicinalOxygenChelateSuperFamily -           1.5e-119  391.1   0.0  1.7e-119  391.0   0.0   1.0   1   0   0   1   1   1   1 -
+YP_007291700|Mycobacterium_smegmatis_JS623|Non             -          putative_bphC1_VicinalOxygenChelateSuperFamily -           1.7e-119  391.0   0.0    2e-119  390.7   0.0   1.0   1   0   0   1   1   1   1 -
+YP_001207027|Bradyrhizobium_sp_ORS278|Non                  -          putative_bphC1_VicinalOxygenChelateSuperFamily -           7.4e-119  388.9   0.0  8.1e-119  388.7   0.0   1.0   1   0   0   1   1   1   1 -
+YP_001241449|Bradyrhizobium_sp_BTAi1|Non                   -          putative_bphC1_VicinalOxygenChelateSuperFamily -           7.9e-119  388.8   0.0  8.6e-119  388.6   0.0   1.0   1   0   0   1   1   1   1 -
+WP_017774898|Burkholderia_kururiensis|Non                  -          putative_bphC1_VicinalOxygenChelateSuperFamily -           7.9e-119  388.8   0.0  9.6e-119  388.5   0.0   1.0   1   0   0   1   1   1   1 -
+YP_004835995|Sphingobium_sp_SYK-6|Non                      -          putative_bphC1_VicinalOxygenChelateSuperFamily -           8.7e-119  388.6   0.0  9.6e-119  388.5   0.0   1.0   1   0   0   1   1   1   1 -
+WP_006609800|Bradyrhizobium_sp_ORS_285|Non                 -          putative_bphC1_VicinalOxygenChelateSuperFamily -           1.1e-118  388.3   0.0  1.2e-118  388.1   0.0   1.0   1   0   0   1   1   1   1 -
+YP_004348892|Burkholderia_gladioli_BSR3|Non                -          putative_bphC1_VicinalOxygenChelateSuperFamily -           1.4e-118  388.0   0.0  1.6e-118  387.7   0.0   1.0   1   0   0   1   1   1   1 -
+YP_007512159|Bradyrhizobium_oligotrophicum_S58|Non         -          putative_bphC1_VicinalOxygenChelateSuperFamily -           2.2e-118  387.3   0.0  2.6e-118  387.0   0.0   1.0   1   0   0   1   1   1   1 -
+WP_018061312|Caulobacter_sp_JGI_0001013-O16|Non            -          putative_bphC1_VicinalOxygenChelateSuperFamily -           2.8e-118  387.0   0.0  3.1e-118  386.8   0.0   1.0   1   0   0   1   1   1   1 -
+WP_007405024|Sphingomonas_sp_S17|Non                       -          putative_bphC1_VicinalOxygenChelateSuperFamily -           3.5e-118  386.7   0.0  3.8e-118  386.5   0.0   1.0   1   0   0   1   1   1   1 -
+YP_004535848|Novosphingobium_sp_PP1Y|Non                   -          putative_bphC1_VicinalOxygenChelateSuperFamily -           5.2e-118  386.1   0.0  5.8e-118  385.9   0.0   1.0   1   0   0   1   1   1   1 -
+YP_004538335|Novosphingobium_sp_PP1Y|Non                   -          putative_bphC1_VicinalOxygenChelateSuperFamily -           1.1e-117  385.1   0.0  1.2e-117  384.9   0.0   1.0   1   0   0   1   1   1   1 -
+WP_007712222|Sphingobium_sp_AP49|Non                       -          putative_bphC1_VicinalOxygenChelateSuperFamily -           1.5e-117  384.6   0.0  1.7e-117  384.4   0.0   1.0   1   0   0   1   1   1   1 -
+WP_008139504|Bradyrhizobium_sp_YR681|Non                   -          putative_bphC1_VicinalOxygenChelateSuperFamily -           2.1e-117  384.1   0.0  2.5e-117  383.9   0.0   1.0   1   0   0   1   1   1   1 -
+WP_018494336|Rhizobium_leguminosarum|Non                   -          putative_bphC1_VicinalOxygenChelateSuperFamily -           2.3e-117  384.0   0.0  2.5e-117  383.8   0.0   1.0   1   0   0   1   1   1   1 -
+WP_018642704|Bradyrhizobium_japonicum|Non                  -          putative_bphC1_VicinalOxygenChelateSuperFamily -           3.1e-117  383.5   0.0  3.7e-117  383.3   0.0   1.0   1   0   0   1   1   1   1 -
+WP_008968083|Bradyrhizobium_sp_STM_3843|Non                -          putative_bphC1_VicinalOxygenChelateSuperFamily -           9.7e-116  378.6   0.0  1.1e-115  378.5   0.0   1.0   1   0   0   1   1   1   1 -
+WP_007773173|Rhizobium_sp_CF080|Non                        -          putative_bphC1_VicinalOxygenChelateSuperFamily -           1.5e-114  374.7   0.0  1.6e-114  374.6   0.0   1.0   1   0   0   1   1   1   1 -
+WP_010162468|Sphingomonas_sp_PAMC_26617|Non                -          putative_bphC1_VicinalOxygenChelateSuperFamily -           2.7e-113  370.6   0.0  3.2e-113  370.3   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_01223522|marine_gamma_proteobacterium_HTCC2207|Non      -          putative_bphC1_VicinalOxygenChelateSuperFamily -           2.3e-112  367.5   0.0  2.5e-112  367.4   0.0   1.0   1   0   0   1   1   1   1 -
+WP_007850856|Acidovorax_sp_CF316|Non                       -          putative_bphC1_VicinalOxygenChelateSuperFamily -           1.1e-109  358.7   0.0  1.3e-109  358.5   0.0   1.0   1   0   0   1   1   1   1 -
+WP_008493733|Acidocella_sp_MX-AZ02|Non                     -          putative_bphC1_VicinalOxygenChelateSuperFamily -           5.2e-108  353.2   0.0  6.4e-108  352.9   0.0   1.0   1   0   0   1   1   1   1 -
+WP_007708639|Sphingobium_sp_AP49|Non                       -          putative_bphC1_VicinalOxygenChelateSuperFamily -           2.1e-107  351.2   0.0  2.4e-107  351.1   0.0   1.0   1   0   0   1   1   1   1 -
+WP_004208418|Sphingobium_yanoikuyae_ATCC_51230|Non         -          putative_bphC1_VicinalOxygenChelateSuperFamily -           7.9e-107  349.4   0.0  8.8e-107  349.2   0.0   1.0   1   0   0   1   1   1   1 -
+WP_020655602|Massilia_niastensis|Non                       -          putative_bphC1_VicinalOxygenChelateSuperFamily -           4.5e-106  346.9   0.0    5e-106  346.7   0.0   1.0   1   0   0   1   1   1   1 -
+WP_017232605|Pandoraea_sp_B-6|Non                          -          putative_bphC1_VicinalOxygenChelateSuperFamily -           8.2e-106  346.0   0.0    9e-106  345.9   0.0   1.0   1   0   0   1   1   1   1 -
+WP_006948626|Sphingobium_japonicum_BiD32|Non               -          putative_bphC1_VicinalOxygenChelateSuperFamily -           1.1e-105  345.6   0.0  1.2e-105  345.4   0.0   1.0   1   0   0   1   1   1   1 -
+YP_004538820|Novosphingobium_sp_PP1Y|Non                   -          putative_bphC1_VicinalOxygenChelateSuperFamily -           5.6e-105  343.3   0.0  6.6e-105  343.0   0.0   1.0   1   0   0   1   1   1   1 -
+YP_001165801|Novosphingobium_aromaticivorans_DSM_12444|Non -          putative_bphC1_VicinalOxygenChelateSuperFamily -           3.1e-104  340.9   0.0  3.4e-104  340.7   0.0   1.0   1   0   0   1   1   1   1 -
+WP_008832074|Sphingomonas_sp_LH128|Non                     -          putative_bphC1_VicinalOxygenChelateSuperFamily -           7.5e-104  339.6   0.0  8.4e-104  339.4   0.0   1.0   1   0   0   1   1   1   1 -
+WP_010542906|Sphingomonas_elodea|Non                       -          putative_bphC1_VicinalOxygenChelateSuperFamily -           8.7e-104  339.4   0.0  9.8e-104  339.2   0.0   1.0   1   0   0   1   1   1   1 -
+WP_007773140|Rhizobium_sp_CF080|Non                        -          putative_bphC1_VicinalOxygenChelateSuperFamily -           3.2e-102  334.2   0.0  3.8e-102  334.0   0.0   1.0   1   0   0   1   1   1   1 -
+WP_018303408|Wenxinia_marina|Non                           -          putative_bphC1_VicinalOxygenChelateSuperFamily -           7.1e-102  333.1   0.0  7.9e-102  332.9   0.0   1.0   1   0   0   1   1   1   1 -
+WP_020767953|Leptospira_sp_B5-022|Non                      -          putative_bphC1_VicinalOxygenChelateSuperFamily -            3.2e-97  317.8   0.0   3.6e-97  317.6   0.0   1.0   1   0   0   1   1   1   1 -
+WP_010569145|Leptospira_broomii_5399|Non                   -          putative_bphC1_VicinalOxygenChelateSuperFamily -            1.2e-95  312.7   0.0   1.3e-95  312.5   0.0   1.0   1   0   0   1   1   1   1 -
+WP_008590946|Leptospira_licerasiae_MMD4847|Non             -          putative_bphC1_VicinalOxygenChelateSuperFamily -            7.5e-94  306.7   0.0   8.8e-94  306.5   0.0   1.0   1   0   0   1   1   1   1 -
+WP_016549892|Leptospira_fainei_BUT_6|Non                   -          putative_bphC1_VicinalOxygenChelateSuperFamily -            1.9e-93  305.4   0.0   2.2e-93  305.2   0.0   1.0   1   0   0   1   1   1   1 -
+WP_007015343|Novosphingobium_pentaromativorans_US6-1|Non   -          putative_bphC1_VicinalOxygenChelateSuperFamily -            2.2e-80  262.5   0.0   2.4e-80  262.4   0.0   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      putative_bphC1.hmm
+# Target file:     putative_bphC1.fasta
+# Option settings: hmmsearch --tblout putative_bphC1.tbl putative_bphC1.hmm putative_bphC1.fasta 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Tue Jun 25 17:27:43 2024
+# [ok]
