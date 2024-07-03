@@ -1,0 +1,36 @@
+#                                                                                                           --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                                   accession  query name            accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                                           ------------------- ----------  -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+WP_007497605|Streptomyces_zinciresistens|Non                    -          H2NA_CupinSuperFamily -           9.6e-157  511.7   0.0  1.1e-156  511.5   0.0   1.0   1   0   0   1   1   1   1 -
+CAJ89997|Streptomyces_ambofaciens_ATCC_23877|Non                -          H2NA_CupinSuperFamily -           4.1e-156  509.6   0.0  4.6e-156  509.4   0.0   1.0   1   0   0   1   1   1   1 -
+YP_004141220|Mesorhizobium_ciceri_biovar_biserrulae_WSM1271|Non -          H2NA_CupinSuperFamily -             4e-153  499.8   0.0  4.5e-153  499.6   0.0   1.0   1   0   0   1   1   1   1 -
+WP_006329721|Mesorhizobium_sp_STM_4661|Non                      -          H2NA_CupinSuperFamily -           7.5e-153  498.9   0.0  8.5e-153  498.7   0.0   1.0   1   0   0   1   1   1   1 -
+WP_019172886|Pseudaminobacter_salicylatoxidans|Non              -          H2NA_CupinSuperFamily -           4.2e-151  493.1   0.0  4.7e-151  493.0   0.0   1.0   1   0   0   1   1   1   1 -
+YP_004721312|Sulfobacillus_acidophilus_TPY|Non                  -          H2NA_CupinSuperFamily -           5.7e-148  482.8   0.0  6.8e-148  482.6   0.0   1.0   1   0   0   1   1   1   1 -
+YP_008030147|Achromobacter_xylosoxidans_NH44784-1996|Non        -          H2NA_CupinSuperFamily -           9.9e-143  465.6   0.0  1.1e-142  465.4   0.0   1.0   1   0   0   1   1   1   1 -
+WP_010805389|Pandoraea_sp_SD6-2|Non                             -          H2NA_CupinSuperFamily -           1.2e-142  465.4   0.0  1.3e-142  465.2   0.0   1.0   1   0   0   1   1   1   1 -
+YP_786432|Bordetella_avium_197N|Non                             -          H2NA_CupinSuperFamily -           1.5e-141  461.7   0.1  1.8e-141  461.5   0.1   1.0   1   0   0   1   1   1   1 -
+WP_019068892|Streptomyces_sp_R1-NS-10|Non                       -          H2NA_CupinSuperFamily -           2.6e-140  457.7   0.0  2.9e-140  457.5   0.0   1.0   1   0   0   1   1   1   1 -
+YP_003394607|Conexibacter_woesei_DSM_14684|Non                  -          H2NA_CupinSuperFamily -           7.6e-140  456.1   0.0  9.4e-140  455.8   0.0   1.0   1   0   0   1   1   1   1 -
+WP_010145261|Citricoccus_sp_CH26A|Non                           -          H2NA_CupinSuperFamily -           3.7e-135  440.7   0.1  4.1e-135  440.5   0.1   1.0   1   0   0   1   1   1   1 -
+WP_005861995|Sagittula_stellata|Non                             -          H2NA_CupinSuperFamily -           3.8e-135  440.6   0.0  4.5e-135  440.4   0.0   1.0   1   0   0   1   1   1   1 -
+WP_017998921|Paracoccus_sp_N5|Non                               -          H2NA_CupinSuperFamily -           1.3e-133  435.6   0.0  1.5e-133  435.4   0.0   1.0   1   0   0   1   1   1   1 -
+WP_009070871|Metallosphaera_yellowstonensis|Non                 -          H2NA_CupinSuperFamily -           1.5e-133  435.4   0.0  1.7e-133  435.2   0.0   1.0   1   0   0   1   1   1   1 -
+WP_016690975|Rhodococcus_rhodochrous|Non                        -          H2NA_CupinSuperFamily -           3.8e-132  430.8   0.0  4.3e-132  430.6   0.0   1.0   1   0   0   1   1   1   1 -
+WP_009070848|Metallosphaera_yellowstonensis|Non                 -          H2NA_CupinSuperFamily -           1.2e-125  409.4   0.0  1.3e-125  409.3   0.0   1.0   1   0   0   1   1   1   1 -
+WP_009070940|Metallosphaera_yellowstonensis|Non                 -          H2NA_CupinSuperFamily -           1.3e-123  402.7   0.0  1.5e-123  402.5   0.0   1.0   1   0   0   1   1   1   1 -
+WP_018033436|crenarchaeote_SCGC_AAA261-L14|Non                  -          H2NA_CupinSuperFamily -           4.5e-123  400.9   0.0    5e-123  400.8   0.0   1.0   1   0   0   1   1   1   1 -
+WP_017577317|Nocardiopsis_kunsanensis|Non                       -          H2NA_CupinSuperFamily -           3.8e-121  394.6   0.3  4.2e-121  394.5   0.3   1.0   1   0   0   1   1   1   1 -
+WP_019808815|Saccharomonospora_halophila|Non                    -          H2NA_CupinSuperFamily -           4.7e-120  391.0   0.1  5.5e-120  390.8   0.1   1.0   1   0   0   1   1   1   1 -
+YP_007878771|Rhodococcus_fascians_D188|Non                      -          H2NA_CupinSuperFamily -           1.2e-118  386.4   2.7  2.9e-118  385.1   2.7   1.6   1   1   0   1   1   1   1 -
+WP_007024405|Saccharomonospora_paurometabolica|Non              -          H2NA_CupinSuperFamily -             2e-118  385.6   0.0  2.4e-118  385.4   0.0   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      putativeGDO.hmm
+# Target file:     Putative Gentisate dioxygenases.fasta
+# Option settings: hmmsearch --tblout putativeGDO.txt putativeGDO.hmm Putative Gentisate dioxygenases.fasta 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Tue Jun 25 13:49:34 2024
+# [ok]
