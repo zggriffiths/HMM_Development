@@ -1,0 +1,110 @@
+# STOCKHOLM 1.0
+#=GF ID amnA_HomoprotocatechuateFamily_LigBSuperfamily
+#=GF DE 2-Aminophenol 1,6-dioxygenase alpha subunit
+#=GF NC 208
+#=GF TC 358
+
+EHR76951|uncultured_marine_group      MSE-GRLVGSFIVPVHPHTVLVPEQNEGWQRLRDAFDDAAQRIKDSNADLLVIYSTTWPS
+YP_004405266|Verrucosispora_mari      MAD-TGIVAGALLPGMPHLLAEKPA-QCWADLAAAAREVGDRLRRLKPDVVLLLSTQWFT
+WP_018783792|Micromonospora_sp_C      MADRTGIVAGALLPGMPHLLADEPA-PSWSALADAARDVGARLRRLEPDVVLLLSTQWFT
+YP_003978677|Achromobacter_xylos      ----MTIVSAFLVPGSPLPQLRSDV-APWGRLNQALRAAGKSLAASRPDVVLVYSTQWMA
+YP_559854|Burkholderia_xenovoran      ----MTIVSAFLLPGSPLPQLRPDI-TPWGRIREGLSRAGKALAESKPDCVLVYSTQWFA
+YP_785084|Bordetella_avium_197N|      ----MTIVSAFLVPGSPLPQLRPDV-APWGRFRDALRQVGRSLARSRPDCVLVYSTQWFA
+ABC41268|Pseudomonas_putida|Apa       ----MTVVSAFLVPGTPLPQLKPEV-PSWGQLAAATERAGKALAASRPDVVLVYSTQWLA
+YP_001967697|Comamonas_testoster      ----MTVVSAFLVPGTPLPQLKPEV-PSWGQLAAATERAGKALAASRPDVVLVYSTQWLA
+O33478|Pseudomonas_sp|Apa             ----MTIVSAFLVPGSPLPHLRPDV-KSWESFKVAMQNVGEKLRASKPDVVLIYSTQWFA
+AF319593_4|Pseudomonas_putida|Ap      ----MTIVSAFLVPGSPLPQLRADV-SGWHNFQQAMRQAGAALKESRPDVVLIYSTQWFA
+AAB71525|Pseudomonas_pseudoalcal      ----MTIVSAFLVPGSPLPQLRADV-PGWHNFQQAMRQAGAALKESRPDVVLIYSTQWFA
+YP_001748882|Pseudomonas_putida_      ----MTVVSAFLVPGSPLPQLCPDV-PNWQRFQRAMQQAGVALKASEPDVVLVYSTQWFA
+    
+EHR76951|uncultured_marine_group      IIGHQIQADPNPEWVMVDHDFHD--LGSIPYSFNIDSEFAHAWDEANKKRGLKSRTINYT
+YP_004405266|Verrucosispora_mari      VLGHQFQCDPNPRGEHVDENWYAYDYGELRYDLRFDVPFTERWTDHVNKAGMQARRTRYD
+WP_018783792|Micromonospora_sp_C      VLGHQFQCDPNPRGRHVDENWYAYDYGLLDYDLRFDVDFTERWAARVQASGLQARRTRYE
+YP_003978677|Achromobacter_xylos      VLDQLWITRARSTGVHVDENWHE--YGELPFDIASDAGLADACVQGCRDAGIHARGVDYD
+YP_559854|Burkholderia_xenovoran      VLDQLWITRARSTGVHVDENWHE--FGEQAFDIHSDCALAQRCVDACNAAGIKTRGVDYD
+YP_785084|Bordetella_avium_197N|      VLDQLWITRARSTGLHVDENWHE--FGEQPFDIYSDAQLAHRCVQACNEAGIKTRSVDYD
+ABC41268|Pseudomonas_putida|Apa       VLDQQWLTRPRSEGVHVDENWYE--FGDLAYDIRADTALAEACVTSSPPHGVHARGVNYD
+YP_001967697|Comamonas_testoster      VLDQQWLTRPRSEGVHVDENWYE--FGDLAYDIRADTALAEACVTSSPLHGVHARGVNYD
+O33478|Pseudomonas_sp|Apa             VLDEIWLTRQRSLDIHVDENWHE--FGELPYDIYSDVDLANACIESCRAAGVNARGADYE
+AF319593_4|Pseudomonas_putida|Ap      VLDEIWLTRRHSEDIHVDENWHE--FGELPYSLFSDVDLANACVEACRSQGVPARGADYK
+AAB71525|Pseudomonas_pseudoalcal      VLDEIWLTRRHSEDIHVDENWHE--FGELPYSLFSDVDLANACVEACRSQGVPARGADYK
+YP_001748882|Pseudomonas_putida_      VLDEIWLTRRRSQDIHVDENWHE--FGELPYDLYSDVTLANACIEACRAQGVNARGADYQ
+
+EHR76951|uncultured_marine_group      GFPIDVGSVVALKLLNPDNA-IPAVIVSSNVYANRSETTVLAKSCLDVIKATGRKAVAVT
+YP_004405266|Verrucosispora_mari      GFPIDTGTIVTSALLDPDRE-LRWAQVSCNLYADAQTLADVGAAGAAAAREAGVRAAVVV
+WP_018783792|Micromonospora_sp_C      GFPIDAGTIVTSALLDPDRK-LRWAQVSCNLYADAGTLAEVGRAGGAAARDAGLRAAVVV
+YP_003978677|Achromobacter_xylos      QFPIDTGTITVSTLMGFGSDQLPVTLAANNLYHDNAQTEQLSRIAVQAAAAQGKRAAVIG
+YP_559854|Burkholderia_xenovoran      QFPIDTGTITATTLMGFGSASLPVVIAANNLYHSAEQTEQLGAIASAALQD--KRAAVLG
+YP_785084|Bordetella_avium_197N|      QFPIDTGTITASTLMNFGTEDLPVITAANNLYHSAAQTEQLGSIAACALQD--KRVAVLG
+ABC41268|Pseudomonas_putida|Apa       GFPIDTGTITACTLMGIGTDAFPLVVGSNNLYHSGEITEKLAALAVDCAKDQNKRVAVVG
+YP_001967697|Comamonas_testoster      GFPIDTGTITACTLMGIGTDAFPLVVGSNNLYHSGEITEKLAALAVDCAKDQNKRVAVVG
+O33478|Pseudomonas_sp|Apa             SFPIDTGTIVACNALKVGTSDLPVVVASNNLYDDQAATERLAALAVACISEKGKRIAVIG
+AF319593_4|Pseudomonas_putida|Ap      AFPIDTGTIVACTAMGIGTEALPLVVASNNLYYNGEATENIGAIAAKAALDQGKRVAVIG
+AAB71525|Pseudomonas_pseudoalcal      AYPIDTGTIVACTAMGIGTEALPLVVASNNLYYNGEATENIGAIAAKAALDQGKRVAVIG
+YP_001748882|Pseudomonas_putida_      GFPIDTGTIVASTALGVGTEGLPLVVASNNLYDNAQATEKLAAIAVACAAEQGKRVAVVG
+     
+EHR76951|uncultured_marine_group      AMSLSNRMFTTAIDPKDDKIHSLKDDEWNRKILEFLGEGRLEDVGQLSRTIHKQIRVQKV
+YP_004405266|Verrucosispora_mari      VTGMSSGLIQQWIEPHDDHVSDPGHDRWNRRVLDLLTAGKVDEVLKIREDFARQAQAD--
+WP_018783792|Micromonospora_sp_C      VTGMSSGLLQEWIEPGQDRIGAAGHEQWNTRILDLLTAGKVDEALAVREDFARQAQAD--
+YP_003978677|Achromobacter_xylos      IGGLSNTMFREPVAPESDRLISQADDDWNRRMLALLESGDAAQLREAMPEYAGQAKAE--
+YP_559854|Burkholderia_xenovoran      IGGLSNSAFRENIDLEKDHILSEADDKWNQRVLALMESGDIEAIRAILPQYSTEARPD--
+YP_785084|Bordetella_avium_197N|      IGGLSNSMFREAIDVHEDHIISEGDDAWNKRLLALIEDGDLPALRASLPEYSKAARPD--
+ABC41268|Pseudomonas_putida|Apa       VGGLSGSLFREEIDPREDRIANEEDDKWNRRVLKLIEAGDVSALREAMPVYAKEARVD--
+YP_001967697|Comamonas_testoster      VGGLSGSLFREEIDPREDRIANEEDDKWNRRVLKLIEAGDVSALREAMPVYAKEARVD--
+O33478|Pseudomonas_sp|Apa             VGGLSGSVFTTAIDPAEDRVVKAVEDDCNKNILSLMESGNIQALREALKSYSKEARAE--
+AF319593_4|Pseudomonas_putida|Ap      VGGLSGSVFTSQIDPLDDHIVKPEEDEWNRQILSLLESGNLPALKEQIPHYVKAARVD--
+AAB71525|Pseudomonas_pseudoalcal      VGGLSGSVFTSQIDPLDDHIVKPEEDEWNRQILSLLESGNLPALKEQIPHYVKAARVD--
+YP_001748882|Pseudomonas_putida_      VGGLSGSLFTKPIEPCDDRIVHTEEDAWNRQVLALIETGDVDGLREALPTYAARARVD--
+      
+EHR76951|uncultured_marine_group      VAFKPMWWLAGMNENRNNLTGDVLAYEAIHGAGGAVVHLDPTPSGAGDKEYDEDDVEFFS
+YP_004405266|Verrucosispora_mari      SQFRALAFAAGA-GATAG-PAQLHAYGPLWGTGGAVLSWNLP------------------
+WP_018783792|Micromonospora_sp_C      SQFRALAFAAGA-GAATG-PAHLHAYGPIWGTGGAALSWNLTDHH---------------
+YP_003978677|Achromobacter_xylos      MGFKHMSWLLGALGDQFR-GGKVLEYAPLYGSGGAVVEFKVG------------------
+YP_559854|Burkholderia_xenovoran      MGLKHFYWLLGAMNASFK-KATVHEYAPLYGSGGAIVQFDVQ------------------
+YP_785084|Bordetella_avium_197N|      MGLKQLHWLLGAMGDRYQ-QAVVHEYGPLYGSGGAVVEFKLQ------------------
+ABC41268|Pseudomonas_putida|Apa       MGFKHLHWILGALKGKFS-GANVLGYGPSYGSGAAVIEFRL-------------------
+YP_001967697|Comamonas_testoster      MGFKHLHWILGALKGKFS-GANVLGYGPSYGSGAAVIEFRL-------------------
+O33478|Pseudomonas_sp|Apa             MGFKHFHWLLGALDGHFK-GATVHHYGALYGSGAAVVEFSI-------------------
+AF319593_4|Pseudomonas_putida|Ap      MGFKHFNWVLGAIGGEFR-SAKVYHYGAIYGSGAAVVEFNL-------------------
+AAB71525|Pseudomonas_pseudoalcal      MGFKHFNWVLGAIGGEFR-SAKVYHYGAIYGSGAAVVEFNL-------------------
+YP_001748882|Pseudomonas_putida_      MGFKHFHWLLGALGGRFQ-GAKVHHYGALYGSGAAVVQFYPC------------------
+       
+EHR76951|uncultured_marine_group      GERNVLDAEGGAPSFDAQIPQPSKASTSSGPALWEPTTGESSVNSDAAPKPVGMYPHARR
+YP_004405266|Verrucosispora_mari      ------------------------------------------------------------
+WP_018783792|Micromonospora_sp_C      ------------------------------------------------------------
+YP_003978677|Achromobacter_xylos      ------------------------------------------------------------
+YP_559854|Burkholderia_xenovoran      ------------------------------------------------------------
+YP_785084|Bordetella_avium_197N|      ------------------------------------------------------------
+ABC41268|Pseudomonas_putida|Apa       ------------------------------------------------------------
+YP_001967697|Comamonas_testoster      ------------------------------------------------------------
+O33478|Pseudomonas_sp|Apa             ------------------------------------------------------------
+AF319593_4|Pseudomonas_putida|Ap      ------------------------------------------------------------
+AAB71525|Pseudomonas_pseudoalcal      ------------------------------------------------------------
+YP_001748882|Pseudomonas_putida_      ------------------------------------------------------------
+       
+EHR76951|uncultured_marine_group      VGDLLYLSGVGPRQPGTNAIPGGPICDDQGAPLNYDIKAQTRAVVDNITRILEEAGGSID
+YP_004405266|Verrucosispora_mari      ------------------------------------------------------------
+WP_018783792|Micromonospora_sp_C      ------------------------------------------------------------
+YP_003978677|Achromobacter_xylos      ------------------------------------------------------------
+YP_559854|Burkholderia_xenovoran      ------------------------------------------------------------
+YP_785084|Bordetella_avium_197N|      ------------------------------------------------------------
+ABC41268|Pseudomonas_putida|Apa       ------------------------------------------------------------
+YP_001967697|Comamonas_testoster      ------------------------------------------------------------
+O33478|Pseudomonas_sp|Apa             ------------------------------------------------------------
+AF319593_4|Pseudomonas_putida|Ap      ------------------------------------------------------------
+AAB71525|Pseudomonas_pseudoalcal      ------------------------------------------------------------
+YP_001748882|Pseudomonas_putida_      ------------------------------------------------------------
+          
+EHR76951|uncultured_marine_group      DVLDVTSFLVDMDRDFAGYNEVWADTLGKVGPTRTTLAIRALPTPIAVEMKVIARAPKGN
+YP_004405266|Verrucosispora_mari      ------------------------------------------------------------
+WP_018783792|Micromonospora_sp_C      ------------------------------------------------------------
+YP_003978677|Achromobacter_xylos      ------------------------------------------------------------
+YP_559854|Burkholderia_xenovoran      ------------------------------------------------------------
+YP_785084|Bordetella_avium_197N|      ------------------------------------------------------------
+ABC41268|Pseudomonas_putida|Apa       ------------------------------------------------------------
+YP_001967697|Comamonas_testoster      ------------------------------------------------------------
+O33478|Pseudomonas_sp|Apa             ------------------------------------------------------------
+AF319593_4|Pseudomonas_putida|Ap      ------------------------------------------------------------
+AAB71525|Pseudomonas_pseudoalcal      ------------------------------------------------------------
+YP_001748882|Pseudomonas_putida_      ------------------------------------------------------------
+//                                                                                                  
