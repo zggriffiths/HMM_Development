@@ -1,0 +1,60 @@
+#                                                                                                                      --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                              accession  query name                            accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                                      ------------------- ----------                  -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+AAD02136|Pseudomonas_stutzeri_AN10|Nah                     -          NDO_BiphenylFamily-RieskeFeOxygenases -           8.1e-229  751.3   0.6    9e-229  751.2   0.6   1.0   1   0   0   1   1   1   1 -
+AAF72976|Comamonas_testosteroni|Phn                        -          NDO_BiphenylFamily-RieskeFeOxygenases -           8.1e-229  751.3   0.1    9e-229  751.2   0.1   1.0   1   0   0   1   1   1   1 -
+AAL07262|Pseudomonas_fluorescens|Nah                       -          NDO_BiphenylFamily-RieskeFeOxygenases -           9.6e-229  751.1   0.1  1.1e-228  750.9   0.1   1.0   1   0   0   1   1   1   1 -
+Q51494|Pseudomonas_aeruginosa|Nah                          -          NDO_BiphenylFamily-RieskeFeOxygenases -           2.1e-228  750.0   0.3  2.3e-228  749.8   0.3   1.0   1   0   0   1   1   1   1 -
+YP_534822|Pseudomonas_putida_Nah7|Nah                      -          NDO_BiphenylFamily-RieskeFeOxygenases -           3.8e-228  749.1   0.1  4.2e-228  749.0   0.1   1.0   1   0   0   1   1   1   1 -
+AAD12610|Ralstonia_sp_U2|Nah                               -          NDO_BiphenylFamily-RieskeFeOxygenases -             4e-228  749.1   0.2  4.4e-228  748.9   0.2   1.0   1   0   0   1   1   1   1 -
+ACT53249|Burkholderia_sp_C3|Pap                            -          NDO_BiphenylFamily-RieskeFeOxygenases -           2.5e-227  746.4   0.1  2.8e-227  746.3   0.1   1.0   1   0   0   1   1   1   1 -
+NP_943188|Pseudomonas_sp_ND6|Nah                           -          NDO_BiphenylFamily-RieskeFeOxygenases -           4.6e-227  745.6   0.1  5.1e-227  745.4   0.1   1.0   1   0   0   1   1   1   1 -
+YP_982710|Polaromonas_naphthalenivorans_CJ2|Non            -          NDO_BiphenylFamily-RieskeFeOxygenases -             5e-227  745.4   0.1  5.6e-227  745.3   0.1   1.0   1   0   0   1   1   1   1 -
+NP_863072|Pseudomonas_putida_NCIB_9816-4|Nah               -          NDO_BiphenylFamily-RieskeFeOxygenases -           5.1e-227  745.4   0.1  5.7e-227  745.2   0.1   1.0   1   0   0   1   1   1   1 -
+ADK11287|Pseudomonas_stutzeri|Nah                          -          NDO_BiphenylFamily-RieskeFeOxygenases -           7.3e-227  744.9   0.5  8.1e-227  744.7   0.5   1.0   1   0   0   1   1   1   1 -
+O07824|Pseudomonas_fluorescens|Nah                         -          NDO_BiphenylFamily-RieskeFeOxygenases -           1.4e-226  744.0   0.1  1.5e-226  743.8   0.1   1.0   1   0   0   1   1   1   1 -
+BAA20391|Pseudomonas_putida|Non                            -          NDO_BiphenylFamily-RieskeFeOxygenases -           1.7e-224  737.1   0.1  1.9e-224  736.9   0.1   1.0   1   0   0   1   1   1   1 -
+ABX89315|Comamonas_testosteroni|Nah                        -          NDO_BiphenylFamily-RieskeFeOxygenases -           3.2e-224  736.2   0.1  3.6e-224  736.0   0.1   1.0   1   0   0   1   1   1   1 -
+AAL50021|Burkholderia_cepacia_R34|Dnt                      -          NDO_BiphenylFamily-RieskeFeOxygenases -             1e-221  728.0   0.0  1.1e-221  727.8   0.0   1.0   1   0   0   1   1   1   1 -
+ADQ90222|Pseudomonas_stutzeri|Non                          -          NDO_BiphenylFamily-RieskeFeOxygenases -           1.2e-221  727.7   0.3  1.3e-221  727.6   0.3   1.0   1   0   0   1   1   1   1 -
+YP_987297|Acidovorax_sp_JS42|Non                           -          NDO_BiphenylFamily-RieskeFeOxygenases -           3.9e-219  719.4   0.1  4.4e-219  719.3   0.1   1.0   1   0   0   1   1   1   1 -
+2BMO|Comamonas_JS765|Dnt                                   -          NDO_BiphenylFamily-RieskeFeOxygenases -           6.6e-218  715.4   0.3  7.4e-218  715.2   0.3   1.0   1   0   0   1   1   1   1 -
+YP_001165670|Novosphingobium_aromaticivorans_DSM_12444|Non -          NDO_BiphenylFamily-RieskeFeOxygenases -           9.7e-218  714.8   0.0  1.1e-217  714.7   0.0   1.0   1   0   0   1   1   1   1 -
+ABW37061|Sphingomonas_sp_LH128|Bph                         -          NDO_BiphenylFamily-RieskeFeOxygenases -           1.3e-217  714.4   0.0  1.5e-217  714.2   0.0   1.0   1   0   0   1   1   1   1 -
+WP_007184423|Hydrocarboniphaga_effusa|Non                  -          NDO_BiphenylFamily-RieskeFeOxygenases -           2.2e-217  713.7   0.0  2.5e-217  713.5   0.0   1.0   1   0   0   1   1   1   1 -
+YP_004468880|Alteromonas_sp_SN2|Non                        -          NDO_BiphenylFamily-RieskeFeOxygenases -           6.9e-217  712.0   3.9  7.7e-217  711.9   3.9   1.0   1   0   0   1   1   1   1 -
+NP_049062|Novosphingobium_aromaticivorans|Non              -          NDO_BiphenylFamily-RieskeFeOxygenases -           9.6e-217  711.5   0.0  1.1e-216  711.4   0.0   1.0   1   0   0   1   1   1   1 -
+AAD09872|Burkholderia_sp_RP007|Phn                         -          NDO_BiphenylFamily-RieskeFeOxygenases -           1.4e-216  711.0   0.7  1.6e-216  710.8   0.7   1.0   1   0   0   1   1   1   1 -
+ZP_06845988|Burkholderia_sp_Ch1-1|Non                      -          NDO_BiphenylFamily-RieskeFeOxygenases -           3.1e-215  706.6   0.0  3.4e-215  706.4   0.0   1.0   1   0   0   1   1   1   1 -
+ACD91669|Novosphingobium_sp_H25|Non                        -          NDO_BiphenylFamily-RieskeFeOxygenases -           4.4e-215  706.1   0.1    5e-215  705.9   0.1   1.0   1   0   0   1   1   1   1 -
+ACG70971|Acidovorax_sp_NA3|Phn                             -          NDO_BiphenylFamily-RieskeFeOxygenases -           5.4e-215  705.8   0.0  5.9e-215  705.6   0.0   1.0   1   0   0   1   1   1   1 -
+2GBW|Sphingomonas_Yanoikuyae_B1|Bph                        -          NDO_BiphenylFamily-RieskeFeOxygenases -           6.6e-215  705.5   0.0  7.4e-215  705.3   0.0   1.0   1   0   0   1   1   1   1 -
+BAC81541|Cycloclasticus_sp_A5|Pap                          -          NDO_BiphenylFamily-RieskeFeOxygenases -           9.8e-215  704.9   4.5  1.1e-214  704.8   4.5   1.0   1   0   0   1   1   1   1 -
+2CKF|Sphingomonas_Sp_Chy-1|Phn                             -          NDO_BiphenylFamily-RieskeFeOxygenases -           2.1e-214  703.8   0.1  2.4e-214  703.7   0.1   1.0   1   0   0   1   1   1   1 -
+ABF56510|Cycloclasticus_sp_P1|Pap                          -          NDO_BiphenylFamily-RieskeFeOxygenases -           8.5e-214  701.8   4.9  9.6e-214  701.6   4.9   1.0   1   0   0   1   1   1   1 -
+AAB09766|Burkholderia_sp_RASC|Dnt                          -          NDO_BiphenylFamily-RieskeFeOxygenases -           1.5e-213  701.0   0.1  1.6e-213  700.9   0.1   1.0   1   0   0   1   1   1   1 -
+ACC64605|Sphingomonas_sp_B2-7|Phn                          -          NDO_BiphenylFamily-RieskeFeOxygenases -           1.6e-213  700.9   0.1  1.8e-213  700.7   0.1   1.0   1   0   0   1   1   1   1 -
+CAT03469|Sphingomonas_paucimobilis_EPA505|Non              -          NDO_BiphenylFamily-RieskeFeOxygenases -           2.8e-213  700.1   0.1  3.2e-213  700.0   0.1   1.0   1   0   0   1   1   1   1 -
+AAK62353|Burkholderia_sp_DBT1|DbtA                         -          NDO_BiphenylFamily-RieskeFeOxygenases -           4.8e-211  692.8   0.1  5.7e-211  692.5   0.1   1.0   1   0   0   1   1   1   1 -
+BAD34447|Sphingomonas_sp_A4|Pap                            -          NDO_BiphenylFamily-RieskeFeOxygenases -           8.6e-210  688.6   0.0  9.5e-210  688.5   0.0   1.0   1   0   0   1   1   1   1 -
+BAA76323|Alcaligenes_faecalis_AFK2|Phn                     -          NDO_BiphenylFamily-RieskeFeOxygenases -           3.1e-203  667.0   0.0  3.6e-203  666.8   0.0   1.0   1   0   0   1   1   1   1 -
+YP_008374307|Cycloclasticus_zancles_7-ME|Non               -          NDO_BiphenylFamily-RieskeFeOxygenases -           9.7e-202  662.1   0.4  1.1e-201  661.9   0.4   1.0   1   0   0   1   1   1   1 -
+WP_007012495|Novosphingobium_pentaromativorans|Non         -          NDO_BiphenylFamily-RieskeFeOxygenases -           6.4e-196  642.9   0.0  7.8e-196  642.6   0.0   1.0   1   0   0   1   1   1   1 -
+WP_007014365|Novosphingobium_pentaromativorans|Non         -          NDO_BiphenylFamily-RieskeFeOxygenases -           1.7e-190  625.1   0.0  1.8e-190  624.9   0.0   1.0   1   0   0   1   1   1   1 -
+BAD02377|Rhodococcus_opacus_SAO101|Non                     -          NDO_BiphenylFamily-RieskeFeOxygenases -             3e-189  620.9   0.0  3.7e-189  620.6   0.0   1.0   1   0   0   1   1   1   1 -
+AAD25395|Rhodococcus_sp_I24|Nah                            -          NDO_BiphenylFamily-RieskeFeOxygenases -           6.1e-189  619.9   0.0  8.2e-189  619.5   0.0   1.0   1   0   0   1   1   1   1 -
+ACV96857|Gordonia_sp_CC-NAPH129-6|Nah                      -          NDO_BiphenylFamily-RieskeFeOxygenases -           3.3e-188  617.5   0.0  4.4e-188  617.1   0.0   1.0   1   0   0   1   1   1   1 -
+WP_017981165|Amycolatopsis_methanolica|Non                 -          NDO_BiphenylFamily-RieskeFeOxygenases -           9.8e-187  612.6   0.0  1.3e-186  612.2   0.0   1.0   1   0   0   1   1   1   1 -
+ABH01029|Rhodococcus_opacus_R7|Nah                         -          NDO_BiphenylFamily-RieskeFeOxygenases -           6.2e-185  606.7   0.0    8e-185  606.3   0.0   1.0   1   0   0   1   1   1   1 -
+YP_004243228|Arthrobacter_phenanthrenivorans_Sphe3|Non     -          NDO_BiphenylFamily-RieskeFeOxygenases -           8.4e-185  606.3   0.0  1.1e-184  605.9   0.0   1.0   1   0   0   1   1   1   1 -
+YP_951339|Mycobacterium_vanbaalenii_PYR-1|Paa              -          NDO_BiphenylFamily-RieskeFeOxygenases -           1.3e-164  539.7   0.0  1.7e-164  539.4   0.0   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      NDO.hmm
+# Target file:     NDO.fasta
+# Option settings: hmmsearch --tblout NDO.tbl NDO.hmm NDO.fasta 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Thu Jun 27 21:03:17 2024
+# [ok]

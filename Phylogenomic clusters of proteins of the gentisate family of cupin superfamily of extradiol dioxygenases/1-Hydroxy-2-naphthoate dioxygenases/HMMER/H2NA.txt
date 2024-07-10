@@ -1,0 +1,31 @@
+#                                                                                                   --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                           accession  query name            accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                                   ------------------- ----------  -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+YP_001069889|Mycobacterium_sp_JLS|Non                   -          H2NA_CupinSuperFamily -           3.3e-183  597.9   0.3  3.7e-183  597.8   0.3   1.0   1   0   0   1   1   1   1 -
+AAT51741|Mycobacterium_vanbaalenii_PYR-1|Hna            -          H2NA_CupinSuperFamily -           3.8e-183  597.7   0.3  4.3e-183  597.6   0.3   1.0   1   0   0   1   1   1   1 -
+YP_001131867|Mycobacterium_gilvum_PYR-GCK|Non           -          H2NA_CupinSuperFamily -           4.6e-183  597.4   0.3  5.1e-183  597.3   0.3   1.0   1   0   0   1   1   1   1 -
+YP_004074710|Mycobacterium_gilvum_Spyr1|Non             -          H2NA_CupinSuperFamily -           2.2e-182  595.2   0.3  2.4e-182  595.1   0.3   1.0   1   0   0   1   1   1   1 -
+YP_937651|Mycobacterium_sp_KMS|Non                      -          H2NA_CupinSuperFamily -           3.7e-182  594.5   0.3  4.1e-182  594.3   0.3   1.0   1   0   0   1   1   1   1 -
+YP_005000896|Mycobacterium_rhodesiae_NBB3|Non           -          H2NA_CupinSuperFamily -           4.9e-181  590.8   0.5  5.5e-181  590.6   0.5   1.0   1   0   0   1   1   1   1 -
+BAA31235|Nocardioides_sp_KP7|Hna                        -          H2NA_CupinSuperFamily -             4e-178  581.2   0.0  4.6e-178  581.0   0.0   1.0   1   0   0   1   1   1   1 -
+BAA23262|Nocardioides_sp|Hna                            -          H2NA_CupinSuperFamily -             2e-177  578.9   0.0  2.3e-177  578.7   0.0   1.0   1   0   0   1   1   1   1 -
+CAP64294|Arthrobacter_phenanthrenovorans|Hna            -          H2NA_CupinSuperFamily -           4.6e-176  574.4   0.0  5.3e-176  574.2   0.0   1.0   1   0   0   1   1   1   1 -
+CAP64293|Arthrobacter_phenanthrenovorans|Hna            -          H2NA_CupinSuperFamily -           2.6e-175  572.0   0.0  2.9e-175  571.8   0.0   1.0   1   0   0   1   1   1   1 -
+YP_001072467|Mycobacterium_sp_JLS|Non                   -          H2NA_CupinSuperFamily -           3.1e-171  558.5   0.6  3.6e-171  558.3   0.6   1.0   1   0   0   1   1   1   1 -
+ZP_05225106|Mycobacterium_intracellulare_ATCC_13950|Non -          H2NA_CupinSuperFamily -           1.1e-169  553.4   0.5  1.2e-169  553.3   0.5   1.0   1   0   0   1   1   1   1 -
+YP_004487134|Delftia_sp_Cs1-4|Non       		-          H2NA_CupinSuperFamily -           3.9e-148  481.5   0.1  4.5e-148  481.3   0.1   1.0   1   0   0   1   1   1   1 -
+ZP_06845994|Burkholderia_sp_Ch1-1|Non  			-          H2NA_CupinSuperFamily -             8e-148  480.5   0.1    9e-148  480.3   0.1   1.0   1   0   0   1   1   1   1 -
+BAA76328|Alcaligenes_faecalis|Hna       		-          H2NA_CupinSuperFamily -           1.2e-147  480.0   0.1  1.3e-147  479.8   0.1   1.0   1   0   0   1   1   1   1 -
+WP_020656210|Massilia_niastensis|Non    		-          H2NA_CupinSuperFamily -           6.6e-143  464.3   0.2  7.3e-143  464.2   0.2   1.0   1   0   0   1   1   1   1 -
+YP_785145|Bordetella_avium_197N|Non     		-          H2NA_CupinSuperFamily -             4e-141  458.5   0.7  4.4e-141  458.3   0.7   1.0   1   0   0   1   1   1   1 -
+WP_019719297|Ralstonia_solanacearum|Non 		-          H2NA_CupinSuperFamily -           3.9e-136  442.0   0.4  4.7e-136  441.8   0.4   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      H2NA.hmm
+# Target file:     1-Hydroxy-2-naphthoate dioxygenases of Actinobacteria.fasta
+# Option settings: hmmsearch --tblout H2NA.txt H2NA.hmm 1-Hydroxy-2-naphthoate dioxygenases of Actinobacteria.fasta 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Mon Jun 24 16:46:19 2024
+# [ok]

@@ -1,0 +1,77 @@
+#                                                                                                                                      --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                                         accession  query name                                 accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                                                 ------------------- ----------                       -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+YP_005402439|Rahnella_aquatilis_HX2|Non                               -          GalA_ProtocatechuateFamily_LigBSuperfamily -           3.4e-236  775.7   0.0  3.9e-236  775.5   0.0   1.0   1   0   0   1   1   1   1 -
+YP_001478327|Serratia_proteamaculans_568|Non                          -          GalA_ProtocatechuateFamily_LigBSuperfamily -           7.8e-235  771.2   0.0  8.9e-235  771.0   0.0   1.0   1   0   0   1   1   1   1 -
+NP_744666|Pseudomonas_putida_KT2440|Gal                               -          GalA_ProtocatechuateFamily_LigBSuperfamily -           2.7e-234  769.4   0.0    3e-234  769.3   0.0   1.0   1   0   0   1   1   1   1 -
+WP_004263690|Thauera_sp_63|Non                                        -          GalA_ProtocatechuateFamily_LigBSuperfamily -           3.3e-234  769.2   0.0  3.7e-234  769.0   0.0   1.0   1   0   0   1   1   1   1 -
+YP_001748899|Pseudomonas_putida_W619|Non                              -          GalA_ProtocatechuateFamily_LigBSuperfamily -           4.1e-234  768.9   0.0  4.6e-234  768.7   0.0   1.0   1   0   0   1   1   1   1 -
+WP_010798211|Pseudomonas_sp_HPB0071|Non                               -          GalA_ProtocatechuateFamily_LigBSuperfamily -           1.6e-233  766.9   0.0  1.8e-233  766.7   0.0   1.0   1   0   0   1   1   1   1 -
+YP_003739931|Erwinia_billingiae_Eb661|Non                             -          GalA_ProtocatechuateFamily_LigBSuperfamily -           5.7e-233  765.1   0.0  6.4e-233  764.9   0.0   1.0   1   0   0   1   1   1   1 -
+YP_008113682|Pseudomonas_putida_NBRC_14164|Non                        -          GalA_ProtocatechuateFamily_LigBSuperfamily -           1.5e-232  763.7   0.0  1.7e-232  763.5   0.0   1.0   1   0   0   1   1   1   1 -
+YP_007344394|Serratia_marcescens_FGI94|Non                            -          GalA_ProtocatechuateFamily_LigBSuperfamily -           2.4e-232  763.0   0.0  2.7e-232  762.9   0.0   1.0   1   0   0   1   1   1   1 -
+YP_572384|Chromohalobacter_salexigens_DSM_3043|Non                    -          GalA_ProtocatechuateFamily_LigBSuperfamily -           4.8e-232  762.0   0.0  5.5e-232  761.8   0.0   1.0   1   0   0   1   1   1   1 -
+YP_585850|Ralstonia_metallidurans_CH34|Non                            -          GalA_ProtocatechuateFamily_LigBSuperfamily -           2.9e-231  759.4   0.0  3.4e-231  759.2   0.0   1.0   1   0   0   1   1   1   1 -
+CAZ90549|Enterobacter_helveticus|Non                                  -          GalA_ProtocatechuateFamily_LigBSuperfamily -           4.6e-231  758.8   0.0  5.1e-231  758.6   0.0   1.0   1   0   0   1   1   1   1 -
+WP_008373766|Pseudomonas_sp_M47T1|Non                                 -          GalA_ProtocatechuateFamily_LigBSuperfamily -           4.7e-231  758.8   0.0  5.3e-231  758.6   0.0   1.0   1   0   0   1   1   1   1 -
+WP_007863799|Polaromonas_sp_CF318|Non                                 -          GalA_ProtocatechuateFamily_LigBSuperfamily -           5.6e-231  758.5   0.0  6.3e-231  758.3   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_03542382|Comamonas_testosteroni_KF-1|Non                           -          GalA_ProtocatechuateFamily_LigBSuperfamily -           6.3e-231  758.3   0.0  7.2e-231  758.2   0.0   1.0   1   0   0   1   1   1   1 -
+YP_003531302|Erwinia_amylovora_CFBP1430|Non                           -          GalA_ProtocatechuateFamily_LigBSuperfamily -             7e-231  758.2   0.0  7.9e-231  758.0   0.0   1.0   1   0   0   1   1   1   1 -
+WP_008063411|Pseudomonas_sp_GM78|Non                                  -          GalA_ProtocatechuateFamily_LigBSuperfamily -           7.4e-231  758.1   0.0  8.4e-231  757.9   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_04772305|Asticcacaulis_excentricus_CB_48|Non                       -          GalA_ProtocatechuateFamily_LigBSuperfamily -           1.2e-230  757.4   0.0  1.4e-230  757.2   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_06460104|Pseudomonas_syringae_pv_aesculi_str_NCPPB3681|Non         -          GalA_ProtocatechuateFamily_LigBSuperfamily -             8e-230  754.7   0.0    9e-230  754.5   0.0   1.0   1   0   0   1   1   1   1 -
+YP_001862454|Burkholderia_phymatum_STM815|Non                         -          GalA_ProtocatechuateFamily_LigBSuperfamily -             2e-229  753.4   0.0  2.3e-229  753.2   0.0   1.0   1   0   0   1   1   1   1 -
+YP_003366663|Citrobacter_rodentium_ICC168|Non                         -          GalA_ProtocatechuateFamily_LigBSuperfamily -           5.1e-229  752.1   0.0  5.7e-229  751.9   0.0   1.0   1   0   0   1   1   1   1 -
+WP_018439495|Burkholderia_sp_JPY347|Non                               -          GalA_ProtocatechuateFamily_LigBSuperfamily -           1.3e-228  750.7   0.0  1.5e-228  750.6   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_00944630|Ralstonia_solanacearum_UW551|Non                          -          GalA_ProtocatechuateFamily_LigBSuperfamily -           1.9e-228  750.2   0.0  2.2e-228  750.0   0.0   1.0   1   0   0   1   1   1   1 -
+YP_002255421|Ralstonia_solanacearum_MolK2|Non                         -          GalA_ProtocatechuateFamily_LigBSuperfamily -           2.4e-228  749.8   0.0  2.8e-228  749.6   0.0   1.0   1   0   0   1   1   1   1 -
+YP_001337701|Klebsiella_pneumoniae_subsp_pneumoniae_MGH_78578|Non     -          GalA_ProtocatechuateFamily_LigBSuperfamily -           2.6e-228  749.7   0.0  2.9e-228  749.6   0.0   1.0   1   0   0   1   1   1   1 -
+YP_001585991|Burkholderia_multivorans_ATCC_17616|Non                  -          GalA_ProtocatechuateFamily_LigBSuperfamily -           3.9e-228  749.1   0.0  4.5e-228  749.0   0.0   1.0   1   0   0   1   1   1   1 -
+YP_002235927|Klebsiella_pneumoniae_342|Non                            -          GalA_ProtocatechuateFamily_LigBSuperfamily -           4.8e-228  748.8   0.0  5.4e-228  748.7   0.0   1.0   1   0   0   1   1   1   1 -
+YP_003750357|Ralstonia_solanacearum_PSI07|Non                         -          GalA_ProtocatechuateFamily_LigBSuperfamily -             1e-227  747.7   0.0  1.2e-227  747.5   0.0   1.0   1   0   0   1   1   1   1 -
+WP_018006568|Cupriavidus_taiwanensis|Non                              -          GalA_ProtocatechuateFamily_LigBSuperfamily -           1.4e-227  747.3   0.0  1.6e-227  747.1   0.0   1.0   1   0   0   1   1   1   1 -
+YP_002800264|Azotobacter_vinelandii_DJ|Non                            -          GalA_ProtocatechuateFamily_LigBSuperfamily -           2.1e-227  746.7   0.0  2.4e-227  746.6   0.0   1.0   1   0   0   1   1   1   1 -
+YP_367260|Burkholderia_sp_383|Non                                     -          GalA_ProtocatechuateFamily_LigBSuperfamily -           3.8e-227  745.9   0.0  4.4e-227  745.7   0.0   1.0   1   0   0   1   1   1   1 -
+YP_004348165|Burkholderia_gladioli_BSR3|Non                           -          GalA_ProtocatechuateFamily_LigBSuperfamily -           9.5e-227  744.6   0.0  1.1e-226  744.4   0.0   1.0   1   0   0   1   1   1   1 -
+YP_004847937|Pseudogulbenkiania_sp_NH8B|Non                           -          GalA_ProtocatechuateFamily_LigBSuperfamily -             6e-226  742.0   0.0  6.8e-226  741.8   0.0   1.0   1   0   0   1   1   1   1 -
+YP_006852417|Acidovorax_sp_KKS102|Non                                 -          GalA_ProtocatechuateFamily_LigBSuperfamily -             3e-225  739.6   0.0  3.5e-225  739.4   0.0   1.0   1   0   0   1   1   1   1 -
+WP_008833631|Sphingomonas_sp_LH128|Non                                -          GalA_ProtocatechuateFamily_LigBSuperfamily -             4e-225  739.2   0.0  4.5e-225  739.1   0.0   1.0   1   0   0   1   1   1   1 -
+WP_006299270|Hylemonella_gracilis|Non                                 -          GalA_ProtocatechuateFamily_LigBSuperfamily -           1.3e-224  737.6   0.0  1.5e-224  737.4   0.0   1.0   1   0   0   1   1   1   1 -
+WP_007512588|Frankia_sp_CN3|Non                                       -          GalA_ProtocatechuateFamily_LigBSuperfamily -           6.7e-224  735.2   0.0  7.7e-224  735.0   0.0   1.0   1   0   0   1   1   1   1 -
+WP_008618042|Magnetospirillum_sp_SO-1|Non                             -          GalA_ProtocatechuateFamily_LigBSuperfamily -           1.3e-223  734.3   0.0  1.5e-223  734.1   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_05876302|Vibrio_furnissii_CIP_102972|Non                           -          GalA_ProtocatechuateFamily_LigBSuperfamily -           6.3e-216  708.9   0.0  7.1e-216  708.8   0.0   1.0   1   0   0   1   1   1   1 -
+WP_008963747|Bradyrhizobium_sp_STM_3809|Non                           -          GalA_ProtocatechuateFamily_LigBSuperfamily -           4.7e-215  706.1   0.0  5.5e-215  705.8   0.0   1.0   1   0   0   1   1   1   1 -
+YP_001238264|Bradyrhizobium_sp_BTAi1|Non                              -          GalA_ProtocatechuateFamily_LigBSuperfamily -           2.7e-213  700.3   0.0  3.1e-213  700.1   0.0   1.0   1   0   0   1   1   1   1 -
+BAD80871|Sphingomonas_paucimobilis_SYK6|Gal                           -          GalA_ProtocatechuateFamily_LigBSuperfamily -           8.8e-209  685.4   0.0  9.8e-209  685.2   0.0   1.0   1   0   0   1   1   1   1 -
+WP_017385324|Acinetobacter_baylyi|Non                                 -          GalA_ProtocatechuateFamily_LigBSuperfamily -           5.1e-208  682.9   0.0    6e-208  682.7   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_01014964|Rhodobacterales_bacterium_HTCC2654|Non                    -          GalA_ProtocatechuateFamily_LigBSuperfamily -           7.9e-206  675.7   0.0  9.3e-206  675.4   0.0   1.0   1   0   0   1   1   1   1 -
+YP_004304861|Polymorphum_gilvum_SL003B-26A1|Non                       -          GalA_ProtocatechuateFamily_LigBSuperfamily -             6e-203  666.2   0.0  6.6e-203  666.0   0.0   1.0   1   0   0   1   1   1   1 -
+WP_007439241|Acetobacteraceae_bacterium_AT-5844|Non                   -          GalA_ProtocatechuateFamily_LigBSuperfamily -           9.8e-199  652.3   0.0  1.1e-198  652.2   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_06704385|Xanthomonas_fuscans_subsp_aurantifolii_str_ICPB_11122|Non -          GalA_ProtocatechuateFamily_LigBSuperfamily -           2.1e-164  539.2   0.0  2.5e-164  539.0   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_06729670|Xanthomonas_fuscans_subsp_aurantifolii_str_ICPB_10535|Non -          GalA_ProtocatechuateFamily_LigBSuperfamily -           2.6e-164  538.9   0.0    3e-164  538.7   0.0   1.0   1   0   0   1   1   1   1 -
+NP_636195|Xanthomonas_campestris_pv_campestris_str_ATCC_33913|Non     -          GalA_ProtocatechuateFamily_LigBSuperfamily -           2.6e-164  538.9   0.0  2.8e-164  538.8   0.0   1.0   1   0   0   1   1   1   1 -
+NP_641230|Xanthomonas_axonopodis_pv_citri_str_306|Non                 -          GalA_ProtocatechuateFamily_LigBSuperfamily -           6.6e-164  537.6   0.0  7.7e-164  537.3   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_02241946|Xanthomonas_oryzae_pv_oryzicola_BLS256|Non                -          GalA_ProtocatechuateFamily_LigBSuperfamily -           6.1e-163  534.4   0.0  7.1e-163  534.2   0.0   1.0   1   0   0   1   1   1   1 -
+WP_017525394|Pusillimonas_noertemannii|Non                            -          GalA_ProtocatechuateFamily_LigBSuperfamily -           6.5e-161  527.7   0.0  7.8e-161  527.4   0.0   1.0   1   0   0   1   1   1   1 -
+WP_010805591|Pandoraea_sp_SD6-2|Non                                   -          GalA_ProtocatechuateFamily_LigBSuperfamily -           8.1e-161  527.4   0.0    9e-161  527.2   0.0   1.0   1   0   0   1   1   1   1 -
+WP_000101038|Acinetobacter_baumannii|Non                              -          GalA_ProtocatechuateFamily_LigBSuperfamily -           5.9e-160  524.6   0.0  6.5e-160  524.4   0.0   1.0   1   0   0   1   1   1   1 -
+WP_007876674|Herbaspirillum_sp_CF444|Non                              -          GalA_ProtocatechuateFamily_LigBSuperfamily -           3.4e-159  522.1   0.0  3.7e-159  521.9   0.0   1.0   1   0   0   1   1   1   1 -
+YP_006965774|Sphingobium_fuliginis_ATCC_27551|Non                     -          GalA_ProtocatechuateFamily_LigBSuperfamily -           1.5e-158  519.9   0.0  1.8e-158  519.6   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_06464515|Burkholderia_sp_CCGE1003|Non                              -          GalA_ProtocatechuateFamily_LigBSuperfamily -           1.9e-158  519.6   0.0  2.1e-158  519.5   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_03263969|Burkholderia_sp_H160|Non                                  -          GalA_ProtocatechuateFamily_LigBSuperfamily -           2.1e-158  519.4   0.0  2.3e-158  519.3   0.0   1.0   1   0   0   1   1   1   1 -
+YP_003607841|Burkholderia_sp_CCGE1002|Non                             -          GalA_ProtocatechuateFamily_LigBSuperfamily -           3.9e-158  518.6   0.0  4.3e-158  518.4   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_02884490|Burkholderia_graminis_C4D1M|Non                           -          GalA_ProtocatechuateFamily_LigBSuperfamily -           4.7e-158  518.3   0.0  5.3e-158  518.1   0.0   1.0   1   0   0   1   1   1   1 -
+WP_020681586|Marinobacterium_rhizophilum|Non                          -          GalA_ProtocatechuateFamily_LigBSuperfamily -           7.1e-142  465.0   0.1  7.8e-142  464.9   0.1   1.0   1   0   0   1   1   1   1 -
+WP_019463199|Roseomonas_sp_B5|Non                                     -          GalA_ProtocatechuateFamily_LigBSuperfamily -           2.3e-139  456.7   0.0  2.6e-139  456.6   0.0   1.0   1   0   0   1   1   1   1 -
+YP_572385|Chromohalobacter_salexigens_DSM_3043|Non                    -          GalA_ProtocatechuateFamily_LigBSuperfamily -           1.8e-138  453.8   0.1    2e-138  453.6   0.1   1.0   1   0   0   1   1   1   1 -
+WP_010367447|Xanthomonas_campestris|Non                               -          GalA_ProtocatechuateFamily_LigBSuperfamily -           4.4e-116  380.0   0.0  4.8e-116  379.9   0.0   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      GalA.hmm
+# Target file:     GalA.fasta
+# Option settings: hmmsearch --tblout GalA.tbl GalA.hmm GalA.fasta 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Thu Jun 27 16:18:49 2024
+# [ok]

@@ -1,0 +1,25 @@
+#                                                                                                                                          --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                          accession  query name                                                    accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                                  ------------------- ----------                                          -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+YP_002801323|Azotobacter_vinelandii_DJ|Non             -          EXDO_PhnCTransformation_ProtocatechuateFamily_LigBSuperfamily -           6.1e-146  474.4   0.1  6.9e-146  474.3   0.1   1.0   1   0   0   1   1   1   1 -
+WP_017847306|Pseudomonas_veronii|Non                   -          EXDO_PhnCTransformation_ProtocatechuateFamily_LigBSuperfamily -           8.1e-146  474.0   0.1  9.3e-146  473.8   0.1   1.0   1   0   0   1   1   1   1 -
+AFH77969|bacterium_enrichment_culture_clone_pahAd3|Non -          EXDO_PhnCTransformation_ProtocatechuateFamily_LigBSuperfamily -           4.9e-143  464.9   0.7  5.4e-143  464.8   0.7   1.0   1   0   0   1   1   1   1 -
+WP_007184425|Hydrocarboniphaga_effusa|Non              -          EXDO_PhnCTransformation_ProtocatechuateFamily_LigBSuperfamily -           3.5e-142  462.1   0.2  3.9e-142  461.9   0.2   1.0   1   0   0   1   1   1   1 -
+YP_006381768|Tistrella_mobilis_KA081020-065|Non        -          EXDO_PhnCTransformation_ProtocatechuateFamily_LigBSuperfamily -             1e-141  460.6   1.8  1.1e-141  460.4   1.8   1.0   1   0   0   1   1   1   1 -
+YP_004468881|Alteromonas_sp_SN2|Non                    -          EXDO_PhnCTransformation_ProtocatechuateFamily_LigBSuperfamily -           1.4e-140  456.9   1.9  1.5e-140  456.7   1.9   1.0   1   0   0   1   1   1   1 -
+WP_007014338|Novosphingobium_pentaromativorans|Non     -          EXDO_PhnCTransformation_ProtocatechuateFamily_LigBSuperfamily -           6.4e-139  451.4   0.2  7.3e-139  451.2   0.2   1.0   1   0   0   1   1   1   1 -
+AAD09870|Burkholderia_sp_RP007|PhenC                   -          EXDO_PhnCTransformation_ProtocatechuateFamily_LigBSuperfamily -           1.5e-138  450.2   2.8  1.7e-138  450.0   2.8   1.0   1   0   0   1   1   1   1 -
+WP_019966183|Pannonibacter_phragmitetus|Non            -          EXDO_PhnCTransformation_ProtocatechuateFamily_LigBSuperfamily -           1.1e-136  444.1   2.2  1.2e-136  444.0   2.2   1.0   1   0   0   1   1   1   1 -
+YP_286448|Dechloromonas_aromatica_RCB|Non              -          EXDO_PhnCTransformation_ProtocatechuateFamily_LigBSuperfamily -           4.6e-135  438.8   1.8  5.2e-135  438.6   1.8   1.0   1   0   0   1   1   1   1 -
+WP_007014358|Novosphingobium_pentaromativorans|Non     -          EXDO_PhnCTransformation_ProtocatechuateFamily_LigBSuperfamily -           6.9e-133  431.6   0.4  7.7e-133  431.5   0.4   1.0   1   0   0   1   1   1   1 -
+WP_019436629|Pseudomonas_putida|Non                    -          EXDO_PhnCTransformation_ProtocatechuateFamily_LigBSuperfamily -           2.1e-126  410.4   0.0  2.3e-126  410.2   0.0   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      EXDO_PhnCTransformation.hmm
+# Target file:     EXDO_PhnCTransformation.fasta
+# Option settings: hmmsearch --tblout EXDO_PhnCTransformation.tbl EXDO_PhnCTransformation.hmm EXDO_PhnCTransformation.fasta 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Thu Jun 27 15:52:17 2024
+# [ok]

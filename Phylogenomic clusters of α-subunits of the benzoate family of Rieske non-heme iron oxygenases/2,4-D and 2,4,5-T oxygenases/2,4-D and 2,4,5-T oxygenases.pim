@@ -1,0 +1,11 @@
+#
+#
+#  Percent Identity  Matrix - created by Clustal2.1 
+#
+#
+
+     1: YP_496954|Novosphingobium_aromat  100.00   43.69   46.35   43.45   42.89
+     2: AAB39767|Burkholderia_cepacia|24   43.69  100.00   58.31   56.59   55.23
+     3: ZP_06356964|Rhodopseudomonas_pal   46.35   58.31  100.00   59.40   58.35
+     4: BAH86807|Sphingomonas_sp_58-1|24   43.45   56.59   59.40  100.00   84.12
+     5: BAD15048|Bradyrhizobium_sp_RD5-C   42.89   55.23   58.35   84.12  100.00

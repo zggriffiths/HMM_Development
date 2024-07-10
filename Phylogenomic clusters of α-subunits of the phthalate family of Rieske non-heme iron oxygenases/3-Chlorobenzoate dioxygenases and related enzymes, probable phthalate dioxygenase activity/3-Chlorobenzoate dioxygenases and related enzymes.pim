@@ -1,0 +1,14 @@
+#
+#
+#  Percent Identity  Matrix - created by Clustal2.1 
+#
+#
+
+     1: YP_004833890|Sphingobium_sp_SYK-  100.00   44.71   44.93   44.94   47.59   43.71   43.95   45.20
+     2: Q44256|Comamonas_testosteroni|3C   44.71  100.00   46.26   44.29   48.60   47.06   49.18   51.06
+     3: EPZ52966|Alicyclobacillus_acidot   44.93   46.26  100.00   77.65   51.48   48.05   48.50   49.77
+     4: EPZ52963|Alicyclobacillus_acidot   44.94   44.29   77.65  100.00   50.23   47.42   49.77   51.06
+     5: WP_008973084|Bradyrhizobium_sp_S   47.59   48.60   51.48   50.23  100.00   57.89   60.78   62.12
+     6: YP_557507|Burkholderia_xenovoran   43.71   47.06   48.05   47.42   57.89  100.00   67.05   66.05
+     7: WP_017181781|Sphingobium_xenopha   43.95   49.18   48.50   49.77   60.78   67.05  100.00   75.06
+     8: YP_557510|Burkholderia_xenovoran   45.20   51.06   49.77   51.06   62.12   66.05   75.06  100.00

@@ -1,0 +1,30 @@
+#                                                                                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                     accession  query name                                               accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                             ------------------- ----------                                     -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+YP_921439|Nocardioides_sp_JS614|Non               -          Related_Bph-Rhodococcus_I.3EXDO_OxygenChelateSuperfamily -           8.5e-141  458.4   0.1  9.7e-141  458.3   0.1   1.0   1   0   0   1   1   1   1 -
+WP_017934535|Nocardioides_sp_Iso805N|Non          -          Related_Bph-Rhodococcus_I.3EXDO_OxygenChelateSuperfamily -           2.9e-139  453.4   0.0  3.2e-139  453.2   0.0   1.0   1   0   0   1   1   1   1 -
+BAA25614|Rhodococcus_erythropolis_TA421|Dhb       -          Related_Bph-Rhodococcus_I.3EXDO_OxygenChelateSuperfamily -           1.6e-137  447.7   0.0  1.9e-137  447.5   0.0   1.0   1   0   0   1   1   1   1 -
+WP_006895410|Gordonia_sihwensis|Non               -          Related_Bph-Rhodococcus_I.3EXDO_OxygenChelateSuperfamily -           2.3e-135  440.6   0.1  2.5e-135  440.5   0.1   1.0   1   0   0   1   1   1   1 -
+BAH89443|uncultured_bacterium|Non                 -          Related_Bph-Rhodococcus_I.3EXDO_OxygenChelateSuperfamily -           5.3e-135  439.4   0.2  5.9e-135  439.3   0.2   1.0   1   0   0   1   1   1   1 -
+YP_785126|Bordetella_avium_197N|Non               -          Related_Bph-Rhodococcus_I.3EXDO_OxygenChelateSuperfamily -           8.9e-134  435.4   0.0    1e-133  435.2   0.0   1.0   1   0   0   1   1   1   1 -
+YP_004100376|Intrasporangium_calvum_DSM_43043|Non -          Related_Bph-Rhodococcus_I.3EXDO_OxygenChelateSuperfamily -           5.2e-133  432.9   0.0  5.9e-133  432.7   0.0   1.0   1   0   0   1   1   1   1 -
+WP_020129757|Streptomyces_sp_303MFCol5_2|Non      -          Related_Bph-Rhodococcus_I.3EXDO_OxygenChelateSuperfamily -             6e-132  429.4   0.0  6.7e-132  429.2   0.0   1.0   1   0   0   1   1   1   1 -
+WP_006380048|Streptomyces_turgidiscabies|Non      -          Related_Bph-Rhodococcus_I.3EXDO_OxygenChelateSuperfamily -           2.3e-130  424.2   0.0  2.6e-130  424.0   0.0   1.0   1   0   0   1   1   1   1 -
+WP_019068097|Streptomyces_sp_R1-NS-10|Non         -          Related_Bph-Rhodococcus_I.3EXDO_OxygenChelateSuperfamily -           6.2e-129  419.5   0.0    7e-129  419.3   0.0   1.0   1   0   0   1   1   1   1 -
+BAC00792|Rhodococcus_sp_YK2|Dhb                   -          Related_Bph-Rhodococcus_I.3EXDO_OxygenChelateSuperfamily -           1.7e-128  418.1   0.0  1.9e-128  417.9   0.0   1.0   1   0   0   1   1   1   1 -
+WP_018522399|Streptomyces_sp_KhCrAH-244|Non       -          Related_Bph-Rhodococcus_I.3EXDO_OxygenChelateSuperfamily -           1.1e-124  405.6   0.0  1.2e-124  405.4   0.0   1.0   1   0   0   1   1   1   1 -
+WP_020105373|Nocardia_sp_348MFTsu5_1|Non          -          Related_Bph-Rhodococcus_I.3EXDO_OxygenChelateSuperfamily -           3.7e-122  397.2   0.0  4.2e-122  397.1   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_06831336|Rhodococcus_equi_ATCC_33707|Non       -          Related_Bph-Rhodococcus_I.3EXDO_OxygenChelateSuperfamily -           3.4e-120  390.8   0.0  3.8e-120  390.7   0.0   1.0   1   0   0   1   1   1   1 -
+WP_020500458|Sciscionella_marina|Non              -          Related_Bph-Rhodococcus_I.3EXDO_OxygenChelateSuperfamily -           1.3e-119  388.9   0.0  1.5e-119  388.7   0.0   1.0   1   0   0   1   1   1   1 -
+WP_020656206|Massilia_niastensis|Non              -          Related_Bph-Rhodococcus_I.3EXDO_OxygenChelateSuperfamily -           3.7e-119  387.4   0.8  4.1e-119  387.2   0.8   1.0   1   0   0   1   1   1   1 -
+BAD10896|Rhodococcus_rhodochrous_K37|Dhb          -          Related_Bph-Rhodococcus_I.3EXDO_OxygenChelateSuperfamily -           1.2e-113  369.3   0.2  1.4e-113  369.1   0.2   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      Related_Bph-Rhodococcus.hmm
+# Target file:     Related_Bph-Rhodococcus.fasta
+# Option settings: hmmsearch --tblout Related_Bph-Rhodococcus.tbl Related_Bph-Rhodococcus.hmm Related_Bph-Rhodococcus.fasta 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Wed Jun 26 21:29:04 2024
+# [ok]

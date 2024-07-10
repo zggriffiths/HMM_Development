@@ -1,0 +1,29 @@
+#                                                                                                                             --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                           accession  query name                                      accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                                   ------------------- ----------                            -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+NP_771562|Bradyrhizobium_japonicum_USDA_110|Non         -          Related_pob_PhthalateFamily-Rieske_FeOxygenases -           2.2e-210  688.4   0.2  2.6e-210  688.2   0.2   1.0   1   0   0   1   1   1   1 -
+WP_007856790|Acidovorax_sp_CF316|Non                    -          Related_pob_PhthalateFamily-Rieske_FeOxygenases -           7.2e-210  686.7   0.1  8.1e-210  686.5   0.1   1.0   1   0   0   1   1   1   1 -
+WP_009516770|Hydrogenophaga_sp_PBC|Non                  -          Related_pob_PhthalateFamily-Rieske_FeOxygenases -           8.1e-210  686.5   0.1  9.1e-210  686.3   0.1   1.0   1   0   0   1   1   1   1 -
+WP_020607840|Bradyrhizobium_japonicum|Non               -          Related_pob_PhthalateFamily-Rieske_FeOxygenases -           9.3e-210  686.3   0.2  1.1e-209  686.1   0.2   1.0   1   0   0   1   1   1   1 -
+WP_009519476|Hydrogenophaga_sp_PBC|Non                  -          Related_pob_PhthalateFamily-Rieske_FeOxygenases -           1.1e-205  672.9   0.7  1.3e-205  672.6   0.7   1.0   1   0   0   1   1   1   1 -
+ZP_01015495|Maritimibacter_alkaliphilus_HTCC2654|Non    -          Related_pob_PhthalateFamily-Rieske_FeOxygenases -           7.3e-205  670.2   0.1    8e-205  670.1   0.1   1.0   1   0   0   1   1   1   1 -
+ZP_01015498|Maritimibacter_alkaliphilus_HTCC2654|Non    -          Related_pob_PhthalateFamily-Rieske_FeOxygenases -           1.9e-201  659.0   0.4  2.1e-201  658.8   0.4   1.0   1   0   0   1   1   1   1 -
+WP_007665071|Caulobacter_sp_AP07|Non                    -          Related_pob_PhthalateFamily-Rieske_FeOxygenases -           4.4e-198  647.9   0.0  4.9e-198  647.7   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_05521028|Streptomyces_hygroscopicus_ATCC_53653|Non   -          Related_pob_PhthalateFamily-Rieske_FeOxygenases -           9.6e-198  646.7   0.4  1.2e-197  646.4   0.4   1.0   1   0   0   1   1   1   1 -
+YP_001264775|Sphingomonas_wittichii_RW1|Non             -          Related_pob_PhthalateFamily-Rieske_FeOxygenases -           1.4e-196  642.9   0.0  1.5e-196  642.8   0.0   1.0   1   0   0   1   1   1   1 -
+WP_010356453|Streptomyces_acidiscabies|Non              -          Related_pob_PhthalateFamily-Rieske_FeOxygenases -           1.9e-194  635.9   0.1  2.3e-194  635.6   0.1   1.0   1   0   0   1   1   1   1 -
+WP_019069280|Streptomyces_sp_R1-NS-10|Non               -          Related_pob_PhthalateFamily-Rieske_FeOxygenases -           4.1e-194  634.8   0.1    5e-194  634.5   0.1   1.0   1   0   0   1   1   1   1 -
+WP_019069296|Streptomyces_spR1-NS-10|Non                -          Related_pob_PhthalateFamily-Rieske_FeOxygenases -           2.8e-193  632.0   0.2  3.3e-193  631.8   0.2   1.0   1   0   0   1   1   1   1 -
+WP_007669977|Caulobacter_sp_AP07|Non                    -          Related_pob_PhthalateFamily-Rieske_FeOxygenases -           3.2e-193  631.9   0.0  3.6e-193  631.7   0.0   1.0   1   0   0   1   1   1   1 -
+Q52185|Pseudomonas_pseudoalcaligenes_POB310_plasmid|Pob -          Related_pob_PhthalateFamily-Rieske_FeOxygenases -             2e-192  629.2   0.1  2.3e-192  629.0   0.1   1.0   1   0   0   1   1   1   1 -
+WP_020114825|Streptomyces_bottropensis|Non              -          Related_pob_PhthalateFamily-Rieske_FeOxygenases -           3.9e-192  628.3   0.1  4.6e-192  628.0   0.1   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      Related_pob.hmm
+# Target file:     Related_pob.fasta
+# Option settings: hmmsearch --tblout Related_pob.tbl Related_pob.hmm Related_pob.fasta 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Thu Jun 27 22:39:33 2024
+# [ok]

@@ -1,0 +1,13 @@
+#
+#
+#  Percent Identity  Matrix - created by Clustal2.1 
+#
+#
+
+     1: YP_999321|Verminephrobacter_eise  100.00   79.00   39.86   44.90   42.13   39.86   39.38
+     2: YP_002895685|Burkholderia_pseudo   79.00  100.00   39.23   42.75   42.39   40.14   39.90
+     3: WP_009518931|Hydrogenophaga_sp_P   39.86   39.23  100.00   49.27   46.45   49.27   49.51
+     4: WP_017727645|Bacillus_sp_L1|Non    44.90   42.75   49.27  100.00   49.75   49.16   48.92
+     5: WP_020201658|Cupriavidus_sp_WS|N   42.13   42.39   46.45   49.75  100.00   75.25   75.00
+     6: ZP_06844439|Burkholderia_sp_Ch1-   39.86   40.14   49.27   49.16   75.25  100.00   98.58
+     7: YP_552991|Burkholderia_xenovoran   39.38   39.90   49.51   48.92   75.00   98.58  100.00

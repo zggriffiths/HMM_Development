@@ -1,0 +1,12 @@
+#
+#
+#  Percent Identity  Matrix - created by Clustal2.1 
+#
+#
+
+     1: AAD12738|Burkholderia_cepacia|Th  100.00   59.42   60.51   40.91   44.13   43.17
+     2: ZP_03540789|Comamonas_testostero   59.42  100.00   82.41   37.54   44.48   43.18
+     3: AAF89669|Burkholderia_cepacia|Th   60.51   82.41  100.00   39.74   44.27   43.95
+     4: CAO90352|Microcystis_aeruginosa_   40.91   37.54   39.74  100.00   46.93   47.57
+     5: YP_007658943|Pseudomonas_denitri   44.13   44.48   44.27   46.93  100.00   74.92
+     6: YP_006324279|Pseudomonas_fluores   43.17   43.18   43.95   47.57   74.92  100.00

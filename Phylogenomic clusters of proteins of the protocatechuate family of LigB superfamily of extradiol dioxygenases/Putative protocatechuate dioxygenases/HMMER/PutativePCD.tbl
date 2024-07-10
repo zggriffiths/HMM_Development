@@ -1,0 +1,52 @@
+#                                                                                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                           accession  query name                                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                                   ------------------- ----------                              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+YP_001792718|Leptothrix_cholodnii_SP-6|Non              -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -           2.6e-157  513.3   0.0    3e-157  513.1   0.0   1.0   1   0   0   1   1   1   1 -
+WP_009550663|Burkholderiales_bacterium_JOSHI_001|Non    -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -             3e-157  513.1   0.0  3.3e-157  513.0   0.0   1.0   1   0   0   1   1   1   1 -
+YP_934026|Azoarcus_sp_BH72|Non                          -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -           3.5e-156  509.6   0.0  3.9e-156  509.5   0.0   1.0   1   0   0   1   1   1   1 -
+YP_001238778|Bradyrhizobium_sp_BTAi1|Non                -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -           3.7e-156  509.5   0.1  4.2e-156  509.4   0.1   1.0   1   0   0   1   1   1   1 -
+WP_004259997|Thauera_sp_63|Non                          -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -             5e-156  509.1   0.0  5.5e-156  509.0   0.0   1.0   1   0   0   1   1   1   1 -
+YP_001204443|Bradyrhizobium_sp_ORS278|Non               -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -           1.6e-155  507.5   0.1  1.8e-155  507.3   0.0   1.0   1   0   0   1   1   1   1 -
+WP_006296240|Hylemonella_gracilis|Non                   -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -           2.6e-155  506.8   0.0  2.9e-155  506.6   0.0   1.0   1   0   0   1   1   1   1 -
+WP_010464378|Acidovorax_radicis|Non                     -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -           1.2e-154  504.6   0.0  1.3e-154  504.4   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_00208061|Magnetospirillum_magnetotacticum_MS-1|Non   -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -           2.7e-153  500.2   0.0  3.3e-153  499.9   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_01984563|Vibrio_harveyi_HY01|Non                     -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -           3.4e-152  496.5   0.0  3.8e-152  496.4   0.0   1.0   1   0   0   1   1   1   1 -
+YP_004986251|Azospirillum_brasilense_Sp245|Non          -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -             4e-152  496.3   0.0  4.5e-152  496.1   0.0   1.0   1   0   0   1   1   1   1 -
+YP_419621|Magnetospirillum_magneticum_AMB-1|Non         -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -           4.4e-152  496.2   0.0  4.9e-152  496.0   0.0   1.0   1   0   0   1   1   1   1 -
+WP_008613680|Magnetospirillum_sp_SO-1|Non               -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -           6.3e-152  495.7   0.0    7e-152  495.5   0.0   1.0   1   0   0   1   1   1   1 -
+YP_982956|Polaromonas_naphthalenivorans_CJ2|Non         -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -           1.6e-151  494.3   0.0  1.8e-151  494.2   0.0   1.0   1   0   0   1   1   1   1 -
+WP_019575095|Curvibacter_lanceolatus|Non                -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -           1.2e-150  491.5   0.0  1.3e-150  491.3   0.0   1.0   1   0   0   1   1   1   1 -
+YP_001561945|Delftia_acidovorans_SPH-1|Non              -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -           4.5e-150  489.6   0.0    5e-150  489.4   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_05876316|Vibrio_furnissii_CIP_102972|Non             -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -           4.7e-150  489.5   0.0  5.3e-150  489.3   0.0   1.0   1   0   0   1   1   1   1 -
+WP_016452070|Delftia_acidovorans|Non                    -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -           8.1e-150  488.7   0.0    9e-150  488.6   0.0   1.0   1   0   0   1   1   1   1 -
+YP_004836884|Sphingobium_sp_SYK-6|Non                   -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -           2.8e-149  487.0   0.0  3.2e-149  486.8   0.0   1.0   1   0   0   1   1   1   1 -
+YP_001342770|Marinomonas_sp_MWYL1|Non                   -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -           2.4e-148  483.9   0.1  2.6e-148  483.8   0.1   1.0   1   0   0   1   1   1   1 -
+YP_004480368|Marinomonas_posidonica_IVIA-Po-181|Non     -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -           3.5e-148  483.4   0.0    4e-148  483.2   0.0   1.0   1   0   0   1   1   1   1 -
+WP_020681608|Marinobacterium_rhizophilum|Non            -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -             4e-148  483.2   0.0  4.5e-148  483.0   0.0   1.0   1   0   0   1   1   1   1 -
+YP_001342752|Marinomonas_sp_MWYL1|Non                   -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -             1e-147  481.9   0.0  1.1e-147  481.7   0.0   1.0   1   0   0   1   1   1   1 -
+YP_004538829|Novosphingobium_sp_PP1Y|Non                -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -           1.6e-147  481.2   0.0  1.7e-147  481.1   0.0   1.0   1   0   0   1   1   1   1 -
+YP_521580|Rhodoferax_ferrireducens_T118|Non             -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -           6.5e-147  479.2   0.0  7.2e-147  479.1   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_01115419|Reinekea_sp_MED297|Non                      -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -           8.7e-147  478.8   0.0  9.8e-147  478.6   0.0   1.0   1   0   0   1   1   1   1 -
+YP_484682|Rhodopseudomonas_palustris_HaA2|Non           -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -           2.9e-146  477.1   0.0  3.2e-146  476.9   0.0   1.0   1   0   0   1   1   1   1 -
+YP_005025018|Vibrio_sp_EJY3|Non                         -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -           3.6e-146  476.8   0.0    4e-146  476.6   0.0   1.0   1   0   0   1   1   1   1 -
+WP_019530228|Dasania_marina|Non                         -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -             5e-146  476.3   0.9  5.7e-146  476.1   0.9   1.0   1   0   0   1   1   1   1 -
+WP_019621376|Amphritea_japonica|Non                     -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -           5.5e-146  476.1   0.2  6.2e-146  476.0   0.2   1.0   1   0   0   1   1   1   1 -
+YP_001990214|Rhodopseudomonas_palustris_TIE-1|Non       -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -           2.9e-145  473.8   0.0  3.2e-145  473.6   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_06358638|Rhodopseudomonas_palustris_DX-1|Non         -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -           4.4e-145  473.2   0.0    5e-145  473.0   0.0   1.0   1   0   0   1   1   1   1 -
+YP_718043|Sphingomonas_sp_KA1|Non                       -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -           2.7e-144  470.6   0.0    3e-144  470.5   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_01015960|Rhodobacterales_bacterium_HTCC2654|Non      -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -           8.2e-143  465.8   0.0  9.1e-143  465.6   0.0   1.0   1   0   0   1   1   1   1 -
+YP_496513|Novosphingobium_aromaticivorans_DSM_12444|Non -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -             1e-140  458.8   0.0  1.2e-140  458.7   0.0   1.0   1   0   0   1   1   1   1 -
+WP_010140558|Oceanicola_sp_S124|Non                     -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -           3.3e-137  447.4   0.0  3.7e-137  447.2   0.0   1.0   1   0   0   1   1   1   1 -
+WP_007755301|Rhizobium_sp_CF080|Non                     -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -           3.9e-136  443.8   0.0  4.4e-136  443.7   0.0   1.0   1   0   0   1   1   1   1 -
+WP_008593090|Nitratireductor_pacificus|Non              -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -           8.5e-133  432.9   0.0  9.4e-133  432.7   0.0   1.0   1   0   0   1   1   1   1 -
+YP_003060964|Hirschia_baltica_ATCC_49814|Non            -          PutativePCD_ProtocatechuateFamily_LigBSuperfamily -           2.3e-129  421.6   0.0  2.6e-129  421.5   0.0   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      PutativePCD.hmm
+# Target file:     PutativePCD.fasta
+# Option settings: hmmsearch --tblout PutativePCD.tbl PutativePCD.hmm PutativePCD.fasta 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Thu Jun 27 17:43:00 2024
+# [ok]

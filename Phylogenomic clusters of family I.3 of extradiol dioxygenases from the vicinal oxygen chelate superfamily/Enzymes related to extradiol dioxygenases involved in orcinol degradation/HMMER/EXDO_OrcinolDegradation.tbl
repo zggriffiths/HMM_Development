@@ -1,0 +1,50 @@
+#                                                                                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                     accession  query name                                               accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                             ------------------- ----------                                     -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+WP_018599566|Mycobacterium_sp_155|Non             -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           5.2e-186  608.4   0.2  5.9e-186  608.3   0.2   1.0   1   0   0   1   1   1   1 -
+WP_019970114|Mycobacterium_sp_141|Non             -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           1.5e-185  607.0   0.1  1.6e-185  606.8   0.1   1.0   1   0   0   1   1   1   1 -
+WP_003934413|Rhodococcus_ruber|Non                -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           4.9e-183  598.7   0.3  5.5e-183  598.5   0.3   1.0   1   0   0   1   1   1   1 -
+WP_018104858|Streptomyces_sp_LaPpAH-95|Non        -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           5.1e-183  598.6   0.0  5.7e-183  598.5   0.0   1.0   1   0   0   1   1   1   1 -
+WP_006932186|Rhodococcus_sp_EsD8|Non              -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           9.5e-183  597.7   0.1  1.1e-182  597.6   0.1   1.0   1   0   0   1   1   1   1 -
+WP_019071155|Streptomyces_sp_R1-NS-10|Non         -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           3.1e-182  596.0   0.0  3.5e-182  595.8   0.0   1.0   1   0   0   1   1   1   1 -
+WP_009296214|Streptomyces_ipomoeae|Non            -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           1.5e-181  593.8   0.0  1.8e-181  593.5   0.0   1.0   1   0   0   1   1   1   1 -
+WP_018844277|Streptomyces_sp_CNS335|Non           -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           1.9e-181  593.5   0.0  2.1e-181  593.3   0.0   1.0   1   0   0   1   1   1   1 -
+WP_018549626|Streptomyces_sp_LaPpAH-108|Non       -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           7.2e-181  591.6   0.0  8.3e-181  591.3   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_04747261|Mycobacterium_kansasii_ATCC_12478|Non -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           1.3e-180  590.7   0.0  1.4e-180  590.6   0.0   1.0   1   0   0   1   1   1   1 -
+WP_005203099|Gordonia_sputi|Non                   -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           4.2e-180  589.0   0.1  4.8e-180  588.8   0.1   1.0   1   0   0   1   1   1   1 -
+YP_007526720|Streptomyces_davawensis_JCM_4913|Non -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           6.8e-180  588.3   0.0  7.7e-180  588.2   0.0   1.0   1   0   0   1   1   1   1 -
+WP_009680777|Gordonia_neofelifaecis|Non           -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           1.2e-179  587.5   0.1  1.4e-179  587.3   0.1   1.0   1   0   0   1   1   1   1 -
+YP_004522387|Mycobacterium_sp_JDM601|Non          -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           2.1e-179  586.7   0.2  2.3e-179  586.6   0.2   1.0   1   0   0   1   1   1   1 -
+YP_881708|Mycobacterium_avium_104|Non             -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           7.3e-179  585.0   0.0  8.2e-179  584.8   0.0   1.0   1   0   0   1   1   1   1 -
+WP_005141507|Mycobacterium_rhodesiae|Non          -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           2.5e-178  583.2   0.0  2.8e-178  583.0   0.0   1.0   1   0   0   1   1   1   1 -
+WP_003091527|Amycolatopsis_vancoresmycina|Non     -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           2.7e-178  583.1   0.0  3.1e-178  582.9   0.0   1.0   1   0   0   1   1   1   1 -
+WP_018657936|Actinomadura_flavalba|Non            -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           8.7e-178  581.4   0.0    1e-177  581.2   0.0   1.0   1   0   0   1   1   1   1 -
+YP_001849807|Mycobacterium_marinum_M|Non          -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           1.2e-174  571.1   0.0  1.3e-174  570.9   0.0   1.0   1   0   0   1   1   1   1 -
+YP_008022997|Mycobacterium_abscessus_50594|Non    -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           1.6e-174  570.7   0.0  1.8e-174  570.5   0.0   1.0   1   0   0   1   1   1   1 -
+YP_951436|Mycobacterium_vanbaalenii_PYR-1|Non     -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           1.1e-172  564.6   0.0  1.2e-172  564.5   0.0   1.0   1   0   0   1   1   1   1 -
+WP_019047307|Nocardia_asteroides|Non              -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           3.3e-172  563.1   0.0  3.9e-172  562.8   0.0   1.0   1   0   0   1   1   1   1 -
+WP_020102311|Mycobacterium_sp_360MFTsu5_1|Non     -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           2.8e-171  560.0   0.1  3.1e-171  559.9   0.1   1.0   1   0   0   1   1   1   1 -
+WP_018158781|Smaragdicoccus_niigatensis|Non       -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           2.3e-169  553.7   0.2  2.5e-169  553.6   0.2   1.0   1   0   0   1   1   1   1 -
+WP_005183349|Gordonia_amarae|Non                  -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           6.7e-167  545.6   0.0  7.8e-167  545.4   0.0   1.0   1   0   0   1   1   1   1 -
+WP_005203575|Acinetobacter_sp_CIP_70_18|Non       -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           2.5e-163  533.9   0.2  2.8e-163  533.7   0.2   1.0   1   0   0   1   1   1   1 -
+WP_005313978|Acinetobacter_sp_ANC_3880|Non        -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           4.2e-163  533.1   0.0  4.8e-163  533.0   0.0   1.0   1   0   0   1   1   1   1 -
+WP_004807114|Acinetobacter_sp_CIP_56_2|Non        -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           5.7e-163  532.7   0.2  6.5e-163  532.5   0.2   1.0   1   0   0   1   1   1   1 -
+WP_004653446|Acinetobacter_sp_NIPH_809|Non        -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -             1e-162  531.9   0.1  1.1e-162  531.7   0.1   1.0   1   0   0   1   1   1   1 -
+WP_007955382|Pseudomonas_sp_GM25|Non              -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           1.9e-158  517.8   0.0  2.2e-158  517.6   0.0   1.0   1   0   0   1   1   1   1 -
+WP_007925369|Pseudomonas_sp_GM17|Non              -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           4.6e-158  516.6   0.0  5.1e-158  516.4   0.0   1.0   1   0   0   1   1   1   1 -
+YP_001859709|Burkholderia_phymatum_STM815|Non     -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           1.8e-157  514.7   0.0    2e-157  514.5   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_02463429|Burkholderia_thailandensis_MSMB43|Non -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -             4e-157  513.5   0.0  4.6e-157  513.3   0.0   1.0   1   0   0   1   1   1   1 -
+WP_010569154|Leptospira_broomii|Non               -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           2.9e-156  510.6   0.0  3.2e-156  510.5   0.0   1.0   1   0   0   1   1   1   1 -
+WP_016549749|Leptospira_fainei|Non                -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           4.2e-155  506.8   0.0  4.6e-155  506.7   0.0   1.0   1   0   0   1   1   1   1 -
+WP_018440917|Burkholderia_sp_JPY347|Non           -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           4.9e-153  500.1   0.0  5.4e-153  499.9   0.0   1.0   1   0   0   1   1   1   1 -
+AAQ10528|Pseudomonas_putida_ORC|Non               -          EXDO_OrcinolDegradation_I.3EXDO_OxygenChelateSuperfamily -           7.2e-151  492.9   0.1  8.4e-151  492.7   0.1   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      EXDO_OrcinolDegradation.hmm
+# Target file:     EXDO_OrcinolDegradation.fasta
+# Option settings: hmmsearch --tblout EXDO_OrcinolDegradation.tbl EXDO_OrcinolDegradation.hmm EXDO_OrcinolDegradation.fasta 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Wed Jun 26 20:40:36 2024
+# [ok]
