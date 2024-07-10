@@ -1,0 +1,64 @@
+#                                                                                                                    --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                       accession  query name                                 accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                               ------------------- ----------                       -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+AAX45786|Pseudomonas_putida_GJ31|Cbn                -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           7.7e-246  807.6   0.0  8.8e-246  807.4   0.0   1.0   1   0   0   1   1   1   1 -
+YP_001268196|Pseudomonas_putida_F1|Tod              -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           1.3e-245  806.9   0.0  1.5e-245  806.7   0.0   1.0   1   0   0   1   1   1   1 -
+CAD61140|Cupriavidus_oxalaticus_A5|Bph              -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           5.1e-244  801.6   0.4  5.8e-244  801.4   0.4   1.0   1   0   0   1   1   1   1 -
+Q07944|Pseudomonas_putida_ML2|Bzn                   -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           7.9e-244  801.0   0.0  9.1e-244  800.8   0.0   1.0   1   0   0   1   1   1   1 -
+CAA06970|Ralstonia_sp_JS705|Bph                     -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           3.4e-243  798.9   0.0    4e-243  798.7   0.0   1.0   1   0   0   1   1   1   1 -
+YP_973181|Polaromonas_naphthalenivorans_CJ2|Non     -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           3.8e-243  798.7   0.0  4.3e-243  798.5   0.0   1.0   1   0   0   1   1   1   1 -
+ABS81340|Pandoraea_pnomenusa_MCB032|Cbn             -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -             6e-243  798.1   0.0  6.8e-243  797.9   0.0   1.0   1   0   0   1   1   1   1 -
+YP_003358094|Burkholderia_cepacia_PIJB1|Bph         -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           2.1e-242  796.3   0.3  2.4e-242  796.1   0.3   1.0   1   0   0   1   1   1   1 -
+AFD18268|Alcanivorax_sp_HA03|Non                    -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           2.7e-242  795.9   0.1  3.1e-242  795.7   0.1   1.0   1   0   0   1   1   1   1 -
+ACF20634|Achromobacter_sp_BP3|Bph                   -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           3.8e-242  795.4   0.0  4.3e-242  795.2   0.0   1.0   1   0   0   1   1   1   1 -
+AAC43632|Pseudomonas_sp_P51|Tcb                     -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           6.9e-242  794.6   0.0  7.8e-242  794.4   0.0   1.0   1   0   0   1   1   1   1 -
+AAK14781|Pseudomonas_sp_Cam-1|Bph                   -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           7.3e-242  794.5   0.0  8.3e-242  794.3   0.0   1.0   1   0   0   1   1   1   1 -
+YP_707265|Rhodococcus_jostii_RHA1|Bph               -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           9.6e-242  794.1   0.0  1.2e-241  793.8   0.0   1.0   1   0   0   1   1   1   1 -
+Q52028|Pseudomonas_pseudoalcaligene_KF707|Bph       -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           1.8e-241  793.2   0.0    2e-241  793.0   0.0   1.0   1   0   0   1   1   1   1 -
+ABR26225|Pseudomonas_nitroreducens_J5-1|Tcb         -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           1.5e-240  790.1   0.0  1.7e-240  789.9   0.0   1.0   1   0   0   1   1   1   1 -
+NP_898768|Rhodococcus_erythropolis_BD2|Ipb          -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           1.8e-240  789.9   0.0  2.3e-240  789.6   0.0   1.0   1   0   0   1   1   1   1 -
+YP_001632349|Bordetella_petrii_DSM_12804|Tcb        -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           2.3e-240  789.6   0.0  2.6e-240  789.4   0.0   1.0   1   0   0   1   1   1   1 -
+Q46372|Comamonas_testosteroni_B-356|Bph             -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           5.4e-240  788.3   0.1  6.2e-240  788.1   0.1   1.0   1   0   0   1   1   1   1 -
+AAC46390|Burkholderia_sp_PS12|Tec                   -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           9.7e-240  787.5   0.0  1.1e-239  787.3   0.0   1.0   1   0   0   1   1   1   1 -
+1WQL|Pseudomonas_fluorescens_Ip01|Ipb               -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           1.2e-239  787.2   0.1  1.4e-239  787.0   0.1   1.0   1   0   0   1   1   1   1 -
+YP_556409|Burkholderia_xenovorans_LB400|Bph         -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           2.7e-239  786.1   0.0    3e-239  785.9   0.0   1.0   1   0   0   1   1   1   1 -
+AAB36666|Pseudomonas_sp_JR1|Ipb                     -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           1.5e-238  783.6   0.1  1.7e-238  783.4   0.1   1.0   1   0   0   1   1   1   1 -
+AAD12763|Pseudomonas_fluorescens_CA4|Ipb            -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           3.6e-238  782.3   0.0  4.1e-238  782.1   0.0   1.0   1   0   0   1   1   1   1 -
+AAC03436|Pseudomonas_putida_RE204|Ipb               -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           3.7e-238  782.3   0.0  4.2e-238  782.1   0.0   1.0   1   0   0   1   1   1   1 -
+ACF16028|Bordetella_sp_IITR02|Tcb                   -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           8.6e-238  781.1   0.0  9.8e-238  780.9   0.0   1.0   1   0   0   1   1   1   1 -
+BAK52803|Janibacter_sp_TYM3221|Non                  -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           1.4e-237  780.3   0.0  1.8e-237  780.0   0.0   1.0   1   0   0   1   1   1   1 -
+CAB99196|Pseudomonas_putida_01G3|Ipb                -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           4.2e-237  778.8   0.0  4.9e-237  778.6   0.0   1.0   1   0   0   1   1   1   1 -
+BAC01052|Comamonas_testosteroni_TK102|Bph           -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           4.6e-237  778.7   0.1  5.2e-237  778.5   0.1   1.0   1   0   0   1   1   1   1 -
+BAH80171|Lysobacter_sp_OC7|Bph                      -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           5.3e-237  778.5   0.1  6.4e-237  778.2   0.1   1.0   1   0   0   1   1   1   1 -
+Q52438|Pseudomonas_sp_KKS102|Bph                    -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           1.2e-235  774.0   0.2  1.4e-235  773.8   0.2   1.0   1   0   0   1   1   1   1 -
+CAA56346|Rhodococcus_globerulus_P6|Bph              -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           4.5e-234  768.8   0.0  5.6e-234  768.5   0.0   1.0   1   0   0   1   1   1   1 -
+AAB07750|Rhodococcus_sp_M5|Bph                      -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           6.5e-233  765.0   0.0  8.1e-233  764.7   0.0   1.0   1   0   0   1   1   1   1 -
+CAA08985|Burkholderia_sp_JB1|Bph                    -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           1.1e-232  764.3   0.1  1.2e-232  764.1   0.1   1.0   1   0   0   1   1   1   1 -
+ABX56038|Dyella_ginsengisoli|Bph                    -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           4.9e-229  752.2   0.0  5.6e-229  752.0   0.0   1.0   1   0   0   1   1   1   1 -
+WP_016390587|Cycloclasticus_sp_PY97M|Non            -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           1.9e-227  747.0   0.0  2.1e-227  746.8   0.0   1.0   1   0   0   1   1   1   1 -
+AAC44161|Cycloclasticus_oligotrophus_RB1|Bzn        -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           1.9e-226  743.7   0.1  2.1e-226  743.6   0.1   1.0   1   0   0   1   1   1   1 -
+BAK61713|Rhizobium_sp_TSY03b|Non                    -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           1.3e-220  724.4   0.1  1.5e-220  724.2   0.1   1.0   1   0   0   1   1   1   1 -
+AAA25735|Pseudomonas_putida|Bzn                     -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           4.2e-218  716.2   0.0  4.8e-218  716.0   0.0   1.0   1   0   0   1   1   1   1 -
+YP_004305818|Polymorphum_gilvum_SL003B-26A1|Non     -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -             1e-217  714.9   0.1  1.2e-217  714.7   0.1   1.0   1   0   0   1   1   1   1 -
+WP_009505788|Citreicella_sp_357|Non                 -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -             2e-215  707.4   0.8  2.3e-215  707.2   0.8   1.0   1   0   0   1   1   1   1 -
+BAC98956|Xanthobacter_polyaromaticivorans_127W|DbtA -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           1.1e-208  685.1   0.0  1.3e-208  684.8   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_02891600|Burkholderia_ambifaria_IOP40-10|Non     -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           6.7e-185  606.7   0.0  8.5e-185  606.4   0.0   1.0   1   0   0   1   1   1   1 -
+YP_006838592|Cycloclasticus_sp_P1|Non               -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -             4e-184  604.2   0.7  4.8e-184  603.9   0.7   1.0   1   0   0   1   1   1   1 -
+BAC65448|Sphingomonas_sp_P2|Bph                     -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           3.7e-183  601.0   0.0  4.5e-183  600.7   0.0   1.0   1   0   0   1   1   1   1 -
+NP_049184|Novosphingobium_aromaticivorans|Non       -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           8.4e-181  593.2   0.0    1e-180  592.9   0.0   1.0   1   0   0   1   1   1   1 -
+ABM79809|Sphingobium_yanoikuyae|Bph                 -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           1.2e-179  589.5   0.0  1.4e-179  589.2   0.0   1.0   1   0   0   1   1   1   1 -
+BAC79226|Bacillus_sp_JF8|Bph                        -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           1.4e-166  546.4   0.0  1.6e-166  546.1   0.0   1.0   1   0   0   1   1   1   1 -
+ABD65916|Rhodococcus_sp_R04|Bph                     -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           5.8e-165  541.0   0.0  6.6e-165  540.8   0.0   1.0   1   0   0   1   1   1   1 -
+BAF48503|Rhodococcus_erythropolis_TA431|Bph         -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -           2.2e-164  539.1   0.0  2.5e-164  538.9   0.0   1.0   1   0   0   1   1   1   1 -
+YP_008372949|Cycloclasticus_zancles_7-ME|Non        -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -             1e-162  533.6   0.0  1.3e-162  533.3   0.0   1.0   1   0   0   1   1   1   1 -
+YP_003590684|Bacillus_tusciae_DSM_2912|Non          -          bphA-BDO_BiphenylFamily-RieskeFeOxygenases -             1e-158  520.4   0.0  1.2e-158  520.2   0.0   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      bphA-BDO.hmm
+# Target file:     bphA-BDO.fasta
+# Option settings: hmmsearch --tblout bphA-BDO.tbl bphA-BDO.hmm bphA-BDO.fasta 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Thu Jun 27 20:17:28 2024
+# [ok]

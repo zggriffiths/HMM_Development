@@ -1,0 +1,31 @@
+#                                                                                                                                    --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                 accession  query name                                                       accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                         ------------------- ----------                                             -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+CAD38643|Mycobacterium_sp_6PY1|Paa            -          PAHDioxygenases_Actinobacteria_BiphenylFamily-RieskeFeOxygenases -           2.9e-274  899.7   0.0  3.2e-274  899.5   0.0   1.0   1   0   0   1   1   1   1 -
+ABD97978|Mycobacterium_sp_CH-1|Non            -          PAHDioxygenases_Actinobacteria_BiphenylFamily-RieskeFeOxygenases -           3.8e-274  899.3   0.0  4.3e-274  899.1   0.0   1.0   1   0   0   1   1   1   1 -
+YP_951396|Mycobacterium_vanbaalenii_PYR-1|Paa -          PAHDioxygenases_Actinobacteria_BiphenylFamily-RieskeFeOxygenases -           3.8e-274  899.3   0.0  4.3e-274  899.1   0.0   1.0   1   0   0   1   1   1   1 -
+YP_638855|Mycobacterium_sp_MCS|Non            -          PAHDioxygenases_Actinobacteria_BiphenylFamily-RieskeFeOxygenases -           4.9e-274  898.9   0.0  5.6e-274  898.8   0.0   1.0   1   0   0   1   1   1   1 -
+AAZ78216|Mycobacterium_sp_CH-2|Non            -          PAHDioxygenases_Actinobacteria_BiphenylFamily-RieskeFeOxygenases -           8.6e-274  898.1   0.0  9.7e-274  898.0   0.0   1.0   1   0   0   1   1   1   1 -
+AAQ95208|Mycobacterium_sp_KMS|Non             -          PAHDioxygenases_Actinobacteria_BiphenylFamily-RieskeFeOxygenases -           4.7e-272  892.4   0.0  5.3e-272  892.2   0.0   1.0   1   0   0   1   1   1   1 -
+YP_638808|Mycobacterium_sp_MCS|Non            -          PAHDioxygenases_Actinobacteria_BiphenylFamily-RieskeFeOxygenases -           2.8e-271  889.9   0.0  3.1e-271  889.7   0.0   1.0   1   0   0   1   1   1   1 -
+BAD20297|Mycobacterium_sp_MHP-1|Non           -          PAHDioxygenases_Actinobacteria_BiphenylFamily-RieskeFeOxygenases -             2e-270  887.1   0.0  2.2e-270  886.9   0.0   1.0   1   0   0   1   1   1   1 -
+AAQ95206|Mycobacterium_sp_JLS|Non             -          PAHDioxygenases_Actinobacteria_BiphenylFamily-RieskeFeOxygenases -           5.1e-270  885.7   0.0  5.7e-270  885.5   0.0   1.0   1   0   0   1   1   1   1 -
+CAD38647|Mycobacterium_sp_6PY1|Paa            -          PAHDioxygenases_Actinobacteria_BiphenylFamily-RieskeFeOxygenases -           6.5e-270  885.4   0.0  7.4e-270  885.2   0.0   1.0   1   0   0   1   1   1   1 -
+AAQ12029|Mycobacterium_sp_S65|Non             -          PAHDioxygenases_Actinobacteria_BiphenylFamily-RieskeFeOxygenases -           4.3e-268  879.3   0.0  5.1e-268  879.1   0.0   1.0   1   0   0   1   1   1   1 -
+BAA94708|Nocardioides_sp_KP7|Paa              -          PAHDioxygenases_Actinobacteria_BiphenylFamily-RieskeFeOxygenases -           2.3e-265  870.4   0.1  2.7e-265  870.1   0.1   1.0   1   0   0   1   1   1   1 -
+YP_001131838|Mycobacterium_gilvum_PYR-GCK|Non -          PAHDioxygenases_Actinobacteria_BiphenylFamily-RieskeFeOxygenases -           4.9e-265  869.3   0.0  5.5e-265  869.1   0.0   1.0   1   0   0   1   1   1   1 -
+AAZ38356|Terrabacter_sp_HH4|Non               -          PAHDioxygenases_Actinobacteria_BiphenylFamily-RieskeFeOxygenases -           4.9e-265  869.3   0.0  5.8e-265  869.1   0.0   1.0   1   0   0   1   1   1   1 -
+YP_638832|Mycobacterium_sp_MCS|Non            -          PAHDioxygenases_Actinobacteria_BiphenylFamily-RieskeFeOxygenases -           6.7e-265  868.8   0.0  7.5e-265  868.7   0.0   1.0   1   0   0   1   1   1   1 -
+AAY85176|Mycobacterium_vanbaalenii_PYR-1|Paa  -          PAHDioxygenases_Actinobacteria_BiphenylFamily-RieskeFeOxygenases -           9.2e-265  868.4   0.0    1e-264  868.2   0.0   1.0   1   0   0   1   1   1   1 -
+YP_642614|Mycobacterium_sp_MCS|Non            -          PAHDioxygenases_Actinobacteria_BiphenylFamily-RieskeFeOxygenases -           9.7e-265  868.3   0.0  1.1e-264  868.2   0.0   1.0   1   0   0   1   1   1   1 -
+AAQ95210|Mycobacterium_sp_MCS|Non             -          PAHDioxygenases_Actinobacteria_BiphenylFamily-RieskeFeOxygenases -           4.5e-263  862.8   0.0  5.1e-263  862.6   0.0   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      PAHDioxygenases_Actinobacteria.hmm
+# Target file:     PAHDioxygenases_Actinobacteria.fasta
+# Option settings: hmmsearch --tblout PAHDioxygenases_Actinobacteria.tbl PAHDioxygenases_Actinobacteria.hmm PAHDioxygenases_Actinobacteria.fasta 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Thu Jun 27 21:11:02 2024
+# [ok]

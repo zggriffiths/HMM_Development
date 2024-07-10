@@ -1,0 +1,21 @@
+#                                                                                                                           --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                 accession  query name                                              accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                         ------------------- ----------                                    -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+ABD97977|Mycobacterium_sp_CH-1|Dhp            -          EXDO_DihydroxylatedPAH_I.3EXDO_OxygenChelateSuperfamily -           9.3e-205  667.3   1.2    1e-204  667.1   1.2   1.0   1   0   0   1   1   1   1 -
+YP_001131818|Mycobacterium_gilvum_PYR-GCK|Non -          EXDO_DihydroxylatedPAH_I.3EXDO_OxygenChelateSuperfamily -           2.3e-204  666.0   0.6  2.6e-204  665.8   0.6   1.0   1   0   0   1   1   1   1 -
+ABK27719|Mycobacterium_sp_SNP11|Dhp           -          EXDO_DihydroxylatedPAH_I.3EXDO_OxygenChelateSuperfamily -           7.3e-204  664.3   1.0  8.1e-204  664.2   1.0   1.0   1   0   0   1   1   1   1 -
+YP_001131865|Mycobacterium_gilvum_PYR-GCK|Non -          EXDO_DihydroxylatedPAH_I.3EXDO_OxygenChelateSuperfamily -           1.2e-203  663.7   0.8  1.3e-203  663.5   0.8   1.0   1   0   0   1   1   1   1 -
+YP_005000950|Mycobacterium_rhodesiae_NBB3|Non -          EXDO_DihydroxylatedPAH_I.3EXDO_OxygenChelateSuperfamily -           1.3e-203  663.5   0.7  1.5e-203  663.3   0.7   1.0   1   0   0   1   1   1   1 -
+YP_935614|Mycobacterium_sp_KMS|Non            -          EXDO_DihydroxylatedPAH_I.3EXDO_OxygenChelateSuperfamily -           1.4e-203  663.4   1.0  1.6e-203  663.3   1.0   1.0   1   0   0   1   1   1   1 -
+BAA94706|Nocardioides_sp_KP7|Dhp              -          EXDO_DihydroxylatedPAH_I.3EXDO_OxygenChelateSuperfamily -           2.8e-194  632.9   0.2  3.2e-194  632.7   0.2   1.0   1   0   0   1   1   1   1 -
+BAF48489|Rhodococcus_rhodochrous_K37|Dhp      -          EXDO_DihydroxylatedPAH_I.3EXDO_OxygenChelateSuperfamily -             2e-178  580.8   0.2  2.3e-178  580.7   0.2   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      EXDO_DihydroxylatedPAH.hmm
+# Target file:     EXDO_DihydroxylatedPAH.fasta
+# Option settings: hmmsearch --tblout EXDO_DihydroxylatedPAH.tbl EXDO_DihydroxylatedPAH.hmm EXDO_DihydroxylatedPAH.fasta 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Wed Jun 26 21:01:12 2024
+# [ok]

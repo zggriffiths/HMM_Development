@@ -1,0 +1,52 @@
+#                                                                                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                             accession  query name                                      accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                                     ------------------- ----------                            -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+YP_004333721|Pseudonocardia_dioxanivorans|Non             -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -           2.1e-175  575.0   0.0  2.5e-175  574.8   0.0   1.0   1   0   0   1   1   1   1 -
+YP_004331506|Pseudonocardia_dioxanivorans_CB1190|Non      -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -           4.5e-171  560.7   0.0  5.6e-171  560.5   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_01015537|Maritimibacter_alkaliphilus_HTCC2654|Non      -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -           3.8e-170  557.7   0.0  4.6e-170  557.4   0.0   1.0   1   0   0   1   1   1   1 -
+YP_552969|Burkholderia_xenovorans_LB400|Non               -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -           1.7e-168  552.2   0.0  2.1e-168  552.0   0.0   1.0   1   0   0   1   1   1   1 -
+YP_557502|Burkholderia_xenovorans_LB400|Non               -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -           3.8e-168  551.1   0.0  4.6e-168  550.8   0.0   1.0   1   0   0   1   1   1   1 -
+YP_587676|Cupriavidus_metallidurans_CH34|Non              -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -           3.8e-167  547.8   0.0  4.4e-167  547.6   0.0   1.0   1   0   0   1   1   1   1 -
+YP_004333941|Pseudonocardia_dioxanivorans_CB1190|Non      -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -             7e-167  546.9   0.0  8.4e-167  546.7   0.0   1.0   1   0   0   1   1   1   1 -
+YP_007511744|Bradyrhizobium_oligotrophicum_S58|Non        -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -           1.1e-165  543.0   0.0  1.3e-165  542.8   0.0   1.0   1   0   0   1   1   1   1 -
+YP_299968|Ralstonia_eutropha_JMP134|Non                   -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -           3.1e-165  541.5   0.0  3.5e-165  541.3   0.0   1.0   1   0   0   1   1   1   1 -
+YP_003608170|Burkholderia_sp_CCGE1002|Non                 -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -             1e-164  539.8   0.0  1.1e-164  539.7   0.0   1.0   1   0   0   1   1   1   1 -
+WP_017953881|SAR202_cluster_bacterium_SCGC_AAA240-N13|Non -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -           1.3e-163  536.2   0.0  1.5e-163  536.0   0.0   1.0   1   0   0   1   1   1   1 -
+WP_018706724|Bacillus_fordii|Non                          -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -           4.8e-163  534.3   0.1  5.4e-163  534.1   0.1   1.0   1   0   0   1   1   1   1 -
+WP_017727527|Bacillus_sp_L1|Non                           -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -           2.4e-162  532.0   0.0  2.8e-162  531.8   0.0   1.0   1   0   0   1   1   1   1 -
+WP_020617219|Paenibacillus_daejeonensis|Non               -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -             1e-161  529.9   0.0  1.2e-161  529.7   0.0   1.0   1   0   0   1   1   1   1 -
+WP_004432420|Bacillus_azotoformans|Non                    -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -             2e-161  529.0   0.0  2.3e-161  528.8   0.0   1.0   1   0   0   1   1   1   1 -
+YP_004835044|Sphingobium_sp_SYK-6|Non                     -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -           4.2e-161  527.9   0.0  4.7e-161  527.7   0.0   1.0   1   0   0   1   1   1   1 -
+NP_767578|Bradyrhizobium_japonicum_USDA_110|Non           -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -           2.5e-159  522.0   0.0    3e-159  521.8   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_03542656|Comamonas_testosteroni_KF-1|Non               -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -           2.4e-158  518.8   0.0  2.9e-158  518.6   0.0   1.0   1   0   0   1   1   1   1 -
+YP_001893469|Burkholderia_phytofirmans_PsJN|Non           -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -           1.2e-155  509.9   0.0  1.4e-155  509.7   0.0   1.0   1   0   0   1   1   1   1 -
+YP_001861032|Burkholderia_phymatum_STM815|Non             -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -           2.9e-155  508.7   0.0  3.2e-155  508.5   0.0   1.0   1   0   0   1   1   1   1 -
+WP_006159374|Cupriavidus_basilensis|Non                   -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -             2e-153  502.6   0.0  2.3e-153  502.4   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_03265572|Burkholderia_sp_H160|Non                      -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -           4.1e-152  498.3   0.0  4.7e-152  498.1   0.0   1.0   1   0   0   1   1   1   1 -
+WP_017522619|Pusillimonas_noertemannii|Non                -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -           5.8e-152  497.8   0.0  6.8e-152  497.6   0.0   1.0   1   0   0   1   1   1   1 -
+YP_001535493|Salinispora_arenicola_CNS-205|Non            -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -           5.3e-151  494.6   0.0    6e-151  494.5   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_03266801|Burkholderia_sp_H160|Non                      -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -           2.5e-149  489.1   0.0    3e-149  488.8   0.0   1.1   1   0   0   1   1   1   1 -
+YP_001861033|Burkholderia_phymatum_STM815|Non             -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -           1.3e-148  486.7   0.0  1.5e-148  486.6   0.0   1.0   1   0   0   1   1   1   1 -
+YP_298987|Ralstonia_eutropha_JMP134|Non                   -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -           1.4e-148  486.6   0.0  1.7e-148  486.3   0.0   1.1   1   0   0   1   1   1   1 -
+WP_017934576|Nocardioides_sp_Iso805N|Non                  -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -           1.2e-147  483.6   0.0  1.4e-147  483.3   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_01011464|Maritimibacter_alkaliphilus_HTCC2654|Non      -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -           2.5e-147  482.5   0.0  3.1e-147  482.2   0.0   1.0   1   0   0   1   1   1   1 -
+YP_006667511|Gordonia_sp_KTR9|Non                         -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -           3.9e-147  481.9   0.0  4.4e-147  481.7   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_01011465|Maritimibacter_alkaliphilus_HTCC2654|Non      -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -           6.1e-147  481.2   0.0  6.8e-147  481.1   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_03265564|Burkholderia_sp_H160|Non                      -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -           7.5e-146  477.6   0.1  9.2e-146  477.4   0.1   1.1   1   0   0   1   1   1   1 -
+NP_891306|Bordetella_bronchiseptica_RB50|Non              -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -           1.1e-144  473.8   0.0  1.3e-144  473.6   0.0   1.0   1   0   0   1   1   1   1 -
+WP_009516788|Hydrogenophaga_sp_PBC|Non                    -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -           7.9e-144  471.0   0.0    9e-144  470.8   0.0   1.0   1   0   0   1   1   1   1 -
+AAT99362|Sphingomonas_sp_tfd44|Non                        -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -             5e-143  468.3   0.0    6e-143  468.1   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_01011482|Maritimibacter_alkaliphilus_HTCC2654|Non      -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -           1.9e-142  466.4   0.0  2.2e-142  466.2   0.0   1.0   1   0   0   1   1   1   1 -
+WP_017776283|Burkholderia_kururiensis|Non                 -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -           7.7e-141  461.1   0.0  9.1e-141  460.9   0.0   1.1   1   0   0   1   1   1   1 -
+YP_293484|Ralstonia_eutropha_JMP134|Non                   -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -           2.5e-140  459.4   0.0    3e-140  459.2   0.0   1.0   1   0   0   1   1   1   1 -
+WP_004865178|Acinetobacter_gerneri|Non                    -          PutativePDO_PhthalateFamily-Rieske_FeOxygenases -           8.9e-136  444.5   0.0  1.1e-135  444.2   0.0   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      PutativePDO.hmm
+# Target file:     PutativePDO.fasta
+# Option settings: hmmsearch --tblout PutativePDO.tbl PutativePDO.hmm PutativePDO.fasta 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Thu Jun 27 22:56:18 2024
+# [ok]

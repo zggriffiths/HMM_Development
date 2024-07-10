@@ -1,0 +1,25 @@
+#                                                                                                                          --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                         accession  query name                                     accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                                 ------------------- ----------                           -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+EHR76951|uncultured_marine_group_II_euryarchaeote|Non -          amnA_HomoprotocatechuateFamily_LigBSuperfamily -           1.3e-148  483.2   0.1  1.6e-148  483.0   0.1   1.1   1   0   0   1   1   1   1 -
+AF319593_4|Pseudomonas_putida|Apa                     -          amnA_HomoprotocatechuateFamily_LigBSuperfamily -           2.1e-132  430.1   0.0  2.4e-132  429.9   0.0   1.0   1   0   0   1   1   1   1 -
+YP_001748882|Pseudomonas_putida_W619|Non              -          amnA_HomoprotocatechuateFamily_LigBSuperfamily -           2.4e-132  429.9   0.0  2.7e-132  429.8   0.0   1.0   1   0   0   1   1   1   1 -
+AAB71525|Pseudomonas_pseudoalcaligenes|Apa            -          amnA_HomoprotocatechuateFamily_LigBSuperfamily -           4.8e-132  428.9   0.0  5.3e-132  428.8   0.0   1.0   1   0   0   1   1   1   1 -
+ABC41268|Pseudomonas_putida|Apa                       -          amnA_HomoprotocatechuateFamily_LigBSuperfamily -           1.3e-129  421.0   0.0  1.4e-129  420.8   0.0   1.0   1   0   0   1   1   1   1 -
+YP_001967697|Comamonas_testosteroni_CNB-1|Non         -          amnA_HomoprotocatechuateFamily_LigBSuperfamily -           1.6e-129  420.6   0.0  1.8e-129  420.5   0.0   1.0   1   0   0   1   1   1   1 -
+O33478|Pseudomonas_sp|Apa                             -          amnA_HomoprotocatechuateFamily_LigBSuperfamily -           8.4e-129  418.3   0.0  9.3e-129  418.1   0.0   1.0   1   0   0   1   1   1   1 -
+YP_785084|Bordetella_avium_197N|Non                   -          amnA_HomoprotocatechuateFamily_LigBSuperfamily -           2.2e-126  410.4   0.0  2.4e-126  410.2   0.0   1.0   1   0   0   1   1   1   1 -
+YP_003978677|Achromobacter_xylosoxidans_A8|Non        -          amnA_HomoprotocatechuateFamily_LigBSuperfamily -           6.9e-126  408.7   0.0  7.7e-126  408.6   0.0   1.0   1   0   0   1   1   1   1 -
+YP_559854|Burkholderia_xenovorans_LB400|Non           -          amnA_HomoprotocatechuateFamily_LigBSuperfamily -           7.4e-124  402.1   0.0  8.3e-124  401.9   0.0   1.0   1   0   0   1   1   1   1 -
+YP_004405266|Verrucosispora_maris_AB-18-032|Non       -          amnA_HomoprotocatechuateFamily_LigBSuperfamily -           3.7e-116  376.8   0.0  4.1e-116  376.7   0.0   1.0   1   0   0   1   1   1   1 -
+WP_018783792|Micromonospora_sp_CNB394|Non             -          amnA_HomoprotocatechuateFamily_LigBSuperfamily -           2.4e-110  357.8   0.0  2.7e-110  357.6   0.0   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      amnA.hmm
+# Target file:     amnA.fasta
+# Option settings: hmmsearch --tblout amnA.tbl amnA.hmm amnA.fasta 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Wed Jun 26 21:58:11 2024
+# [ok]

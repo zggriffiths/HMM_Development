@@ -1,0 +1,28 @@
+#                                                                                                                                --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                            accession  query name                                        accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                                    ------------------- ----------                              -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+EOO02204|Togninia_minima_UCRPA7|Non                      -          EXDO_34HOPO_ProtocatechuateFamily_LigBSuperfamily -           2.3e-180  588.9   0.1  2.5e-180  588.7   0.1   1.0   1   0   0   1   1   1   1 -
+EME79630|Pseudocercospora_fijiensis_CIRAD86|Non          -          EXDO_34HOPO_ProtocatechuateFamily_LigBSuperfamily -           2.2e-179  585.6   0.1  2.5e-179  585.5   0.1   1.0   1   0   0   1   1   1   1 -
+EPE09323|Ophiostoma_piceae_UAMH_11346|Non                -          EXDO_34HOPO_ProtocatechuateFamily_LigBSuperfamily -           2.1e-178  582.5   0.1  2.3e-178  582.3   0.1   1.0   1   0   0   1   1   1   1 -
+XP_002145661|Talaromyces_marneffei_ATCC_18224|Non        -          EXDO_34HOPO_ProtocatechuateFamily_LigBSuperfamily -           5.6e-178  581.0   0.0  6.4e-178  580.8   0.0   1.0   1   0   0   1   1   1   1 -
+EMR66251|Eutypa_lata_UCREL1|Non                          -          EXDO_34HOPO_ProtocatechuateFamily_LigBSuperfamily -           6.2e-178  580.9   0.0  6.9e-178  580.7   0.0   1.0   1   0   0   1   1   1   1 -
+YP_004673996|Hyphomicrobium_sp_MC1|Hpd                   -          EXDO_34HOPO_ProtocatechuateFamily_LigBSuperfamily -           2.8e-173  565.6   0.2  3.2e-173  565.4   0.2   1.0   1   0   0   1   1   1   1 -
+NP_890665|Bordetella_bronchiseptica_RB50|Non             -          EXDO_34HOPO_ProtocatechuateFamily_LigBSuperfamily -           5.1e-173  564.7   0.1  5.8e-173  564.5   0.1   1.0   1   0   0   1   1   1   1 -
+AAW28146|Rhizobium_sp_TAL1145|Hpd                        -          EXDO_34HOPO_ProtocatechuateFamily_LigBSuperfamily -           1.4e-172  563.3   0.3  1.5e-172  563.1   0.3   1.0   1   0   0   1   1   1   1 -
+NP_885852|Bordetella_parapertussis_12822|Non             -          EXDO_34HOPO_ProtocatechuateFamily_LigBSuperfamily -           4.7e-172  561.5   0.1  5.3e-172  561.4   0.1   1.0   1   0   0   1   1   1   1 -
+WP_018240214|Rhizobium_sp_BR816|Non                      -          EXDO_34HOPO_ProtocatechuateFamily_LigBSuperfamily -           3.3e-170  555.5   0.6  3.7e-170  555.3   0.6   1.0   1   0   0   1   1   1   1 -
+EOD50616|Neofusicoccum_parvum_UCRNP2|Non                 -          EXDO_34HOPO_ProtocatechuateFamily_LigBSuperfamily -           1.7e-168  549.9   0.0    2e-168  549.6   0.0   1.0   1   0   0   1   1   1   1 -
+WP_004181676|Klebsiella_pneumoniae|Non                   -          EXDO_34HOPO_ProtocatechuateFamily_LigBSuperfamily -           1.6e-165  540.1   0.2  1.8e-165  539.9   0.2   1.0   1   0   0   1   1   1   1 -
+WP_003930112|Mycobacterium_vaccae|Non                    -          EXDO_34HOPO_ProtocatechuateFamily_LigBSuperfamily -           6.4e-148  482.2   0.0  7.1e-148  482.1   0.0   1.0   1   0   0   1   1   1   1 -
+WP_017524424|Pusillimonas_noertemannii|Non               -          EXDO_34HOPO_ProtocatechuateFamily_LigBSuperfamily -           1.5e-141  461.3   0.0  1.7e-141  461.1   0.0   1.0   1   0   0   1   1   1   1 -
+YP_008032975|Achromobacter_xylosoxidans_NH44784-1996|Non -          EXDO_34HOPO_ProtocatechuateFamily_LigBSuperfamily -           3.2e-135  440.5   0.5  3.7e-135  440.3   0.5   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      EXDO_34HOPO.hmm
+# Target file:     EXDO_34HOPO.fasta
+# Option settings: hmmsearch --tblout EXDO_34HOPO.tbl EXDO_34HOPO.hmm EXDO_34HOPO.fasta 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Thu Jun 27 16:14:21 2024
+# [ok]

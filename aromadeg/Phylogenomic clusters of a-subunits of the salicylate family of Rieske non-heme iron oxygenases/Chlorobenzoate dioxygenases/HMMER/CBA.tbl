@@ -1,0 +1,16 @@
+#                                                                                                          --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                               accession  query name                               accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                       ------------------- ----------                     -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+YP_195878|Achromobacter_xylosoxidans_A8|Non -          CBA_SalicylateFamily_Rieske_FeOxygenases -                  0 1041.7   0.0         0 1041.5   0.0   1.0   1   0   0   1   1   1   1 -
+AAD20006|Pseudomonas_aeruginosa_142|Cbz     -          CBA_SalicylateFamily_Rieske_FeOxygenases -                  0 1041.3   0.0         0 1041.1   0.0   1.0   1   0   0   1   1   1   1 -
+AAL17610|Pseudomonas_aeruginosa_JB2|Cbz     -          CBA_SalicylateFamily_Rieske_FeOxygenases -           4.3e-301  985.2   0.0  4.8e-301  985.0   0.0   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      CBA.hmm
+# Target file:     CBA.fasta
+# Option settings: hmmsearch --tblout CBA.tbl CBA.hmm CBA.fasta 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Tue Jun 25 19:49:43 2024
+# [ok]

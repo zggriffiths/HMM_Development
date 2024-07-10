@@ -1,0 +1,48 @@
+#                                                                                                          --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                    accession  query name                          accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                            ------------------- ----------                -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+WP_008344262|Burkholderia_sp_SJ98|Non            -          C23O_1.2_D_OxygenChelateSuperfamily -           3.6e-195  638.3   0.6  4.1e-195  638.1   0.6   1.0   1   0   0   1   1   1   1 -
+ABG82173|Ralstonia_sp_PHS1|Cat                   -          C23O_1.2_D_OxygenChelateSuperfamily -           5.7e-194  634.4   0.2  6.4e-194  634.2   0.2   1.0   1   0   0   1   1   1   1 -
+YP_001893136|Ralstonia_pickettii_12J|Cat         -          C23O_1.2_D_OxygenChelateSuperfamily -           2.5e-193  632.3   0.1  2.8e-193  632.1   0.1   1.0   1   0   0   1   1   1   1 -
+YP_001792379|Leptothrix_cholodnii_SP-6|Non       -          C23O_1.2_D_OxygenChelateSuperfamily -           5.4e-193  631.2   0.2  6.1e-193  631.0   0.2   1.0   1   0   0   1   1   1   1 -
+BAH90217|uncultured_bacterium|Cat                -          C23O_1.2_D_OxygenChelateSuperfamily -           5.5e-193  631.1   0.1  6.2e-193  631.0   0.1   1.0   1   0   0   1   1   1   1 -
+ACN62961|Diaphorobacter_sp_PCA039|Cat            -          C23O_1.2_D_OxygenChelateSuperfamily -           1.2e-192  630.1   0.1  1.3e-192  629.9   0.1   1.0   1   0   0   1   1   1   1 -
+AAF02430|Burkholderia_sp_RP007|Cat               -          C23O_1.2_D_OxygenChelateSuperfamily -           1.2e-192  630.0   0.5  1.4e-192  629.9   0.5   1.0   1   0   0   1   1   1   1 -
+YP_299876|Ralstonia_eutropha_JMP134|Cat          -          C23O_1.2_D_OxygenChelateSuperfamily -           1.5e-192  629.7   0.1  1.7e-192  629.6   0.1   1.0   1   0   0   1   1   1   1 -
+BAA34176|Comamonas_testosteroni|Cat              -          C23O_1.2_D_OxygenChelateSuperfamily -           1.5e-192  629.7   0.1  1.7e-192  629.5   0.1   1.0   1   0   0   1   1   1   1 -
+YP_997545|Verminephrobacter_eiseniae_EF01-2|Non  -          C23O_1.2_D_OxygenChelateSuperfamily -           2.9e-192  628.8   0.7  3.2e-192  628.6   0.7   1.0   1   0   0   1   1   1   1 -
+YP_984545|Acidovorax_sp_JS42|Cat                 -          C23O_1.2_D_OxygenChelateSuperfamily -           3.5e-192  628.5   0.4  3.9e-192  628.4   0.4   1.0   1   0   0   1   1   1   1 -
+YP_004930496|Pseudoxanthomonas_spadix_BD-a59|Non -          C23O_1.2_D_OxygenChelateSuperfamily -           3.5e-191  625.2   1.3  3.9e-191  625.1   1.3   1.0   1   0   0   1   1   1   1 -
+AAX47246|Delftia_tsuruhatensis|Cat               -          C23O_1.2_D_OxygenChelateSuperfamily -           1.8e-190  622.9   0.1    2e-190  622.8   0.1   1.0   1   0   0   1   1   1   1 -
+YP_004929576|Pseudoxanthomonas_spadix_BD-a59|Non -          C23O_1.2_D_OxygenChelateSuperfamily -           2.8e-190  622.2   0.1  3.1e-190  622.1   0.1   1.0   1   0   0   1   1   1   1 -
+WP_017775860|Burkholderia_kururiensis|Non        -          C23O_1.2_D_OxygenChelateSuperfamily -           3.1e-190  622.1   0.1  3.4e-190  622.0   0.1   1.0   1   0   0   1   1   1   1 -
+WP_002710566|Thiothrix_nivea|Non                 -          C23O_1.2_D_OxygenChelateSuperfamily -           5.8e-187  611.4   0.3  6.5e-187  611.2   0.3   1.0   1   0   0   1   1   1   1 -
+YP_373719|Burkholderia_sp_383|Non                -          C23O_1.2_D_OxygenChelateSuperfamily -           1.8e-186  609.7   0.0  2.1e-186  609.6   0.0   1.0   1   0   0   1   1   1   1 -
+AAB88079|Burkholderia_cepacia|Non                -          C23O_1.2_D_OxygenChelateSuperfamily -           1.4e-185  606.8   0.4  1.6e-185  606.6   0.4   1.0   1   0   0   1   1   1   1 -
+ACF23486|uncultured_bacterium|Cat                -          C23O_1.2_D_OxygenChelateSuperfamily -           4.8e-184  601.8   0.0  5.4e-184  601.6   0.0   1.0   1   0   0   1   1   1   1 -
+YP_001966316|Pseudomonas_sp_CT14|Cat             -          C23O_1.2_D_OxygenChelateSuperfamily -           4.9e-184  601.7   0.2  5.5e-184  601.6   0.2   1.0   1   0   0   1   1   1   1 -
+WP_018719555|Arhodomonas_aquaeolei|Non           -          C23O_1.2_D_OxygenChelateSuperfamily -           5.6e-184  601.6   0.0  6.3e-184  601.4   0.0   1.0   1   0   0   1   1   1   1 -
+YP_004930521|Pseudoxanthomonas_spadix_BD-a59|Non -          C23O_1.2_D_OxygenChelateSuperfamily -           3.5e-183  599.0   0.1  3.9e-183  598.8   0.1   1.0   1   0   0   1   1   1   1 -
+ACF23525|uncultured_bacterium|Cat                -          C23O_1.2_D_OxygenChelateSuperfamily -           3.6e-182  595.6   0.1    4e-182  595.5   0.1   1.0   1   0   0   1   1   1   1 -
+AFP90485|Raoultella_ornithinolytica|Non          -          C23O_1.2_D_OxygenChelateSuperfamily -           1.4e-180  590.4   0.1  1.6e-180  590.2   0.1   1.0   1   0   0   1   1   1   1 -
+AAD05250|Pseudomonas_putida|Cat                  -          C23O_1.2_D_OxygenChelateSuperfamily -           3.7e-180  589.0   0.3  4.2e-180  588.8   0.3   1.0   1   0   0   1   1   1   1 -
+AFP97334|Arhodomonas_sp_Seminole|Non             -          C23O_1.2_D_OxygenChelateSuperfamily -           2.9e-179  586.1   0.0  3.3e-179  585.9   0.0   1.0   1   0   0   1   1   1   1 -
+AAC43044|Pseudomonas_putida|Cat                  -          C23O_1.2_D_OxygenChelateSuperfamily -           1.8e-178  583.5   0.0    2e-178  583.3   0.0   1.0   1   0   0   1   1   1   1 -
+WP_020656193|Massilia_niastensis|Non             -          C23O_1.2_D_OxygenChelateSuperfamily -           1.4e-175  573.9   0.0  1.6e-175  573.8   0.0   1.0   1   0   0   1   1   1   1 -
+WP_016389830|Cycloclasticus_sp_PY97M|Non         -          C23O_1.2_D_OxygenChelateSuperfamily -           1.7e-174  570.4   0.7  1.9e-174  570.2   0.7   1.0   1   0   0   1   1   1   1 -
+YP_371940|Burkholderia_sp_383|Non                -          C23O_1.2_D_OxygenChelateSuperfamily -           9.7e-169  551.5   0.1  1.1e-168  551.3   0.1   1.0   1   0   0   1   1   1   1 -
+AAF02426|Burkholderia_sp_RP007|Cat               -          C23O_1.2_D_OxygenChelateSuperfamily -             2e-165  540.6   0.1  2.3e-165  540.4   0.1   1.0   1   0   0   1   1   1   1 -
+YP_005554639|Arcobacter_sp_L|Non                 -          C23O_1.2_D_OxygenChelateSuperfamily -           1.2e-164  538.1   0.1  1.3e-164  537.9   0.1   1.0   1   0   0   1   1   1   1 -
+WP_018076071|Novosphingobium_nitrogenifigens|Non -          C23O_1.2_D_OxygenChelateSuperfamily -           2.2e-160  524.1   0.0  2.4e-160  523.9   0.0   1.0   1   0   0   1   1   1   1 -
+WP_009623078|Pseudomonas_sp_M1|Non               -          C23O_1.2_D_OxygenChelateSuperfamily -             8e-160  522.2   0.3    9e-160  522.0   0.3   1.0   1   0   0   1   1   1   1 -
+AAC13787|Ralstonia_pickettii|Cat                 -          C23O_1.2_D_OxygenChelateSuperfamily -           1.5e-148  485.2   0.0  1.7e-148  485.0   0.0   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      C23O_1.2_D.hmm
+# Target file:     C23O_1.2_D.fasta
+# Option settings: hmmsearch --tblout C23O_1.2_D.tbl C23O_1.2_D.hmm C23O_1.2_D.fasta 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Wed Jun 26 18:34:00 2024
+# [ok]
