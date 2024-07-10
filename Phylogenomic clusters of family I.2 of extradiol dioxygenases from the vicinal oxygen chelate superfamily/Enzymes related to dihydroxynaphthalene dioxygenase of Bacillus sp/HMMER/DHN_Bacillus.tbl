@@ -1,0 +1,17 @@
+#                                                                                                            --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                    accession  query name                            accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                            ------------------- ----------                  -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+BAD08313|Bacillus_sp_JF8|Dhn                     -          DHN_Bacillus_OxygenChelateSuperfamily -           1.9e-191  623.0   0.3  2.1e-191  622.9   0.3   1.0   1   0   0   1   1   1   1 -
+WP_007086572|Bacillus_bataviensis|Non            -          DHN_Bacillus_OxygenChelateSuperfamily -           6.6e-189  614.7   0.0  7.5e-189  614.5   0.0   1.0   1   0   0   1   1   1   1 -
+WP_017549739|Salinicoccus_carnicancri|Non        -          DHN_Bacillus_OxygenChelateSuperfamily -           1.7e-188  613.4   0.8  1.9e-188  613.2   0.8   1.0   1   0   0   1   1   1   1 -
+YP_002524217|Thermomicrobium_roseum_DSM_5159|Non -          DHN_Bacillus_OxygenChelateSuperfamily -           2.2e-184  599.8   0.5  2.5e-184  599.6   0.5   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      DHN_Bacillus.hmm
+# Target file:     DHN_Bacillus.fasta
+# Option settings: hmmsearch --tblout DHN_Bacillus.tbl DHN_Bacillus.hmm DHN_Bacillus.fasta 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Wed Jun 26 17:15:26 2024
+# [ok]

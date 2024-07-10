@@ -1,0 +1,39 @@
+#                                                                                                                     --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                                        accession  query name                                 accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#                                ------------------- ----------                       -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+YP_777383|Burkholderia_ambifaria_AMMD|Non            -          AntDO_SalicylateFamily_Rieske_FeOxygenases -           5.8e-276  905.2   0.0  6.4e-276  905.0   0.0   1.0   1   0   0   1   1   1   1 -
+AAO83639|Burkholderia_cepacia_DBO1|Ant               -          AntDO_SalicylateFamily_Rieske_FeOxygenases -           5.9e-276  905.1   0.0  6.6e-276  905.0   0.0   1.0   1   0   0   1   1   1   1 -
+YP_001116607|Burkholderia_vietnamiensis_G4|Non       -          AntDO_SalicylateFamily_Rieske_FeOxygenases -           5.9e-276  905.1   0.0  6.6e-276  905.0   0.0   1.0   1   0   0   1   1   1   1 -
+YP_624442|Burkholderia_cenocepacia_AU_1054|Non       -          AntDO_SalicylateFamily_Rieske_FeOxygenases -           7.5e-276  904.8   0.0  8.4e-276  904.6   0.0   1.0   1   0   0   1   1   1   1 -
+YP_001947965|Burkholderia_multivorans_ATCC_17616|Non -          AntDO_SalicylateFamily_Rieske_FeOxygenases -           3.5e-275  902.6   0.0  3.9e-275  902.4   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_04948433|Burkholderia_dolosa_AUO158|Non           -          AntDO_SalicylateFamily_Rieske_FeOxygenases -           9.1e-275  901.2   0.0    1e-274  901.1   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_02408032|Burkholderia_pseudomallei_DM98|Non       -          AntDO_SalicylateFamily_Rieske_FeOxygenases -           1.8e-273  896.9   0.0    2e-273  896.8   0.0   1.0   1   0   0   1   1   1   1 -
+YP_105030|Burkholderia_mallei_ATCC_23344|Non         -          AntDO_SalicylateFamily_Rieske_FeOxygenases -             4e-273  895.8   0.0  4.5e-273  895.6   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_02359577|Burkholderia_oklahomensis_EO147|Non      -          AntDO_SalicylateFamily_Rieske_FeOxygenases -             7e-273  895.0   0.0  7.9e-273  894.8   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_02467236|Burkholderia_thailandensis_MSMB43|Non    -          AntDO_SalicylateFamily_Rieske_FeOxygenases -           1.9e-271  890.3   0.0  2.1e-271  890.2   0.0   1.0   1   0   0   1   1   1   1 -
+YP_554197|Burkholderia_xenovorans_LB400|Ant          -          AntDO_SalicylateFamily_Rieske_FeOxygenases -           3.2e-271  889.5   0.0  3.6e-271  889.4   0.0   1.0   1   0   0   1   1   1   1 -
+YP_556337|Burkholderia_xenovorans_LB400|Ant          -          AntDO_SalicylateFamily_Rieske_FeOxygenases -           1.6e-270  887.3   0.0  1.8e-270  887.1   0.0   1.0   1   0   0   1   1   1   1 -
+WP_019924214|Duganella_zoogloeoides|Non              -          AntDO_SalicylateFamily_Rieske_FeOxygenases -           7.5e-263  862.0   0.0    9e-263  861.7   0.0   1.0   1   0   0   1   1   1   1 -
+YP_003777050|Herbaspirillum_seropedicae_SmR1|Non     -          AntDO_SalicylateFamily_Rieske_FeOxygenases -           1.7e-261  857.5   0.0  1.9e-261  857.3   0.0   1.0   1   0   0   1   1   1   1 -
+WP_007884756|Herbaspirillum_sp_CF444|Non             -          AntDO_SalicylateFamily_Rieske_FeOxygenases -           3.7e-261  856.4   0.0  4.1e-261  856.2   0.0   1.0   1   0   0   1   1   1   1 -
+WP_007857446|Acidovorax_sp_CF316|Non                 -          AntDO_SalicylateFamily_Rieske_FeOxygenases -           7.1e-260  852.2   0.0  8.6e-260  851.9   0.0   1.0   1   0   0   1   1   1   1 -
+ZP_02376186|Burkholderia_ubonensis_Bu|Non            -          AntDO_SalicylateFamily_Rieske_FeOxygenases -           1.3e-257  844.7   0.0  1.4e-257  844.5   0.0   1.0   1   0   0   1   1   1   1 -
+WP_006296221|Hylemonella_gracilis|Non                -          AntDO_SalicylateFamily_Rieske_FeOxygenases -           1.4e-257  844.6   0.0  1.7e-257  844.3   0.0   1.0   1   0   0   1   1   1   1 -
+WP_019577442|Curvibacter_lanceolatus|Non             -          AntDO_SalicylateFamily_Rieske_FeOxygenases -           1.6e-257  844.4   0.0  1.9e-257  844.2   0.0   1.0   1   0   0   1   1   1   1 -
+YP_003450746|Azospirillum_sp_B510|Non                -          AntDO_SalicylateFamily_Rieske_FeOxygenases -           1.9e-257  844.2   0.0  2.1e-257  844.0   0.0   1.0   1   0   0   1   1   1   1 -
+YP_717961|Sphingomonas_sp_KA1|Non                    -          AntDO_SalicylateFamily_Rieske_FeOxygenases -             3e-254  833.6   0.0  3.6e-254  833.4   0.0   1.0   1   0   0   1   1   1   1 -
+YP_004931606|Pseudoxanthomonas_spadix_BD-a59|Non     -          AntDO_SalicylateFamily_Rieske_FeOxygenases -           1.2e-253  831.7   0.0  1.4e-253  831.4   0.0   1.0   1   0   0   1   1   1   1 -
+YP_003545968|Sphingobium_japonicum_UT26S|Non         -          AntDO_SalicylateFamily_Rieske_FeOxygenases -           7.6e-250  819.1   0.0  8.5e-250  819.0   0.0   1.0   1   0   0   1   1   1   1 -
+YP_559896|Burkholderia_xenovorans_LB400|Non          -          AntDO_SalicylateFamily_Rieske_FeOxygenases -           8.3e-243  795.9   0.0    1e-242  795.6   0.0   1.0   1   0   0   1   1   1   1 -
+YP_001630148|Bordetella_petrii_DSM_12804|Non         -          AntDO_SalicylateFamily_Rieske_FeOxygenases -           4.2e-242  793.6   0.0  5.2e-242  793.3   0.0   1.0   1   0   0   1   1   1   1 -
+WP_003923546|Mycobacterium_thermoresistibile|Non     -          AntDO_SalicylateFamily_Rieske_FeOxygenases -           3.3e-215  705.0   0.0  3.7e-215  704.8   0.0   1.0   1   0   0   1   1   1   1 -
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      AntDO.hmm
+# Target file:     AntDO.fasta
+# Option settings: hmmsearch --tblout AntDO.tbl AntDO.hmm AntDO.fasta 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Tue Jun 25 17:49:28 2024
+# [ok]

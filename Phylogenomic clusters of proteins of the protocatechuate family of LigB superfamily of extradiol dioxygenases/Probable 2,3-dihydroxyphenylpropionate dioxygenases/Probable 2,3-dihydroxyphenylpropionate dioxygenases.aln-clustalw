@@ -1,0 +1,26 @@
+CLUSTAL multiple sequence alignment by MUSCLE (3.8)
+
+
+YP_003609206|Burkholderia_sp_CCG      MSLAVAALSHAPSFGNVDPGGTTLAEIMAGIQEVRAFVERFAPEVVVVFGPDHFNGQLYS
+WP_019521482|Streptomyces_sp_Fxa      MPLAVAALSHAPSFGNVDPGGETFAEINAAIDEVREFVSGYDPDLVVVFGPDHFNGQLYS
+                                      *.******************* *:*** *.*:*** **. : *::***************
+
+YP_003609206|Burkholderia_sp_CCG      SIAPWVIGAQAEGIGDYGTTEGFINVDGETARQLHAAVLDQGIDIARSERMTVDHGVMQP
+WP_019521482|Streptomyces_sp_Fxa      LITPWVIGAAAEGVGDYGTTAGKLPVDADAARALHAAVLAEGIDIGRSERMTVDHGIVQP
+                                       *:****** ***:****** * : **.::** ****** :****.**********::**
+
+YP_003609206|Burkholderia_sp_CCG      VDFLLGKSHARPIVPVFVNAIAFPLTPMKRVREMGEAFGKAALQLGKRVLFIASGGISHS
+WP_019521482|Streptomyces_sp_Fxa      LDFVFGKDFAQPIVPVFVNAIGLPLSPMRRVRLMGEAFGRAARTLDRKVLFLASGGISHN
+                                      :**::**..*.**********.:**:**.*** ******.**  *...***:*******.
+
+YP_003609206|Burkholderia_sp_CCG      PPIPRWEGAPPELKARLVSYAPTREERRTREQAIVDAIQRIADGKGSSAPLNEAWDTLLL
+WP_019521482|Streptomyces_sp_Fxa      PPIPRWDGAPGTVQERLIAYAPSPQERHEREQMIVRGIQAIADGRAPSDPLNEEWDKLVL
+                                      ******:***  :: **::***: :**. *** ** .** ****...* **** **.*:*
+
+YP_003609206|Burkholderia_sp_CCG      DTFRSGDLSPVDTWDNDQFVIDGGSAAHEMRSWIAAYAALSTAGKYKLPVDRYWAVKSWG
+WP_019521482|Streptomyces_sp_Fxa      DTFRSGDLTPADGWENGWFVAEGGSAAHEMRSWIAAYAALSTAGPYRFAVDRYWAVEKWG
+                                      ********:*.* *:*..** :********************** *.:.*******:.**
+
+YP_003609206|Burkholderia_sp_CCG      AGFAVQAGCAA
+WP_019521482|Streptomyces_sp_Fxa      AGFAVQAAVTA
+                                      *******. :*

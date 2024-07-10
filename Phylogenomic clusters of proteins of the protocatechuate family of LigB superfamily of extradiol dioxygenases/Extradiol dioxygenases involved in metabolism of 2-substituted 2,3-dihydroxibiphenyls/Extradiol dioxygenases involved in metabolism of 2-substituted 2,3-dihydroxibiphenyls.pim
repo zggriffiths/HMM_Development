@@ -1,0 +1,11 @@
+#
+#
+#  Percent Identity  Matrix - created by Clustal2.1 
+#
+#
+
+     1: WP_007510951|Frankia_sp_CN3|Non   100.00   36.97   37.23   36.88   37.23
+     2: BAC75996|Terrabacter_sp_DBF63|Cd   36.97  100.00   96.55   96.90   97.24
+     3: BAD10908|Rhodococcus_rhodochrous   37.23   96.55  100.00   99.31   99.31
+     4: ACC85684|Rhodococcus_sp_HA01|Non   36.88   96.90   99.31  100.00   99.31
+     5: BAC00806|Rhodococcus_sp_YK2|Non    37.23   97.24   99.31   99.31  100.00
