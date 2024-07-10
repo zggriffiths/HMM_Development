@@ -1,0 +1,38 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A8J6RX22|A0A8J6RX22_9CYAN -          PEDH_AnHyDeg         -           5.7e-130  428.4   2.0  6.3e-130  428.2   2.0   1.0   1   0   0   1   1   1   1 SDR family oxidoreductase OS=Trichocoleus sp. FACHB-90 OX=2692876 GN=H6F74_08160 PE=3 SV=1
+tr|A0A8J6SJP7|A0A8J6SJP7_9CYAN -          PEDH_AnHyDeg         -           6.8e-130  428.1   2.2  7.5e-130  428.0   2.2   1.0   1   0   0   1   1   1   1 SDR family oxidoreductase OS=Trichocoleus sp. FACHB-40 OX=2692870 GN=H6F63_06755 PE=3 SV=1
+tr|A0A8J6RT22|A0A8J6RT22_9CYAN -          PEDH_AnHyDeg         -           1.8e-129  426.8   1.4    2e-129  426.6   1.4   1.0   1   0   0   1   1   1   1 SDR family oxidoreductase OS=Trichocoleus sp. FACHB-832 OX=2692875 GN=H6F53_24990 PE=3 SV=1
+tr|A0A8J6VE95|A0A8J6VE95_9CYAN -          PEDH_AnHyDeg         -           3.3e-129  425.9   1.1  3.6e-129  425.7   1.1   1.0   1   0   0   1   1   1   1 SDR family oxidoreductase OS=Trichocoleus sp. FACHB-69 OX=2692874 GN=H6F79_17095 PE=3 SV=1
+tr|A0A950YGC0|A0A950YGC0_9ACTN -          PEDH_AnHyDeg         -           1.1e-125  414.4   2.2  1.2e-125  414.2   2.2   1.0   1   0   0   1   1   1   1 SDR family oxidoreductase OS=Solirubrobacterales bacterium OX=1909295 GN=JOZ98_09510 PE=3 SV=1
+tr|A0A934GMA6|A0A934GMA6_9PROT -          PEDH_AnHyDeg         -           7.3e-123  405.1   0.8  8.1e-123  405.0   0.8   1.0   1   0   0   1   1   1   1 3-oxoacyl-ACP reductase FabG OS=Betaproteobacteria bacterium OX=1891241 GN=HY847_13515 PE=3 SV=1
+tr|A0A916N0F7|A0A916N0F7_9PROT -          PEDH_AnHyDeg         -           8.3e-122  401.6   0.6  9.3e-122  401.5   0.6   1.0   1   0   0   1   1   1   1 (S)-1-Phenylethanol dehydrogenase OS=Georgfuchsia toluolica OX=424218 GN=ped PE=3 SV=1
+tr|A0A2W1JID8|A0A2W1JID8_9CYAN -          PEDH_AnHyDeg         -           1.3e-121  401.0   3.4  1.5e-121  400.8   3.4   1.0   1   0   0   1   1   1   1 (S)-1-Phenylethanol dehydrogenase OS=Acaryochloris thomasi RCC1774 OX=1764569 GN=ped PE=3 SV=1
+tr|A0A6N7GW27|A0A6N7GW27_9HYPH -          PEDH_AnHyDeg         -           9.8e-121  398.1   1.4  1.1e-120  398.0   1.4   1.0   1   0   0   1   1   1   1 SDR family oxidoreductase OS=Hyphomicrobiales bacterium OX=1909294 GN=GEU95_16445 PE=3 SV=1
+sp|Q5P5I4|PED_AROAE            -          PEDH_AnHyDeg         -           1.1e-120  398.0   0.3  1.2e-120  397.8   0.3   1.0   1   0   0   1   1   1   1 (S)-1-Phenylethanol dehydrogenase OS=Aromatoleum aromaticum (strain EbN1) OX=76114 GN=ped PE=1 SV=1
+tr|A0A1W6ZNF6|A0A1W6ZNF6_9HYPH -          PEDH_AnHyDeg         -           5.6e-120  395.7   1.3  6.2e-120  395.5   1.3   1.0   1   0   0   1   1   1   1 Dehydrogenase OS=Pseudorhodoplanes sinuspersici OX=1235591 GN=CAK95_07445 PE=3 SV=1
+tr|A0A3S0DJ48|A0A3S0DJ48_9RHOO -          PEDH_AnHyDeg         -           1.8e-119  394.0   0.4    2e-119  393.8   0.4   1.0   1   0   0   1   1   1   1 SDR family oxidoreductase OS=Rhodocyclaceae bacterium OX=1898103 GN=EKK46_13005 PE=3 SV=1
+tr|A0A538JUV9|A0A538JUV9_UNCAC -          PEDH_AnHyDeg         -           1.2e-118  391.3   1.1  1.4e-118  391.1   1.1   1.0   1   0   0   1   1   1   1 SDR family oxidoreductase OS=Actinomycetes bacterium OX=1883427 GN=E6G10_28825 PE=3 SV=1
+tr|A0A6L5FF66|A0A6L5FF66_9HYPH -          PEDH_AnHyDeg         -           1.5e-118  391.0   2.3  1.7e-118  390.8   2.3   1.0   1   0   0   1   1   1   1 SDR family oxidoreductase OS=Hyphomicrobiales bacterium OX=1909294 GN=GEU91_05100 PE=3 SV=1
+tr|D7CDX9|D7CDX9_STRBB         -          PEDH_AnHyDeg         -           1.1e-116  384.9   1.7  1.3e-116  384.7   1.7   1.0   1   0   0   1   1   1   1 Short chain dehydrogenase protein OS=Streptomyces bingchenggensis (strain BCW-1) OX=749414 GN=SBI_01523 PE=3 SV=1
+tr|A0A917BFX7|A0A917BFX7_9MICO -          PEDH_AnHyDeg         -           2.4e-115  380.5   0.7  2.9e-115  380.2   0.7   1.0   1   0   0   1   1   1   1 Pyridoxal 4-dehydrogenase OS=Subtercola lobariae OX=1588641 GN=GCM10011399_33810 PE=3 SV=1
+tr|A0A0K1PQ90|A0A0K1PQ90_9BACT -          PEDH_AnHyDeg         -           7.8e-115  378.8   2.9    9e-115  378.6   2.9   1.0   1   0   0   1   1   1   1 3-oxoacyl-[acyl-carrier protein] reductase OS=Labilithrix luteola OX=1391654 GN=AKJ09_02362 PE=3 SV=1
+tr|A0A925K7P4|A0A925K7P4_9BACT -          PEDH_AnHyDeg         -           2.4e-114  377.2   2.5  2.6e-114  377.1   2.5   1.0   1   0   0   1   1   1   1 SDR family oxidoreductase OS=Ferruginibacter sp OX=1940288 GN=H7Y86_15250 PE=3 SV=1
+tr|A0A6C1B7X8|A0A6C1B7X8_9RHOO -          PEDH_AnHyDeg         -           7.2e-114  375.6   3.7    8e-114  375.5   3.7   1.0   1   0   0   1   1   1   1 SDR family oxidoreductase OS=Nitrogeniibacter mangrovi OX=2016596 GN=G3580_12330 PE=3 SV=1
+tr|A0A940N8I0|A0A940N8I0_9BURK -          PEDH_AnHyDeg         -           1.4e-113  374.7   1.3  1.5e-113  374.6   1.3   1.0   1   0   0   1   1   1   1 3-oxoacyl-ACP reductase FabG OS=Paraburkholderia sp. LEh10 OX=2821353 GN=J8I87_11875 PE=3 SV=1
+tr|A0A1G7FAS1|A0A1G7FAS1_9BURK -          PEDH_AnHyDeg         -           3.1e-112  370.3   6.2  3.5e-112  370.1   6.2   1.0   1   0   0   1   1   1   1 3-oxoacyl-[acyl-carrier protein] reductase/(S)-1-phenylethanol dehydrogenase OS=Variovorax sp. CF079 OX=1882774 GN=SAMN05444679_12965 PE=3 SV=1
+tr|A0A6C1KAS2|A0A6C1KAS2_XANAU -          PEDH_AnHyDeg         -           1.1e-111  368.5   2.5  1.2e-111  368.4   2.5   1.0   1   0   0   1   1   1   1 SDR family oxidoreductase OS=Xanthobacter autotrophicus OX=280 GN=FBQ73_18285 PE=3 SV=1
+tr|A0A0Q8QHR9|A0A0Q8QHR9_9SPHN -          PEDH_AnHyDeg         -             2e-111  367.6   0.1  2.3e-111  367.4   0.1   1.0   1   0   0   1   1   1   1 Dehydrogenase OS=Sphingomonas sp. Root710 OX=1736594 GN=ASE00_00695 PE=3 SV=1
+tr|A0A934QV81|A0A934QV81_9PSEU -          PEDH_AnHyDeg         -           3.4e-110  363.6   4.6  3.9e-110  363.4   4.6   1.0   1   0   0   1   1   1   1 SDR family oxidoreductase OS=Prauserella cavernicola OX=2800127 GN=JHE00_22860 PE=3 SV=1
+tr|A0A950U9K5|A0A950U9K5_9ACTN -          PEDH_AnHyDeg         -            1.3e-43  145.5   0.3   1.4e-43  145.4   0.3   1.0   1   0   0   1   1   1   1 SDR family NAD(P)-dependent oxidoreductase (Fragment) OS=Solirubrobacterales bacterium OX=1909295 GN=JO181_01180 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      PEDH.hmm
+# Target file:     AnHyDeg.faa
+# Option settings: hmmsearch --tblout PEDH_bckgdseqs.tbl PEDH.hmm AnHyDeg.faa 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Mon Jul  1 17:30:06 2024
+# [ok]

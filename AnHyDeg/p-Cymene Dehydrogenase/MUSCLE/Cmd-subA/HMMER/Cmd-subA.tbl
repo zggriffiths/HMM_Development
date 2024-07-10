@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|T0B0B4|T0B0B4_9RHOO         -          CMD-subA_AnHyDeg     -                  0 2002.9   0.0         0 2002.8   0.0   1.0   1   0   0   1   1   1   1 4Fe-4S Mo/W bis-MGD-type domain-containing protein OS=Thauera terpenica 58Eu OX=1348657 GN=M622_13650 PE=3 SV=1
+tr|A0A1I5WQ36|A0A1I5WQ36_9PSED -          CMD-subA_AnHyDeg     -                  0 1993.6   0.1         0 1993.5   0.1   1.0   1   0   0   1   1   1   1 Ethylbenzene hydroxylase subunit alpha/complex iron-sulfur molybdoenzyme family reductase subunit alpha OS=Pseudomonas borbori OX=289003 GN=SAMN05216190_14212 PE=3 SV=1
+tr|A0A557SDF1|A0A557SDF1_9RHOO -          CMD-subA_AnHyDeg     -                  0 1992.4   0.0         0 1992.2   0.0   1.0   1   0   0   1   1   1   1 Molybdopterin-dependent oxidoreductase OS=Denitromonas halophila OX=1629404 GN=FHP89_13825 PE=4 SV=1
+tr|A0A096ZNW8|A0A096ZNW8_9RHOO -          CMD-subA_AnHyDeg     -                  0 1956.6   0.0         0 1956.4   0.0   1.0   1   0   0   1   1   1   1 p-cymene dehydrogenase subunit alpha OS=Aromatoleum aromaticum OX=551760 GN=cmdA PE=4 SV=1
+tr|A0A962K1E2|A0A962K1E2_9GAMM -          CMD-subA_AnHyDeg     -                  0 1952.6   0.1         0 1952.4   0.1   1.0   1   0   0   1   1   1   1 Molybdopterin-dependent oxidoreductase OS=Pseudomonadales bacterium OX=1891229 GN=KDI24_11450 PE=3 SV=1
+tr|A0A9D6ZQ16|A0A9D6ZQ16_9GAMM -          CMD-subA_AnHyDeg     -                  0 1944.5   0.0         0 1944.4   0.0   1.0   1   0   0   1   1   1   1 Molybdopterin-dependent oxidoreductase OS=Gammaproteobacteria bacterium OX=1913989 GN=HY943_23610 PE=3 SV=1
+tr|A0A962P6V0|A0A962P6V0_9GAMM -          CMD-subA_AnHyDeg     -                  0 1935.0   0.1         0 1934.8   0.1   1.0   1   0   0   1   1   1   1 Molybdopterin-dependent oxidoreductase OS=Pseudomonadales bacterium OX=1891229 GN=KDI24_04920 PE=4 SV=1
+tr|A0A2N2VD06|A0A2N2VD06_9PROT -          CMD-subA_AnHyDeg     -                  0 1672.3   0.0         0 1672.1   0.0   1.0   1   0   0   1   1   1   1 Molybdopterin oxidoreductase OS=Betaproteobacteria bacterium HGW-Betaproteobacteria-12 OX=2013703 GN=CVU18_02850 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      Cmd-subA.hmm
+# Target file:     Cmd-subA.faa
+# Option settings: hmmsearch --tblout Cmd-subA.tbl Cmd-subA.hmm Cmd-subA.faa 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Mon Jul  1 17:09:54 2024
+# [ok]

@@ -1,0 +1,38 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|I6LHT6|I6LHT6_9RHOO         -          Bss-activase_AnHyDeg -           2.3e-188  615.7   0.0  2.6e-188  615.5   0.0   1.0   1   0   0   1   1   1   1 BssD OS=Azoarcus sp. CIB OX=198107 GN=bssD PE=3 SV=1
+tr|Q8VPT9|Q8VPT9_9RHOO         -          Bss-activase_AnHyDeg -           5.6e-188  614.4   0.0  6.3e-188  614.3   0.0   1.0   1   0   0   1   1   1   1 Putative benzylsuccinate synthase activating enzyme OS=Aromatoleum toluolicum OX=90060 GN=bssD PE=3 SV=1
+tr|Q8L1A5|Q8L1A5_9RHOO         -          Bss-activase_AnHyDeg -           3.4e-186  608.6   0.0  3.9e-186  608.4   0.0   1.0   1   0   0   1   1   1   1 BssD OS=Thauera sp. DNT-1 OX=167065 GN=bssD PE=3 SV=1
+tr|A0A1N7CQE6|A0A1N7CQE6_9RHOO -          Bss-activase_AnHyDeg -           5.5e-186  607.9   0.0  6.1e-186  607.7   0.0   1.0   1   0   0   1   1   1   1 Pyruvate formate lyase activating enzyme OS=Aromatoleum tolulyticum OX=34027 GN=SAMN05421829_1272 PE=3 SV=1
+tr|A0A916J455|A0A916J455_9PROT -          Bss-activase_AnHyDeg -           4.4e-185  604.9   0.0  4.9e-185  604.7   0.0   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase activating enzyme OS=Georgfuchsia toluolica OX=424218 GN=bssD PE=3 SV=1
+tr|O68393|O68393_THAAR         -          Bss-activase_AnHyDeg -             1e-183  600.4   0.0  1.2e-183  600.2   0.0   1.0   1   0   0   1   1   1   1 TutE OS=Thauera aromatica OX=59405 GN=tutE PE=3 SV=1
+tr|A0A934LHA7|A0A934LHA7_9PROT -          Bss-activase_AnHyDeg -           1.1e-181  593.7   0.0  1.2e-181  593.6   0.0   1.0   1   0   0   1   1   1   1 [benzylsuccinate synthase]-activating enzyme OS=Betaproteobacteria bacterium OX=1891241 GN=bssD PE=3 SV=1
+sp|O87941|BSSD_THAAR           -          Bss-activase_AnHyDeg -           2.7e-174  569.5   0.0    3e-174  569.3   0.0   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase activating enzyme OS=Thauera aromatica OX=59405 GN=bssD PE=2 SV=2
+tr|A0A2R4BRI4|A0A2R4BRI4_THAAR -          Bss-activase_AnHyDeg -           2.7e-174  569.5   0.0    3e-174  569.3   0.0   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase activating enzyme BssD OS=Thauera aromatica K172 OX=44139 GN=Tharo_3068 PE=3 SV=1
+tr|A0A1H5T9V3|A0A1H5T9V3_9RHOO -          Bss-activase_AnHyDeg -           2.3e-173  566.4   0.0  2.6e-173  566.2   0.0   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase activating enzyme BssD OS=Thauera chlorobenzoica OX=96773 GN=Tchl_1407 PE=3 SV=1
+tr|A0A096ZNX5|A0A096ZNX5_9RHOO -          Bss-activase_AnHyDeg -             9e-173  564.4   0.0    1e-172  564.2   0.0   1.0   1   0   0   1   1   1   1 4-isopropylbenzyl-succinate synthase activating enzyme OS=Thauera sp. pCyN2 OX=1551544 GN=ibsD PE=3 SV=1
+tr|Q5P6A4|Q5P6A4_AROAE         -          Bss-activase_AnHyDeg -           1.6e-172  563.6   0.0  1.8e-172  563.5   0.0   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase activating enzyme OS=Aromatoleum aromaticum (strain EbN1) OX=76114 GN=bssD PE=3 SV=1
+tr|K0NH30|K0NH30_DESTT         -          Bss-activase_AnHyDeg -             2e-171  560.0   0.1  2.3e-171  559.8   0.1   1.0   1   0   0   1   1   1   1 BssD: benzylsuccinate synthase activating enzyme OS=Desulfobacula toluolica (strain DSM 7467 / Tol2) OX=651182 GN=bssD PE=3 SV=1
+tr|I7GGZ4|I7GGZ4_9PROT         -          Bss-activase_AnHyDeg -           5.9e-171  558.5   0.0  6.5e-171  558.3   0.0   1.0   1   0   0   1   1   1   1 Putative benzylsuccinate synthase activating enzyme OS=Magnetospirillum sp. TS-6 OX=267349 GN=bssD PE=3 SV=1
+tr|A0A1V4RNA3|A0A1V4RNA3_9BACT -          Bss-activase_AnHyDeg -           3.4e-170  556.0   0.0  3.9e-170  555.8   0.0   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase subunit delta OS=Desulfobacteraceae bacterium 4484_190.1 OX=1956167 GN=B1H11_13315 PE=3 SV=1
+tr|A0A0A2HSC9|A0A0A2HSC9_9BACT -          Bss-activase_AnHyDeg -           9.4e-169  551.2   0.1  1.1e-168  551.1   0.1   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase OS=Desulfobulbus sp. Tol-SR OX=1536652 GN=JT06_18945 PE=3 SV=1
+tr|A0A562VL11|A0A562VL11_9BACT -          Bss-activase_AnHyDeg -           2.6e-164  536.7   0.0  2.9e-164  536.5   0.0   1.0   1   0   0   1   1   1   1 Pyruvate formate lyase activating enzyme OS=Geobacter argillaceus OX=345631 GN=JN12_02471 PE=3 SV=1
+tr|B9M023|B9M023_GEODF         -          Bss-activase_AnHyDeg -           1.7e-162  530.6   0.0    2e-162  530.5   0.0   1.0   1   0   0   1   1   1   1 (R)-benzylsuccinate synthase, delta subunit OS=Geotalea daltonii (strain DSM 22248 / JCM 15807 / FRC-32) OX=316067 GN=bssD-1 PE=3 SV=1
+tr|B9M013|B9M013_GEODF         -          Bss-activase_AnHyDeg -           1.3e-161  527.8   0.0  1.6e-161  527.5   0.0   1.0   1   0   0   1   1   1   1 (R)-benzylsuccinate synthase, delta subunit OS=Geotalea daltonii (strain DSM 22248 / JCM 15807 / FRC-32) OX=316067 GN=bssD-2 PE=3 SV=1
+tr|A0A661PRG4|A0A661PRG4_UNCDE -          Bss-activase_AnHyDeg -           1.5e-160  524.3   0.5  1.7e-160  524.1   0.5   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase subunit delta OS=Deltaproteobacteria bacterium OX=2026735 GN=DRH08_00395 PE=3 SV=1
+tr|A0A5K7ZJE2|A0A5K7ZJE2_9BACT -          Bss-activase_AnHyDeg -           2.6e-160  523.5   0.0  2.8e-160  523.4   0.0   1.0   1   0   0   1   1   1   1 Pyruvate formate lyase-activating protein OS=Desulfosarcina ovata subsp. sediminis OX=885957 GN=DSCO28_15670 PE=3 SV=1
+tr|A0A5K8A0M3|A0A5K8A0M3_9BACT -          Bss-activase_AnHyDeg -           2.3e-154  504.0   0.0  2.5e-154  503.8   0.0   1.0   1   0   0   1   1   1   1 Glycyl-radical enzyme activating protein OS=Desulfosarcina ovata subsp. sediminis OX=885957 GN=DSCO28_65220 PE=4 SV=1
+tr|A0A5K8A376|A0A5K8A376_9BACT -          Bss-activase_AnHyDeg -           4.5e-126  410.9   0.0    5e-126  410.8   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Desulfosarcina ovata subsp. ovata OX=2752305 GN=DSCOOX_00280 PE=4 SV=1
+tr|A0A5K7ZBB0|A0A5K7ZBB0_9BACT -          Bss-activase_AnHyDeg -           1.2e-124  406.3   0.0  1.3e-124  406.2   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Desulfosarcina ovata subsp. sediminis OX=885957 GN=DSCO28_00240 PE=4 SV=1
+tr|A0A5K7Z7T0|A0A5K7Z7T0_9BACT -          Bss-activase_AnHyDeg -           4.2e-104  338.7   0.0  4.6e-104  338.6   0.0   1.0   1   0   0   1   1   1   1 Radical SAM core domain-containing protein OS=Desulfosarcina widdelii OX=947919 GN=DSCW_52830 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      Bss-activase.hmm
+# Target file:     Bss-activase.faa
+# Option settings: hmmsearch --tblout Bss-activase.tbl Bss-activase.hmm Bss-activase.faa 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Sun Jun 30 22:07:30 2024
+# [ok]

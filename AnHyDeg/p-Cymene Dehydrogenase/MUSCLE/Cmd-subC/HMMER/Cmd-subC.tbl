@@ -1,0 +1,25 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+UPI00036758E1                  -          CMD-subC_AnHyDeg     -           7.4e-115  371.4   1.8  8.3e-115  371.2   1.8   1.0   1   0   0   1   1   1   1 status=active|Aromatoleum toluclasticum|hypothetical protein
+UPI00145D6AF7                  -          CMD-subC_AnHyDeg     -           1.4e-114  370.5   2.1  1.5e-114  370.4   2.1   1.0   1   0   0   1   1   1   1 status=active|Aromatoleum petrolei|hypothetical protein
+UPI000E0D5AB2                  -          CMD-subC_AnHyDeg     -           5.3e-113  365.3   1.3  5.9e-113  365.2   1.3   1.0   1   0   0   1   1   1   1 status=active|Rhodoferax ferrireducens|hypothetical protein
+tr|A0A916J7L7|A0A916J7L7_9PROT -          CMD-subC_AnHyDeg     -           3.2e-111  359.5   1.4  3.9e-111  359.2   1.4   1.1   1   0   0   1   1   1   1 p-cymene dehydrogenase subunit gamma OS=Georgfuchsia toluolica OX=424218 GN=cmdC PE=4 SV=1
+tr|A0A096ZNX1|A0A096ZNX1_9RHOO -          CMD-subC_AnHyDeg     -             1e-110  357.9   1.0  1.1e-110  357.7   1.0   1.0   1   0   0   1   1   1   1 p-cymene dehydrogenase subunit gamma OS=Aromatoleum aromaticum OX=551760 GN=cmdC PE=4 SV=1
+UPI0003FADCC6                  -          CMD-subC_AnHyDeg     -             1e-109  354.6   0.4  1.2e-109  354.4   0.4   1.0   1   0   0   1   1   1   1 status=active|Thauera terpenica|hypothetical protein
+tr|A0A2N2V6E2|A0A2N2V6E2_9PROT -          CMD-subC_AnHyDeg     -           1.6e-109  353.9   2.0  1.9e-109  353.7   2.0   1.0   1   0   0   1   1   1   1 Cytochrome c-552/DMSO reductase-like haem-binding domain-containing protein OS=Betaproteobacteria bacterium HGW-Betaproteobacteria-12 OX=2013703 GN=CVU18_10240 PE=4 SV=1
+tr|A0A934LEM1|A0A934LEM1_9PROT -          CMD-subC_AnHyDeg     -           8.5e-109  351.6   1.0  9.4e-109  351.4   1.0   1.0   1   0   0   1   1   1   1 Cytochrome c-552/DMSO reductase-like haem-binding domain-containing protein OS=Betaproteobacteria bacterium OX=1891241 GN=HY847_13490 PE=4 SV=1
+tr|A0A558EBW2|A0A558EBW2_9RHOO -          CMD-subC_AnHyDeg     -           1.1e-106  344.7   1.0  1.2e-106  344.6   1.0   1.0   1   0   0   1   1   1   1 Cytochrome c-552/DMSO reductase-like haem-binding domain-containing protein OS=Denitromonas halophila OX=1629404 GN=FHP89_13815 PE=4 SV=1
+tr|S9ZG03|S9ZG03_9RHOO         -          CMD-subC_AnHyDeg     -           1.4e-106  344.3   0.8  1.6e-106  344.2   0.8   1.0   1   0   0   1   1   1   1 Cytochrome c-552/DMSO reductase-like haem-binding domain-containing protein OS=Thauera terpenica 58Eu OX=1348657 GN=M622_13660 PE=4 SV=1
+tr|A0A962K0T8|A0A962K0T8_9GAMM -          CMD-subC_AnHyDeg     -           1.1e-103  334.9   0.8  1.2e-103  334.8   0.8   1.0   1   0   0   1   1   1   1 Cytochrome c-552/DMSO reductase-like haem-binding domain-containing protein OS=Pseudomonadales bacterium OX=1891229 GN=KDI24_04910 PE=4 SV=1
+tr|A0A9D6ZU21|A0A9D6ZU21_9GAMM -          CMD-subC_AnHyDeg     -           4.8e-102  329.5   1.8  5.4e-102  329.4   1.8   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Gammaproteobacteria bacterium OX=1913989 GN=HY943_23620 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      Cmd-subC.hmm
+# Target file:     Cmd-subC.faa
+# Option settings: hmmsearch --tblout Cmd-subC.tbl Cmd-subC.hmm Cmd-subC.faa 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Mon Jul  1 17:11:03 2024
+# [ok]

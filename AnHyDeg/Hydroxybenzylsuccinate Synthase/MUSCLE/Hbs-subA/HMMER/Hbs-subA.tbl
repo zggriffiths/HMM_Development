@@ -1,0 +1,37 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A5K8A334|A0A5K8A334_9BACT -          Hbs-subA_AnHyDeg     -                  0 1716.9   0.4         0 1716.7   0.4   1.0   1   0   0   1   1   1   1 Glycyl radical enzyme OS=Desulfosarcina ovata subsp. ovata OX=2752305 GN=DSCOOX_00260 PE=4 SV=1
+tr|A0A5K7ZEU1|A0A5K7ZEU1_9BACT -          Hbs-subA_AnHyDeg     -                  0 1715.0   0.9         0 1714.8   0.9   1.0   1   0   0   1   1   1   1 Glycyl radical enzyme OS=Desulfosarcina ovata subsp. sediminis OX=885957 GN=DSCO28_00220 PE=4 SV=1
+tr|A0A0F2S8L2|A0A0F2S8L2_9FIRM -          Hbs-subA_AnHyDeg     -                  0 1714.8   0.1         0 1714.6   0.1   1.0   1   0   0   1   1   1   1 Pyruvate formate-lyase OS=Peptococcaceae bacterium BRH_c23 OX=1629714 GN=VR66_20880 PE=4 SV=1
+tr|A0A101WCH5|A0A101WCH5_9FIRM -          Hbs-subA_AnHyDeg     -                  0 1708.2   0.1         0 1708.1   0.1   1.0   1   0   0   1   1   1   1 Glycyl radical enzyme OS=Desulfosporosinus sp. BRH_c37 OX=1734396 GN=APF81_25785 PE=4 SV=1
+tr|R4KCB7|R4KCB7_9FIRM         -          Hbs-subA_AnHyDeg     -                  0 1705.3   0.0         0 1705.1   0.0   1.0   1   0   0   1   1   1   1 Pyruvate-formate lyase OS=Desulfoscipio gibsoniae DSM 7213 OX=767817 GN=Desgi_0659 PE=4 SV=1
+tr|A0A0A2HSK1|A0A0A2HSK1_9BACT -          Hbs-subA_AnHyDeg     -                  0 1688.5   0.1         0 1688.3   0.1   1.0   1   0   0   1   1   1   1 Pyruvate formate-lyase OS=Desulfobulbus sp. Tol-SR OX=1536652 GN=JT06_18935 PE=4 SV=1
+tr|A0A5K8A0J5|A0A5K8A0J5_9BACT -          Hbs-subA_AnHyDeg     -                  0 1688.2   0.2         0 1688.1   0.2   1.0   1   0   0   1   1   1   1 Dehydrogenase OS=Desulfosarcina ovata subsp. sediminis OX=885957 GN=pflD_2 PE=4 SV=1
+tr|A0A0F2SCX8|A0A0F2SCX8_9FIRM -          Hbs-subA_AnHyDeg     -                  0 1680.6   0.0         0 1680.5   0.0   1.0   1   0   0   1   1   1   1 Pyruvate formate-lyase OS=Peptococcaceae bacterium BRH_c23 OX=1629714 GN=VR66_15770 PE=4 SV=1
+tr|O68395|O68395_THAAR         -          Hbs-subA_AnHyDeg     -                  0 1678.5   0.0         0 1678.3   0.0   1.0   1   0   0   1   1   1   1 TutD OS=Thauera aromatica OX=59405 GN=tutD PE=1 SV=1
+tr|A0A101WIG0|A0A101WIG0_9FIRM -          Hbs-subA_AnHyDeg     -                  0 1676.0   0.0         0 1675.8   0.0   1.0   1   0   0   1   1   1   1 Glycyl radical enzyme OS=Desulfosporosinus sp. BRH_c37 OX=1734396 GN=APF81_02040 PE=4 SV=1
+tr|A0A096ZNX3|A0A096ZNX3_9RHOO -          Hbs-subA_AnHyDeg     -                  0 1662.3   0.0         0 1662.1   0.0   1.0   1   0   0   1   1   1   1 4-isopropylbenzyl-succinate synthase alpha subunit OS=Thauera sp. pCyN2 OX=1551544 GN=ibsA PE=4 SV=1
+tr|A0A101WT05|A0A101WT05_9FIRM -          Hbs-subA_AnHyDeg     -                  0 1657.7   0.0         0 1657.5   0.0   1.0   1   0   0   1   1   1   1 Glycyl radical enzyme OS=Desulfosporosinus sp. BRH_c37 OX=1734396 GN=APF81_22280 PE=4 SV=1
+tr|A0A661PRB4|A0A661PRB4_UNCDE -          Hbs-subA_AnHyDeg     -                  0 1624.7   0.1         0 1624.5   0.1   1.0   1   0   0   1   1   1   1 Glycyl radical protein OS=Deltaproteobacteria bacterium OX=2026735 GN=DRH08_00570 PE=4 SV=1
+tr|A0A5K7ZHR9|A0A5K7ZHR9_9BACT -          Hbs-subA_AnHyDeg     -                  0 1602.4   0.0         0 1602.3   0.0   1.0   1   0   0   1   1   1   1 Glycyl radical enzyme OS=Desulfosarcina widdelii OX=947919 GN=DSCW_52810 PE=4 SV=1
+tr|K0ND30|K0ND30_DESTT         -          Hbs-subA_AnHyDeg     -                  0 1570.5   0.9         0 1570.3   0.9   1.0   1   0   0   1   1   1   1 HbsA: hydroxybenzylsuccinate synthase, alpha subunit OS=Desulfobacula toluolica (strain DSM 7467 / Tol2) OX=651182 GN=hbsA PE=4 SV=1
+tr|A0A1H2E0F2|A0A1H2E0F2_9BACT -          Hbs-subA_AnHyDeg     -                  0 1567.8   1.0         0 1567.6   1.0   1.0   1   0   0   1   1   1   1 Formate C-acetyltransferase OS=Desulfobacula phenolica OX=90732 GN=SAMN04487931_102377 PE=4 SV=1
+tr|S0G2Y2|S0G2Y2_9BACT         -          Hbs-subA_AnHyDeg     -                  0 1556.7   0.2         0 1556.5   0.2   1.0   1   0   0   1   1   1   1 Formate acetyltransferase 2 OS=Desulfotignum phosphitoxidans DSM 13687 OX=1286635 GN=pflD PE=4 SV=1
+tr|A0A5K8A291|A0A5K8A291_9BACT -          Hbs-subA_AnHyDeg     -                  0 1550.8   0.2         0 1550.6   0.2   1.0   1   0   0   1   1   1   1 Dehydrogenase OS=Desulfosarcina ovata subsp. sediminis OX=885957 GN=pflD_3 PE=4 SV=1
+tr|A0A5K8AL11|A0A5K8AL11_9BACT -          Hbs-subA_AnHyDeg     -                  0 1550.8   0.2         0 1550.6   0.2   1.0   1   0   0   1   1   1   1 Dehydrogenase OS=Desulfosarcina ovata subsp. ovata OX=2752305 GN=pflD_3 PE=4 SV=1
+tr|A0A1H2JT01|A0A1H2JT01_9BACT -          Hbs-subA_AnHyDeg     -                  0 1544.8   0.7         0 1544.7   0.7   1.0   1   0   0   1   1   1   1 Formate C-acetyltransferase OS=Desulfobacula phenolica OX=90732 GN=SAMN04487931_11526 PE=4 SV=1
+tr|A0A975GTD9|A0A975GTD9_9BACT -          Hbs-subA_AnHyDeg     -                  0 1541.8   0.1         0 1541.5   0.1   1.0   1   0   0   1   1   1   1 Hydroxybenzylsuccinate synthase, alpha subunit OS=Desulfonema magnum OX=45655 GN=hbsA PE=4 SV=1
+tr|A0A934A2W4|A0A934A2W4_UNCDE -          Hbs-subA_AnHyDeg     -                  0 1532.7   0.2         0 1532.6   0.2   1.0   1   0   0   1   1   1   1 Glycyl radical protein OS=Deltaproteobacteria bacterium OX=2026735 GN=HY881_00045 PE=4 SV=1
+tr|A0A117SHS9|A0A117SHS9_9FIRM -          Hbs-subA_AnHyDeg     -                  0 1507.4   0.0         0 1507.2   0.0   1.0   1   0   0   1   1   1   1 Glycyl radical enzyme OS=Desulfosporosinus sp. BRH_c37 OX=1734396 GN=APF81_00495 PE=4 SV=1
+tr|A0A916IZU3|A0A916IZU3_9PROT -          Hbs-subA_AnHyDeg     -            3.5e-54  174.3   0.3   3.9e-54  174.2   0.3   1.0   1   0   0   1   1   1   1 Glycine radical domain-containing protein OS=Georgfuchsia toluolica OX=424218 GN=GTOL_10002 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      Hbs-subA.hmm
+# Target file:     Hbs-subA.faa
+# Option settings: hmmsearch --tblout Hbs-subA.tbl Hbs-subA.hmm Hbs-subA.faa 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Mon Jul  1 15:51:21 2024
+# [ok]

@@ -1,0 +1,31 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A445MSK1|A0A445MSK1_9BACT -          NapC-subB_AnHyDeg    -             9e-215  703.9   0.0    1e-214  703.7   0.0   1.0   1   0   0   1   1   1   1 3-octaprenyl-4-hydroxybenzoate carboxy-lyase OS=uncultured Desulfobacterium sp OX=201089 GN=PITCH_A1350004 PE=4 SV=1
+tr|A0A445MXN5|A0A445MXN5_9BACT -          NapC-subB_AnHyDeg    -           1.3e-214  703.3   0.0  1.5e-214  703.2   0.0   1.0   1   0   0   1   1   1   1 3-octaprenyl-4-hydroxybenzoate carboxy-lyase OS=uncultured Desulfobacterium sp OX=201089 GN=PITCH_A2050009 PE=4 SV=1
+tr|A0A445MXI7|A0A445MXI7_9BACT -          NapC-subB_AnHyDeg    -           1.8e-214  702.9   0.0  2.1e-214  702.7   0.0   1.0   1   0   0   1   1   1   1 3-octaprenyl-4-hydroxybenzoate carboxy-lyase OS=uncultured Desulfobacterium sp OX=201089 GN=PITCH_A2050007 PE=4 SV=1
+tr|A0A445MSK0|A0A445MSK0_9BACT -          NapC-subB_AnHyDeg    -           1.6e-213  699.7   0.0  1.8e-213  699.6   0.0   1.0   1   0   0   1   1   1   1 3-octaprenyl-4-hydroxybenzoate carboxy-lyase OS=uncultured Desulfobacterium sp OX=201089 GN=PITCH_A1350006 PE=4 SV=1
+tr|D8F9E1|D8F9E1_9DELT         -          NapC-subB_AnHyDeg    -           2.3e-212  695.9   0.0  2.6e-212  695.8   0.0   1.0   1   0   0   1   1   1   1 3-octaprenyl-4-hydroxybenzoate carboxy-lyase OS=delta proteobacterium NaphS2 OX=88274 GN=NPH_5859 PE=4 SV=1
+tr|E1YIW6|E1YIW6_9BACT         -          NapC-subB_AnHyDeg    -           1.2e-210  690.3   0.0  1.3e-210  690.2   0.0   1.0   1   0   0   1   1   1   1 3-octaprenyl-4-hydroxybenzoate carboxy-lyase OS=uncultured Desulfobacterium sp OX=201089 GN=N47_K27500 PE=4 SV=1
+tr|A0A3A6MY27|A0A3A6MY27_9FIRM -          NapC-subB_AnHyDeg    -           1.7e-209  686.5   0.0    2e-209  686.3   0.0   1.0   1   0   0   1   1   1   1 UbiD family decarboxylase OS=Desulforudis sp OX=2093368 GN=C4575_07425 PE=4 SV=1
+tr|A0A3A6MXD5|A0A3A6MXD5_9FIRM -          NapC-subB_AnHyDeg    -             1e-207  680.7   0.0  1.1e-207  680.5   0.0   1.0   1   0   0   1   1   1   1 UbiD family decarboxylase OS=Desulforudis sp OX=2093368 GN=C4575_07415 PE=4 SV=1
+tr|A0A1V5C505|A0A1V5C505_9BACT -          NapC-subB_AnHyDeg    -           2.4e-207  679.4   0.0  2.8e-207  679.2   0.0   1.0   1   0   0   1   1   1   1 Phenolic acid decarboxylase subunit C OS=Syntrophorhabdus sp. PtaU1.Bin050 OX=1811703 GN=bsdC_6 PE=4 SV=1
+tr|D8F9E3|D8F9E3_9DELT         -          NapC-subB_AnHyDeg    -           1.9e-198  650.0   0.0  2.1e-198  649.9   0.0   1.0   1   0   0   1   1   1   1 3-octaprenyl-4-hydroxybenzoate carboxy-lyase OS=delta proteobacterium NaphS2 OX=88274 GN=NPH_5861 PE=4 SV=1
+tr|A0A1V5C4Z5|A0A1V5C4Z5_9BACT -          NapC-subB_AnHyDeg    -             3e-193  632.9   0.0  3.4e-193  632.7   0.0   1.0   1   0   0   1   1   1   1 Phenolic acid decarboxylase subunit C OS=Syntrophorhabdus sp. PtaU1.Bin050 OX=1811703 GN=bsdC_5 PE=4 SV=1
+tr|E1YIW4|E1YIW4_9BACT         -          NapC-subB_AnHyDeg    -           1.4e-190  624.1   0.0  1.5e-190  624.0   0.0   1.0   1   0   0   1   1   1   1 3-octaprenyl-4-hydroxybenzoate carboxy-lyase OS=uncultured Desulfobacterium sp OX=201089 GN=N47_K27480 PE=4 SV=1
+tr|E1YIW2|E1YIW2_9BACT         -          NapC-subB_AnHyDeg    -           1.3e-182  597.8   0.0  1.5e-182  597.6   0.0   1.0   1   0   0   1   1   1   1 UbiD family decarboxylase OS=uncultured Desulfobacterium sp OX=201089 GN=N47_K27460 PE=4 SV=1
+tr|A0A352Z6R1|A0A352Z6R1_UNCDE -          NapC-subB_AnHyDeg    -           4.1e-182  596.2   0.0  4.6e-182  596.0   0.0   1.0   1   0   0   1   1   1   1 UbiD family decarboxylase OS=Deltaproteobacteria bacterium OX=2026735 GN=DDW17_04375 PE=4 SV=1
+tr|D8F9E5|D8F9E5_9DELT         -          NapC-subB_AnHyDeg    -           7.7e-182  595.3   0.0  8.7e-182  595.1   0.0   1.0   1   0   0   1   1   1   1 UbiD family decarboxylase OS=delta proteobacterium NaphS2 OX=88274 GN=ubiD PE=4 SV=1
+tr|A0A1G1E3B5|A0A1G1E3B5_9BACT -          NapC-subB_AnHyDeg    -           8.5e-181  591.8   0.0  9.7e-181  591.6   0.0   1.0   1   0   0   1   1   1   1 UbiD family decarboxylase OS=Nitrospinae bacterium RIFCSPLOWO2_12_FULL_45_22 OX=1801687 GN=A3G93_06795 PE=4 SV=1
+tr|A0A931R2P1|A0A931R2P1_UNCNI -          NapC-subB_AnHyDeg    -           4.8e-180  589.4   0.0  5.4e-180  589.2   0.0   1.0   1   0   0   1   1   1   1 UbiD family decarboxylase OS=Nitrospinota bacterium OX=2026769 GN=HYS70_04540 PE=4 SV=1
+tr|A0A7C0YER5|A0A7C0YER5_UNCDU -          NapC-subB_AnHyDeg    -             1e-175  575.1   0.0  1.2e-175  574.9   0.0   1.0   1   0   0   1   1   1   1 UbiD family decarboxylase OS=Desulfobacterales bacterium OX=2044940 GN=ENG73_10830 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      NapC-subB.hmm
+# Target file:     NapC-subB.faa
+# Option settings: hmmsearch --tblout NapC-subB.tbl NapC-subB.hmm NapC-subB.faa 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Mon Jul  1 16:15:56 2024
+# [ok]

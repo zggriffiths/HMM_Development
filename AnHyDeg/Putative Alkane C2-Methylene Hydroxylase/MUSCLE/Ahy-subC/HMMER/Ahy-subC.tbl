@@ -1,0 +1,21 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A419F799|A0A419F799_9BACT -          Ahy-subC_AnHyDeg     -           8.7e-132  426.2   3.2  9.8e-132  426.0   3.2   1.0   1   0   0   1   1   1   1 Cytochrome c-552/DMSO reductase-like haem-binding domain-containing protein OS=Candidatus Abyssubacteria bacterium SURF_17 OX=2093361 GN=C4532_02950 PE=4 SV=1
+tr|A0A3A4PF96|A0A3A4PF96_9BACT -          Ahy-subC_AnHyDeg     -           4.8e-130  420.5   2.8  5.4e-130  420.3   2.8   1.0   1   0   0   1   1   1   1 Cytochrome c-552/DMSO reductase-like haem-binding domain-containing protein OS=Candidatus Abyssubacteria bacterium SURF_5 OX=2093360 GN=C4520_00310 PE=4 SV=1
+tr|A0A933RJK9|A0A933RJK9_UNCPO -          Ahy-subC_AnHyDeg     -           2.1e-129  418.4   2.9  2.3e-129  418.3   2.9   1.0   1   0   0   1   1   1   1 Cytochrome c-552/DMSO reductase-like haem-binding domain-containing protein OS=Poribacteria bacterium OX=2026781 GN=HZA56_00665 PE=4 SV=1
+tr|A0A7C4WUZ0|A0A7C4WUZ0_UNCPS -          Ahy-subC_AnHyDeg     -           8.3e-128  413.2   0.3  9.2e-128  413.0   0.3   1.0   1   0   0   1   1   1   1 Cytochrome c-552/DMSO reductase-like haem-binding domain-containing protein OS=Pseudomonadota bacterium OX=1977087 GN=ENS96_19675 PE=4 SV=1
+tr|A8ZSU2|A8ZSU2_DESOH         -          Ahy-subC_AnHyDeg     -           2.5e-127  411.6   1.2  2.8e-127  411.5   1.2   1.0   1   0   0   1   1   1   1 Gamma-subunit of ethylbenzene dehydrogenase OS=Desulfosudis oleivorans (strain DSM 6200 / JCM 39069 / Hxd3) OX=96561 GN=Dole_0195 PE=4 SV=1
+tr|A0A1W9PZT1|A0A1W9PZT1_9BACT -          Ahy-subC_AnHyDeg     -           9.8e-127  409.7   0.5  1.1e-126  409.5   0.5   1.0   1   0   0   1   1   1   1 Cytochrome c-552/DMSO reductase-like haem-binding domain-containing protein OS=Desulfococcus sp. 4484_241 OX=1968522 GN=B5M56_01460 PE=4 SV=1
+tr|A0A947R6Y1|A0A947R6Y1_UNCPS -          Ahy-subC_AnHyDeg     -           4.2e-125  404.3   1.3  4.7e-125  404.2   1.3   1.0   1   0   0   1   1   1   1 Cytochrome c-552/DMSO reductase-like haem-binding domain-containing protein OS=Pseudomonadota bacterium OX=1977087 GN=KJ737_27770 PE=4 SV=1
+tr|A0A661S908|A0A661S908_UNCDE -          Ahy-subC_AnHyDeg     -            1.1e-66  213.2   1.4   1.3e-66  213.1   1.4   1.0   1   0   0   1   1   1   1 Cytochrome c-552/DMSO reductase-like haem-binding domain-containing protein OS=Deltaproteobacteria bacterium OX=2026735 GN=DRI57_28180 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      Ahy-subC.hmm
+# Target file:     Ahy-subC.faa
+# Option settings: hmmsearch --tblout Ahy-subC.tbl Ahy-subC.hmm Ahy-subC.faa 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Mon Jul  1 17:58:12 2024
+# [ok]

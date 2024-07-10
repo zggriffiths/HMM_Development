@@ -1,0 +1,9 @@
+#
+#
+#  Percent Identity  Matrix - created by Clustal2.1 
+#
+#
+
+     1: tr|A8ZSU4|A8ZSU4_DESOH          100.00   60.08   65.00
+     2: tr|A0A1W9PZU6|A0A1W9PZU6_9BACT   60.08  100.00   96.50
+     3: tr|A0A661S5Y1|A0A661S5Y1_UNCDE   65.00   96.50  100.00

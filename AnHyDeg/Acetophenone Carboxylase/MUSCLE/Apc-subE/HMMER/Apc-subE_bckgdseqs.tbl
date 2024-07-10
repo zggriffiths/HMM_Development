@@ -1,0 +1,24 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+UPI00286D3F3E                  -          Apc-subE_AnHyDeg     -           3.9e-152  502.3  13.7  4.4e-152  502.1  13.7   1.0   1   0   0   1   1   1   1 status=active|Methylibium sp.|hypothetical protein
+UPI00286A1F20                  -          Apc-subE_AnHyDeg     -           2.3e-151  499.7  14.0  2.6e-151  499.6  14.0   1.0   1   0   0   1   1   1   1 status=active|Methylibium sp.|hypothetical protein
+sp|Q5P5G6|APCE_AROAE           -          Apc-subE_AnHyDeg     -           2.1e-150  496.6  13.2  2.3e-150  496.4  13.2   1.0   1   0   0   1   1   1   1 Acetophenone carboxylase epsilon subunit OS=Aromatoleum aromaticum (strain EbN1) OX=76114 GN=apc5 PE=1 SV=1
+tr|A0A916N2H1|A0A916N2H1_9PROT -          Apc-subE_AnHyDeg     -           5.6e-148  488.6   4.9  6.4e-148  488.4   4.9   1.0   1   0   0   1   1   1   1 Acetophenone carboxylase epsilon subunit OS=Georgfuchsia toluolica OX=424218 GN=apc PE=4 SV=1
+UPI00145C8A6F                  -          Apc-subE_AnHyDeg     -           1.2e-144  477.7   7.7  1.3e-144  477.6   7.7   1.0   1   0   0   1   1   1   1 status=active|Aromatoleum bremense|acetophenone carboxylase subunit epsilon
+tr|A0A1D2S9K6|A0A1D2S9K6_9BURK -          Apc-subE_AnHyDeg     -           1.1e-141  468.0  10.7  1.2e-141  467.8  10.7   1.0   1   0   0   1   1   1   1 Uroporphyrinogen decarboxylase (URO-D) domain-containing protein OS=Comamonas sp. SCN 65-56 OX=1660095 GN=ABS45_04665 PE=4 SV=1
+tr|A0A934GJ23|A0A934GJ23_9PROT -          Apc-subE_AnHyDeg     -           7.8e-141  465.1   8.1    9e-141  464.9   8.1   1.0   1   0   0   1   1   1   1 Uroporphyrinogen decarboxylase (URO-D) domain-containing protein OS=Betaproteobacteria bacterium OX=1891241 GN=HY847_00170 PE=4 SV=1
+tr|A0A939B1I9|A0A939B1I9_9GAMM -          Apc-subE_AnHyDeg     -           2.7e-130  430.5  13.6  3.1e-130  430.3  13.6   1.0   1   0   0   1   1   1   1 Uroporphyrinogen decarboxylase (URO-D) domain-containing protein OS=Gammaproteobacteria bacterium OX=1913989 GN=FJ191_04385 PE=4 SV=1
+UPI0021AAA67B                  -          Apc-subE_AnHyDeg     -           3.5e-126  417.0   4.1  5.3e-126  416.5   4.1   1.3   1   1   0   1   1   1   1 status=active|Bradyrhizobium sp. CB1015|hypothetical protein
+tr|A0A7V7JJA1|A0A7V7JJA1_9PROT -          Apc-subE_AnHyDeg     -           2.8e-122  404.2   3.8    5e-121  400.1   3.8   1.9   1   1   0   1   1   1   1 Uroporphyrinogen decarboxylase (URO-D) domain-containing protein OS=Rhodospirillaceae bacterium OX=1898112 GN=HPQ04_00675 PE=4 SV=1
+UPI001D02A332                  -          Apc-subE_AnHyDeg     -           2.9e-122  404.2  11.8  6.5e-121  399.7  11.8   1.9   1   1   0   1   1   1   1 status=active|Mesopusillimonas faecipullorum|hypothetical protein
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      Apc-subE.hmm
+# Target file:     AnHyDeg.faa
+# Option settings: hmmsearch --tblout Apc-subE_bckgdseqs.tbl Apc-subE.hmm AnHyDeg.faa 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Sun Jun 30 21:45:17 2024
+# [ok]

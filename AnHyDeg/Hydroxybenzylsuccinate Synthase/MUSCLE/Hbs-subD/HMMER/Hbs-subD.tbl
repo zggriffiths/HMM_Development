@@ -1,0 +1,29 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A5K8A2E8|A0A5K8A2E8_9BACT -          Hbs-activase_AnHyDeg -           1.5e-170  556.6   0.1  1.8e-170  556.4   0.1   1.0   1   0   0   1   1   1   1 Glycyl-radical enzyme activating protein OS=Desulfosarcina ovata subsp. sediminis OX=885957 GN=DSCO28_71340 PE=3 SV=1
+tr|A0A5K8AP89|A0A5K8AP89_9BACT -          Hbs-activase_AnHyDeg -           1.5e-170  556.6   0.1  1.8e-170  556.4   0.1   1.0   1   0   0   1   1   1   1 Glycyl-radical enzyme activating protein OS=Desulfosarcina ovata subsp. ovata OX=2752305 GN=DSCOOX_66040 PE=3 SV=1
+tr|A0A975BX96|A0A975BX96_9BACT -          Hbs-activase_AnHyDeg -           1.9e-170  556.3   1.5  2.2e-170  556.1   1.5   1.0   1   0   0   1   1   1   1 Hydroxybenzylsuccinate synthase activating enzyme OS=Desulfonema magnum OX=45655 GN=hbsD2 PE=3 SV=1
+tr|A0A349U8R6|A0A349U8R6_9FIRM -          Hbs-activase_AnHyDeg -           2.2e-169  552.8   0.0  2.4e-169  552.7   0.0   1.0   1   0   0   1   1   1   1 Glycyl-radical enzyme activating protein OS=Desulfotomaculum sp OX=41211 GN=DCW46_10615 PE=3 SV=1
+tr|K0NCR9|K0NCR9_DESTT         -          Hbs-activase_AnHyDeg -           2.2e-168  549.5   0.1  2.6e-168  549.2   0.1   1.0   1   0   0   1   1   1   1 HbsD1: hydroxybenzylsuccinate synthase activating enzyme OS=Desulfobacula toluolica (strain DSM 7467 / Tol2) OX=651182 GN=hbsD1 PE=3 SV=1
+tr|A0A359H8X2|A0A359H8X2_9FIRM -          Hbs-activase_AnHyDeg -           5.9e-168  548.1   0.0  6.5e-168  547.9   0.0   1.0   1   0   0   1   1   1   1 Glycyl-radical enzyme activating protein OS=Desulfotomaculum sp OX=41211 GN=DEH07_08005 PE=3 SV=1
+tr|S0G5L8|S0G5L8_9BACT         -          Hbs-activase_AnHyDeg -           1.8e-167  546.5   0.2  2.1e-167  546.3   0.2   1.0   1   0   0   1   1   1   1 Glycerol dehydratase, cobalamin-independent, small subunit OS=Desulfotignum phosphitoxidans DSM 13687 OX=1286635 GN=Dpo_4c03740 PE=3 SV=1
+tr|A0A1H2E0F1|A0A1H2E0F1_9BACT -          Hbs-activase_AnHyDeg -           2.9e-167  545.8   0.1  3.4e-167  545.6   0.1   1.0   1   0   0   1   1   1   1 Pyruvate formate lyase activating enzyme OS=Desulfobacula phenolica OX=90732 GN=SAMN04487931_102382 PE=3 SV=1
+tr|A0A0F2NKA3|A0A0F2NKA3_9FIRM -          Hbs-activase_AnHyDeg -           9.4e-166  540.8   0.0    1e-165  540.7   0.0   1.0   1   0   0   1   1   1   1 Hydroxybenzylsuccinate synthase activating enzyme HbsD OS=Peptococcaceae bacterium BRH_c4a OX=1629716 GN=VR68_06565 PE=3 SV=1
+tr|K0NI57|K0NI57_DESTT         -          Hbs-activase_AnHyDeg -           1.1e-165  540.7   0.2  1.2e-165  540.5   0.2   1.0   1   0   0   1   1   1   1 HbsD2: hydroxybenzylsuccinate synthase activating enzyme OS=Desulfobacula toluolica (strain DSM 7467 / Tol2) OX=651182 GN=hbsD2 PE=3 SV=1
+tr|A0A934A076|A0A934A076_UNCDE -          Hbs-activase_AnHyDeg -           1.3e-165  540.3   0.0  1.5e-165  540.1   0.0   1.0   1   0   0   1   1   1   1 Glycyl-radical enzyme activating protein OS=Deltaproteobacteria bacterium OX=2026735 GN=HY881_00035 PE=3 SV=1
+tr|A0A358U7B2|A0A358U7B2_9FIRM -          Hbs-activase_AnHyDeg -           1.8e-162  530.0   0.2    2e-162  529.9   0.2   1.0   1   0   0   1   1   1   1 Glycyl-radical enzyme activating protein OS=Desulfosporosinus sp OX=157907 GN=DEF89_21395 PE=3 SV=1
+tr|A0A975BXC1|A0A975BXC1_9BACT -          Hbs-activase_AnHyDeg -           2.1e-159  520.0   0.0  2.3e-159  519.8   0.0   1.0   1   0   0   1   1   1   1 Hydroxybenzylsuccinate synthase activating enzyme OS=Desulfonema magnum OX=45655 GN=hbsD1 PE=3 SV=1
+tr|E1YFQ7|E1YFQ7_9BACT         -          Hbs-activase_AnHyDeg -           3.4e-156  509.4   0.1  3.9e-156  509.2   0.1   1.0   1   0   0   1   1   1   1 4-hydroxyphenylacetate decarboxylase activating enzyme OS=uncultured Desulfobacterium sp OX=201089 GN=N47_J03820 PE=3 SV=1
+tr|A0A101G6V7|A0A101G6V7_9FIRM -          Hbs-activase_AnHyDeg -           5.2e-107  347.6   0.0  5.8e-107  347.5   0.0   1.0   1   0   0   1   1   1   1 HbsD1: hydroxybenzylsuccinate synthase activating enzyme (Fragment) OS=Desulfotomaculum sp. 46_296 OX=1635262 GN=XD78_1629 PE=4 SV=1
+tr|A0A1H2E0B9|A0A1H2E0B9_9BACT -          Hbs-activase_AnHyDeg -            2.2e-49  158.1   5.0   2.3e-49  158.0   5.0   1.0   1   0   0   1   1   1   1 4Fe-4S single cluster domain-containing protein OS=Desulfobacula phenolica OX=90732 GN=SAMN04487931_102380 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      Hbs-subD.hmm
+# Target file:     Hbs-subD.faa
+# Option settings: hmmsearch --tblout Hbs-subD.tbl Hbs-subD.hmm Hbs-subD.faa 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Mon Jul  1 15:53:56 2024
+# [ok]

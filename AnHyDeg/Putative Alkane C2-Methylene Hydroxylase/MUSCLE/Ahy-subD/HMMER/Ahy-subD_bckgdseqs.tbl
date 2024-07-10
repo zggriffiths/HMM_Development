@@ -1,0 +1,31 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1W9PZU6|A0A1W9PZU6_9BACT -          Ahy-subD_AnHyDeg     -           2.9e-161  531.0   3.8  3.3e-161  530.8   3.8   1.0   1   0   0   1   1   1   1 Dehydrogenase OS=Desulfococcus sp. 4484_241 OX=1968522 GN=B5M56_01470 PE=4 SV=1
+tr|A0A1W9PZU6|A0A1W9PZU6_9BACT -          Ahy-subD_AnHyDeg     -           2.9e-161  531.0   3.8  3.3e-161  530.8   3.8   1.0   1   0   0   1   1   1   1 Dehydrogenase OS=Desulfococcus sp. 4484_241 OX=1968522 GN=B5M56_01470 PE=4 SV=1
+tr|A8ZSU4|A8ZSU4_DESOH         -          Ahy-subD_AnHyDeg     -           1.1e-154  509.4   2.8  1.3e-154  509.2   2.8   1.0   1   0   0   1   1   1   1 Delta-subunit of ethylbenzene dehydrogenase OS=Desulfosudis oleivorans (strain DSM 6200 / JCM 39069 / Hxd3) OX=96561 GN=Dole_0197 PE=4 SV=1
+tr|A8ZSU4|A8ZSU4_DESOH         -          Ahy-subD_AnHyDeg     -           1.1e-154  509.4   2.8  1.3e-154  509.2   2.8   1.0   1   0   0   1   1   1   1 Delta-subunit of ethylbenzene dehydrogenase OS=Desulfosudis oleivorans (strain DSM 6200 / JCM 39069 / Hxd3) OX=96561 GN=Dole_0197 PE=4 SV=1
+tr|A0A661S5Y1|A0A661S5Y1_UNCDE -          Ahy-subD_AnHyDeg     -           3.5e-134  442.3   3.3  3.9e-134  442.1   3.3   1.0   1   0   0   1   1   1   1 Molecular chaperone TorD (Fragment) OS=Deltaproteobacteria bacterium OX=2026735 GN=DRI57_28190 PE=4 SV=1
+tr|A0A661S5Y1|A0A661S5Y1_UNCDE -          Ahy-subD_AnHyDeg     -           3.5e-134  442.3   3.3  3.9e-134  442.1   3.3   1.0   1   0   0   1   1   1   1 Molecular chaperone TorD (Fragment) OS=Deltaproteobacteria bacterium OX=2026735 GN=DRI57_28190 PE=4 SV=1
+tr|A0A934GP35|A0A934GP35_9PROT -          Ahy-subD_AnHyDeg     -            3.9e-33  111.3   0.1   4.9e-33  111.0   0.1   1.0   1   0   0   1   1   1   1 Molecular chaperone TorD family protein OS=Betaproteobacteria bacterium OX=1891241 GN=HY847_13455 PE=4 SV=1
+tr|A0A916J4M4|A0A916J4M4_9PROT -          Ahy-subD_AnHyDeg     -            1.1e-32  109.9   0.2   1.4e-32  109.5   0.2   1.0   1   0   0   1   1   1   1 Delta-subunit of ethylbenzene dehydrogenase OS=Georgfuchsia toluolica OX=424218 GN=ebdD PE=4 SV=1
+tr|A0A7D7KM19|A0A7D7KM19_9BACT -          Ahy-subD_AnHyDeg     -            6.1e-32  107.4   0.2   1.2e-31  106.5   0.2   1.5   1   1   0   1   1   1   1 Ethylbenzene dehydrogenase delta subunit OS=uncultured bacterium OX=77133 GN=WG33_0132 PE=4 SV=1
+tr|Q5P5I3|Q5P5I3_AROAE         -          Ahy-subD_AnHyDeg     -            6.4e-32  107.3   0.0   8.5e-32  106.9   0.0   1.0   1   0   0   1   1   1   1 Delta-subunit of ethylbenzene dehydrogenase OS=Aromatoleum aromaticum (strain EbN1) OX=76114 GN=ebdD PE=4 SV=1
+UPI00035C1DA8                  -          Ahy-subD_AnHyDeg     -            2.6e-31  105.4   0.1     3e-31  105.1   0.1   1.0   1   0   0   1   1   1   1 status=active|Aromatoleum toluclasticum ATCC 700605|ethylbenzene dehydrogenase subunit delta
+tr|A0A1B1YRM0|A0A1B1YRM0_9GAMM -          Ahy-subD_AnHyDeg     -            3.8e-31  104.8   0.1   6.9e-31  103.9   0.1   1.4   1   1   0   1   1   1   1 Uncharacterized protein OS=Immundisolibacter cernigliae OX=1810504 GN=PG2T_03385 PE=4 SV=1
+UPI001D17D77F                  -          Ahy-subD_AnHyDeg     -            4.4e-31  104.6   0.0   5.1e-31  104.4   0.0   1.1   1   0   0   1   1   1   1 status=active|Aromatoleum toluclasticum|ethylbenzene dehydrogenase subunit delta
+UPI001FFDC472                  -          Ahy-subD_AnHyDeg     -            8.8e-31  103.6   0.0   1.3e-30  103.0   0.0   1.2   1   0   0   1   1   1   1 status=active|Thauera aromatica|ethylbenzene dehydrogenase subunit delta
+UPI00145CCDE6                  -          Ahy-subD_AnHyDeg     -            1.7e-30  102.6   0.2   2.3e-30  102.2   0.2   1.0   1   0   0   1   1   1   1 status=active|Aromatoleum bremense|ethylbenzene dehydrogenase subunit delta
+tr|Q5NZU9|Q5NZU9_AROAE         -          Ahy-subD_AnHyDeg     -            2.2e-29   99.0   0.1     3e-29   98.6   0.1   1.1   1   0   0   1   1   1   1 Ethylbenzene dehydrogenase, chaperone OS=Aromatoleum aromaticum (strain EbN1) OX=76114 GN=ebdD2 PE=4 SV=1
+tr|H9NNB0|H9NNB0_9PROT         -          Ahy-subD_AnHyDeg     -            1.2e-27   93.4   0.0   1.6e-27   92.9   0.0   1.1   1   0   0   1   1   1   1 Putative ethylbenzene dehydrogenase-like delta-subunit OS=Sterolibacterium denitrificans OX=157592 GN=ebdD PE=4 SV=1
+UPI00260FB00C                  -          Ahy-subD_AnHyDeg     -            4.8e-24   81.5   0.0   1.2e-23   80.2   0.0   1.6   1   1   0   1   1   1   1 status=active|Immundisolibacter sp.|molecular chaperone TorD family protein
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      Ahy-subD.hmm
+# Target file:     AnHyDeg.faa
+# Option settings: hmmsearch --tblout Ahy-subD_bckgdseqs.tbl Ahy-subD.hmm AnHyDeg.faa 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Mon Jul  1 17:58:48 2024
+# [ok]

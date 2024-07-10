@@ -1,0 +1,14 @@
+CLUSTAL multiple sequence alignment by MUSCLE (3.8)
+
+
+tr|A0A1G1EF50|A0A1G1EF50_9BACT      MHERPNRRLAVHKGFSWGEDPYEIKKKEGREVYDTIILDDSRDKLLGEQDKEVTFSIRLL
+tr|D8WWP7|D8WWP7_9FIRM              MYDKPSNRLEVHKGFTFGPDPDELKKQEGREVYDVIILSDSIDELTSQQNQEITLAIRLL
+                                    *::.*..** *****::* ** *:**:*******.***.** *:* .:*::*:*::****
+
+tr|A0A1G1EF50|A0A1G1EF50_9BACT      APENRRMKYCFRMVKAKISQEPKKYKDILLVRSQRGLLFPGNWSIEIL-EMSKDLQWVAH
+tr|D8WWP7|D8WWP7_9FIRM              TPKDRKMRYCTRTVSAMISSDPTKYRDRLHVRFQRGLLHPKPWSIEIVKELEGLMSLEAD
+                                    :*::*.*.** * *.* **.:*.**.* * ** *****.*  *****: *:.  :.  * 
+
+tr|A0A1G1EF50|A0A1G1EF50_9BACT      TTGVLT
+tr|D8WWP7|D8WWP7_9FIRM              HTLARS
+                                     * . :

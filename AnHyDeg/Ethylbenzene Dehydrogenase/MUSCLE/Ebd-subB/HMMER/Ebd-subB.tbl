@@ -1,0 +1,28 @@
+#                                                                      --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name               accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#       ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+UPI001FFCD2AB               -          EBDH-subB_AnHyDeg    -           1.8e-218  714.4   1.6    2e-218  714.3   1.6   1.0   1   0   0   1   1   1   1 Thauera aromatica ethylbenzene dehydrogenase subunit beta
+UPI00145DA8E0               -          EBDH-subB_AnHyDeg    -           2.4e-218  714.0   4.3  2.7e-218  713.8   4.3   1.0   1   0   0   1   1   1   1 Aromatoleum bremense Ethylbenzene dehydrogenase, beta subunit ethylbenzene dehydrogenase subunit beta, 4Fe-4S dicluster domain-containing protein
+UPI00037D4799               -          EBDH-subB_AnHyDeg    -           1.8e-217  711.1   2.5    2e-217  710.9   2.5   1.0   1   0   0   1   1   1   1 Aromatoleum toluclasticum ATCC 700605 ethylbenzene dehydrogenase subunit beta
+Q5P5I1|Q5P5I1_AROAE         -          EBDH-subB_AnHyDeg    -           2.3e-217  710.7   2.4  2.6e-217  710.6   2.4   1.0   1   0   0   1   1   1   1 Beta-subunit of ethylbenzene dehydrogenase Aromatoleum aromaticum (strain EbN1)
+Q93PD1|Q93PD1_9RHOO         -          EBDH-subB_AnHyDeg    -           5.2e-217  709.6   2.2  5.9e-217  709.4   2.2   1.0   1   0   0   1   1   1   1 Anaerobic ethylbenzene dehydrogenase subunit B Azoarcus sp. EB1
+Q5NZV1|Q5NZV1_AROAE         -          EBDH-subB_AnHyDeg    -           5.2e-216  706.3   3.1  5.8e-216  706.1   3.1   1.0   1   0   0   1   1   1   1 Ethylbenzene dehydrogenase, beta subunit Aromatoleum aromaticum (strain EbN1)
+A0A661EP86|A0A661EP86_9GAMM -          EBDH-subB_AnHyDeg    -           3.1e-213  697.2   2.2  3.7e-213  696.9   2.2   1.0   1   0   0   1   1   1   1 Respiratory nitrate reductase subunit beta Gammaproteobacteria bacterium
+A0A934GPC0|A0A934GPC0_9PROT -          EBDH-subB_AnHyDeg    -           6.6e-213  696.1   4.1  7.3e-213  695.9   4.1   1.0   1   0   0   1   1   1   1 Respiratory nitrate reductase subunit beta Betaproteobacteria bacterium
+A0A661EUP5|A0A661EUP5_9GAMM -          EBDH-subB_AnHyDeg    -             9e-213  695.6   2.2  1.1e-212  695.4   2.2   1.0   1   0   0   1   1   1   1 Respiratory nitrate reductase subunit beta Gammaproteobacteria bacterium
+A0A916J4N9|A0A916J4N9_9PROT -          EBDH-subB_AnHyDeg    -           4.2e-212  693.4   4.3  4.7e-212  693.3   4.3   1.0   1   0   0   1   1   1   1 Selenate reductase subunit beta Georgfuchsia toluolica
+UPI002618397E               -          EBDH-subB_AnHyDeg    -           7.6e-212  692.6   2.1  8.5e-212  692.4   2.1   1.0   1   0   0   1   1   1   1 Immundisolibacter sp. 4Fe-4S dicluster domain-containing protein
+A0A1B1YRC5|A0A1B1YRC5_9GAMM -          EBDH-subB_AnHyDeg    -           1.8e-211  691.4   2.2    2e-211  691.2   2.2   1.0   1   0   0   1   1   1   1 Respiratory nitrate reductase subunit beta Immundisolibacter cernigliae
+A0A916HPT9|A0A916HPT9_9BACT -          EBDH-subB_AnHyDeg    -           4.4e-198  647.3   0.7  5.3e-198  647.0   0.7   1.0   1   0   0   1   1   1   1 DMSO reductase family type II enzyme, iron-sulfur subunit / Perchlorate reductase subunit beta Myxococcaceae bacterium
+A0A7D7Q1C9|A0A7D7Q1C9_9BACT -          EBDH-subB_AnHyDeg    -           9.4e-198  646.2   3.9  1.1e-197  646.1   3.9   1.0   1   0   0   1   1   1   1 Respiratory nitrate reductase beta chain uncultured bacterium
+A0A968C1M1|A0A968C1M1_9GAMM -          EBDH-subB_AnHyDeg    -           5.5e-161  525.3   1.7  6.1e-161  525.2   1.7   1.0   1   0   0   1   1   1   1 Respiratory nitrate reductase subunit beta (Fragment) Gammaproteobacteria bacterium
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      Ebd-subB.hmm
+# Target file:     Ebd-subB_2.faa
+# Option settings: hmmsearch --tblout Ebd-subB.tbl Ebd-subB.hmm Ebd-subB_2.faa 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Sun Jun 30 22:50:15 2024
+# [ok]

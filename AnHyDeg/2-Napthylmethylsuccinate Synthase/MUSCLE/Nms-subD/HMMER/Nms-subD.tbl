@@ -1,0 +1,22 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A5K8A2E8|A0A5K8A2E8_9BACT -          Nms-subD_AnHyDeg     -           1.7e-204  667.9   0.1  1.9e-204  667.7   0.1   1.0   1   0   0   1   1   1   1 Glycyl-radical enzyme activating protein OS=Desulfosarcina ovata subsp. sediminis OX=885957 GN=DSCO28_71340 PE=3 SV=1
+tr|A0A5K8AP89|A0A5K8AP89_9BACT -          Nms-subD_AnHyDeg     -           1.7e-204  667.9   0.1  1.9e-204  667.7   0.1   1.0   1   0   0   1   1   1   1 Glycyl-radical enzyme activating protein OS=Desulfosarcina ovata subsp. ovata OX=2752305 GN=DSCOOX_66040 PE=3 SV=1
+tr|A0A975BX96|A0A975BX96_9BACT -          Nms-subD_AnHyDeg     -           2.1e-200  654.4   1.2  2.5e-200  654.2   1.2   1.0   1   0   0   1   1   1   1 Hydroxybenzylsuccinate synthase activating enzyme OS=Desulfonema magnum OX=45655 GN=hbsD2 PE=3 SV=1
+tr|A0A934A076|A0A934A076_UNCDE -          Nms-subD_AnHyDeg     -           3.4e-198  647.1   0.0  3.9e-198  646.9   0.0   1.0   1   0   0   1   1   1   1 Glycyl-radical enzyme activating protein OS=Deltaproteobacteria bacterium OX=2026735 GN=HY881_00035 PE=3 SV=1
+tr|A0A445MYY2|A0A445MYY2_9BACT -          Nms-subD_AnHyDeg     -           4.7e-192  627.0   0.1  5.2e-192  626.8   0.1   1.0   1   0   0   1   1   1   1 Putative naphthyl-2-methyl-succinate synthase activating enzyme OS=uncultured Desulfobacterium sp OX=201089 GN=nmsD PE=3 SV=1
+tr|S0G636|S0G636_9BACT         -          Nms-subD_AnHyDeg     -           3.2e-191  624.2   0.2  3.5e-191  624.1   0.2   1.0   1   0   0   1   1   1   1 Alkylsuccinate synthase (II) glycyl radical activating enzyme BssD OS=Desulfotignum phosphitoxidans DSM 13687 OX=1286635 GN=bssD PE=3 SV=1
+tr|E1YFQ7|E1YFQ7_9BACT         -          Nms-subD_AnHyDeg     -           4.2e-184  600.8   4.6  9.5e-182  593.1   4.6   2.0   1   1   0   1   1   1   1 4-hydroxyphenylacetate decarboxylase activating enzyme OS=uncultured Desulfobacterium sp OX=201089 GN=N47_J03820 PE=3 SV=1
+tr|D2XBH6|D2XBH6_9BACT         -          Nms-subD_AnHyDeg     -           5.6e-184  600.4   4.7  3.1e-133  433.5   0.0   2.0   1   1   1   2   2   2   2 Putative naphthyl-2-methyl-succinate synthase activating enzyme (Fragment) OS=bacterium enrichment culture clone N47 OX=700510 GN=nmsD PE=3 SV=1
+tr|A0A1H2E0B9|A0A1H2E0B9_9BACT -          Nms-subD_AnHyDeg     -            1.9e-52  167.7   5.1     2e-52  167.7   5.1   1.0   1   0   0   1   1   1   1 4Fe-4S single cluster domain-containing protein OS=Desulfobacula phenolica OX=90732 GN=SAMN04487931_102380 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      Nms-subD.hmm
+# Target file:     Nms-subD.faa
+# Option settings: hmmsearch --tblout Nms-subD.tbl Nms-subD.hmm Nms-subD.faa 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Sun Jun 30 20:59:52 2024
+# [ok]

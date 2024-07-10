@@ -1,0 +1,26 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|B0CLU5|B0CLU5_9DELT         -          Nms-subA_AnHyDeg     -                  0 1732.0   0.1         0 1731.8   0.1   1.0   1   0   0   1   1   1   1 Alpha-subunit of naphtylmethylsuccinate synthase OS=delta proteobacterium NaphS2 OX=88274 GN=nmsA PE=4 SV=1
+tr|B0CLU6|B0CLU6_9DELT         -          Nms-subA_AnHyDeg     -                  0 1732.0   0.1         0 1731.8   0.1   1.0   1   0   0   1   1   1   1 Alpha-subunit of naphtylmethylsuccinate synthase OS=delta proteobacterium NaphS3 OX=493241 GN=nmsA PE=4 SV=1
+tr|B0CLU8|B0CLU8_9DELT         -          Nms-subA_AnHyDeg     -                  0 1722.5   0.0         0 1722.4   0.0   1.0   1   0   0   1   1   1   1 Alpha-subunit of naphtylmethylsuccinate synthase OS=delta proteobacterium NaphS6 OX=493243 GN=nmsA PE=4 SV=1
+tr|D2XBH8|D2XBH8_9BACT         -          Nms-subA_AnHyDeg     -                  0 1721.4   0.0         0 1721.3   0.0   1.0   1   0   0   1   1   1   1 Putative naphthyl-2-methyl-succinate synthase alpha subunit (Fragment) OS=bacterium enrichment culture clone N47 OX=700510 GN=nmsA PE=4 SV=1
+tr|E1YFQ9|E1YFQ9_9BACT         -          Nms-subA_AnHyDeg     -                  0 1721.4   0.0         0 1721.3   0.0   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=uncultured Desulfobacterium sp OX=201089 GN=N47_J03840 PE=4 SV=1
+tr|D8FBK7|D8FBK7_9DELT         -          Nms-subA_AnHyDeg     -                  0 1647.8   0.1         0 1647.6   0.1   1.0   1   0   0   1   1   1   1 Glycine radical domain protein OS=delta proteobacterium NaphS2 OX=88274 GN=NPH_4689 PE=4 SV=1
+tr|A0A0F2NFL6|A0A0F2NFL6_9FIRM -          Nms-subA_AnHyDeg     -                  0 1608.7   0.2         0 1608.6   0.2   1.0   1   0   0   1   1   1   1 Pyruvate formate-lyase OS=Peptococcaceae bacterium BRH_c4a OX=1629716 GN=VR68_06835 PE=4 SV=1
+tr|A0A060GLE0|A0A060GLE0_9BACT -          Nms-subA_AnHyDeg     -                  0 1569.7   0.4         0 1569.6   0.4   1.0   1   0   0   1   1   1   1 NmsA OS=uncultured bacterium OX=77133 PE=4 SV=1
+tr|A0A661PRM2|A0A661PRM2_UNCDE -          Nms-subA_AnHyDeg     -                  0 1568.0   0.3         0 1567.9   0.3   1.0   1   0   0   1   1   1   1 Glycyl radical protein OS=Deltaproteobacteria bacterium OX=2026735 GN=DRH08_00400 PE=4 SV=1
+tr|A0A5K8A6I1|A0A5K8A6I1_9BACT -          Nms-subA_AnHyDeg     -                  0 1565.2   0.1         0 1565.0   0.1   1.0   1   0   0   1   1   1   1 Dehydrogenase OS=Desulfosarcina ovata subsp. ovata OX=2752305 GN=pflD_1 PE=4 SV=1
+tr|A0A0F2SFV9|A0A0F2SFV9_9FIRM -          Nms-subA_AnHyDeg     -                  0 1381.7   0.0         0 1381.6   0.0   1.0   1   0   0   1   1   1   1 Pyruvate formate-lyase OS=Peptococcaceae bacterium BRH_c23 OX=1629714 GN=VR66_05990 PE=4 SV=1
+tr|K7WP47|K7WP47_9BACT         -          Nms-subA_AnHyDeg     -           2.4e-158  518.1   0.1  2.7e-158  517.9   0.1   1.0   1   0   0   1   1   1   1 Naphthylmethylsuccinate synthase alpha subunit (Fragment) OS=uncultured bacterium OX=77133 GN=nmsA PE=4 SV=1
+tr|A0A0F2SAU0|A0A0F2SAU0_9FIRM -          Nms-subA_AnHyDeg     -            9.2e-68  218.4   0.0     1e-67  218.3   0.0   1.0   1   0   0   1   1   1   1 PFL domain-containing protein (Fragment) OS=Peptococcaceae bacterium BRH_c23 OX=1629714 GN=VR66_24710 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      Nms-subA.hmm
+# Target file:     Nms-subA.faa
+# Option settings: hmmsearch --tblout Nms-subA.tbl Nms-subA.hmm Nms-subA.faa 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Sun Jun 30 20:37:43 2024
+# [ok]

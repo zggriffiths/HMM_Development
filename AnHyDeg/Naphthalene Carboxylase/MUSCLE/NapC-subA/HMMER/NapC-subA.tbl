@@ -1,0 +1,17 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|E1YIX0|E1YIX0_9BACT         -          NapC-subA_AnHyDeg    -             7e-299  979.2   0.4  7.8e-299  979.0   0.4   1.0   1   0   0   1   1   1   1 Phenylphosphate carboxylase, alpha subunit OS=uncultured Desulfobacterium sp OX=201089 GN=N47_K27540 PE=4 SV=1
+tr|D8F9D7|D8F9D7_9DELT         -          NapC-subA_AnHyDeg    -           1.2e-297  975.1   0.6  1.4e-297  974.9   0.6   1.0   1   0   0   1   1   1   1 Putative phenylphosphate carboxylase, alpha subunit OS=delta proteobacterium NaphS2 OX=88274 GN=NPH_5855 PE=4 SV=1
+tr|A0A523BX67|A0A523BX67_UNCCL -          NapC-subA_AnHyDeg    -           3.8e-289  947.1   1.9  4.3e-289  946.9   1.9   1.0   1   0   0   1   1   1   1 UbiD family decarboxylase OS=Clostridia bacterium OX=2044939 GN=D9V47_11030 PE=4 SV=1
+tr|A0A1G1EGZ1|A0A1G1EGZ1_9BACT -          NapC-subA_AnHyDeg    -           1.3e-280  918.9   0.3  1.4e-280  918.8   0.3   1.0   1   0   0   1   1   1   1 Phenylphosphate carboxylase subunit alpha OS=Nitrospinae bacterium RIFCSPLOWO2_12_FULL_45_22 OX=1801687 GN=A3G93_00875 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      NapC-subA.hmm
+# Target file:     NapC-subA.faa
+# Option settings: hmmsearch --tblout NapC-subA.tbl NapC-subA.hmm NapC-subA.faa 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Mon Jul  1 16:14:45 2024
+# [ok]

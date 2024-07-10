@@ -1,0 +1,16 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A1W9PZU6|A0A1W9PZU6_9BACT -          Ahy-subD_AnHyDeg     -             6e-164  531.0   3.8  6.7e-164  530.8   3.8   1.0   1   0   0   1   1   1   1 Dehydrogenase OS=Desulfococcus sp. 4484_241 OX=1968522 GN=B5M56_01470 PE=4 SV=1
+tr|A8ZSU4|A8ZSU4_DESOH         -          Ahy-subD_AnHyDeg     -           2.3e-157  509.4   2.8  2.6e-157  509.2   2.8   1.0   1   0   0   1   1   1   1 Delta-subunit of ethylbenzene dehydrogenase OS=Desulfosudis oleivorans (strain DSM 6200 / JCM 39069 / Hxd3) OX=96561 GN=Dole_0197 PE=4 SV=1
+tr|A0A661S5Y1|A0A661S5Y1_UNCDE -          Ahy-subD_AnHyDeg     -           7.3e-137  442.3   3.3  8.1e-137  442.1   3.3   1.0   1   0   0   1   1   1   1 Molecular chaperone TorD (Fragment) OS=Deltaproteobacteria bacterium OX=2026735 GN=DRI57_28190 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      Ahy-subD.hmm
+# Target file:     Ahy-subD.faa
+# Option settings: hmmsearch --tblout Ahy-subD.tbl Ahy-subD.hmm Ahy-subD.faa 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Mon Jul  1 17:58:42 2024
+# [ok]

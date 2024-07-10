@@ -1,0 +1,24 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A3A4NZN2|A0A3A4NZN2_9BACT -          Ahy-subA_AnHyDeg     -                  0 2034.5   8.0         0 2034.3   8.0   1.0   1   0   0   1   1   1   1 Ethylbenzene dehydrogenase OS=Candidatus Abyssubacteria bacterium SURF_5 OX=2093360 GN=C4520_04910 PE=3 SV=1
+tr|A0A3A4P6E0|A0A3A4P6E0_9BACT -          Ahy-subA_AnHyDeg     -                  0 2020.8   9.0         0 2020.6   9.0   1.0   1   0   0   1   1   1   1 4Fe-4S Mo/W bis-MGD-type domain-containing protein OS=Candidatus Abyssubacteria bacterium SURF_5 OX=2093360 GN=C4520_00315 PE=3 SV=1
+tr|A0A933RLP2|A0A933RLP2_UNCPO -          Ahy-subA_AnHyDeg     -                  0 2011.7   8.9         0 2011.5   8.9   1.0   1   0   0   1   1   1   1 Molybdopterin-dependent oxidoreductase OS=Poribacteria bacterium OX=2026781 GN=HZA56_00670 PE=3 SV=1
+tr|A0A933VT27|A0A933VT27_UNCPO -          Ahy-subA_AnHyDeg     -                  0 2003.7   6.2         0 2003.6   6.2   1.0   1   0   0   1   1   1   1 Molybdopterin-dependent oxidoreductase OS=Poribacteria bacterium OX=2026781 GN=HZA56_19660 PE=3 SV=1
+tr|A0A933RS29|A0A933RS29_UNCPO -          Ahy-subA_AnHyDeg     -                  0 2003.4   5.3         0 2003.3   5.3   1.0   1   0   0   1   1   1   1 Molybdopterin-dependent oxidoreductase OS=Poribacteria bacterium OX=2026781 GN=HZA56_20065 PE=3 SV=1
+tr|A0A3A4P0U6|A0A3A4P0U6_9BACT -          Ahy-subA_AnHyDeg     -                  0 1991.5   3.5         0 1991.3   3.5   1.0   1   0   0   1   1   1   1 4Fe-4S Mo/W bis-MGD-type domain-containing protein OS=Candidatus Abyssubacteria bacterium SURF_5 OX=2093360 GN=C4520_04920 PE=3 SV=1
+tr|A0A3A4N8V8|A0A3A4N8V8_9BACT -          Ahy-subA_AnHyDeg     -                  0 1980.1   4.0         0 1979.9   4.0   1.0   1   0   0   1   1   1   1 Twin-arginine translocation signal domain-containing protein OS=Candidatus Abyssubacteria bacterium SURF_5 OX=2093360 GN=C4520_16090 PE=3 SV=1
+tr|A0A1W9Q1U1|A0A1W9Q1U1_9BACT -          Ahy-subA_AnHyDeg     -                  0 1951.5   9.5         0 1951.4   9.5   1.0   1   0   0   1   1   1   1 4Fe-4S Mo/W bis-MGD-type domain-containing protein OS=Desulfococcus sp. 4484_241 OX=1968522 GN=B5M56_01455 PE=3 SV=1
+tr|A0A947W4E6|A0A947W4E6_UNCPS -          Ahy-subA_AnHyDeg     -                  0 1950.7   8.6         0 1950.5   8.6   1.0   1   0   0   1   1   1   1 Molybdopterin-dependent oxidoreductase OS=Pseudomonadota bacterium OX=1977087 GN=KJ737_27765 PE=3 SV=1
+tr|A0A7C4WT14|A0A7C4WT14_UNCPS -          Ahy-subA_AnHyDeg     -                  0 1944.1   0.0         0 1943.9   0.0   1.0   1   0   0   1   1   1   1 Ethylbenzene dehydrogenase OS=Pseudomonadota bacterium OX=1977087 GN=ENS96_19670 PE=3 SV=1
+tr|A8ZSU1|A8ZSU1_DESOH         -          Ahy-subA_AnHyDeg     -                  0 1937.5   7.1         0 1937.3   7.1   1.0   1   0   0   1   1   1   1 Molybdopterin oxidoreductase OS=Desulfosudis oleivorans (strain DSM 6200 / JCM 39069 / Hxd3) OX=96561 GN=Dole_0194 PE=3 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      Ahy-subA.hmm
+# Target file:     Ahy-subA.faa
+# Option settings: hmmsearch --tblout Ahy-subA.tbl Ahy-subA.hmm Ahy-subA.faa 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Mon Jul  1 17:57:03 2024
+# [ok]

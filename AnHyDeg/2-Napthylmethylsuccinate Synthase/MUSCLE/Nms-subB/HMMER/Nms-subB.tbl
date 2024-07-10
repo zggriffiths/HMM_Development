@@ -1,0 +1,18 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|D2XBH7|D2XBH7_9BACT         -          Nms-subB_AnHyDeg     -            5.5e-51  159.3   0.7     6e-51  159.2   0.7   1.0   1   0   0   1   1   1   1 Putative naphthyl-2-methyl-succinate synthase beta subunit (Fragment) OS=bacterium enrichment culture clone N47 OX=700510 GN=nmsB PE=4 SV=1
+tr|E1YFQ8|E1YFQ8_9BACT         -          Nms-subB_AnHyDeg     -            5.5e-51  159.3   0.7     6e-51  159.2   0.7   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=uncultured Desulfobacterium sp OX=201089 GN=N47_J03830 PE=4 SV=1
+tr|A0A1J4SCV0|A0A1J4SCV0_9DELT -          Nms-subB_AnHyDeg     -            1.2e-49  155.1   1.3   1.3e-49  155.0   1.3   1.0   1   0   0   1   1   1   1 4Fe-4S Mo/W bis-MGD-type domain-containing protein OS=Deltaproteobacteria bacterium CG1_02_45_11 OX=1805124 GN=AUJ48_01410 PE=4 SV=1
+tr|D8F4E4|D8F4E4_9DELT         -          Nms-subB_AnHyDeg     -            9.2e-48  149.0   0.8     1e-47  148.9   0.8   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=delta proteobacterium NaphS2 OX=88274 GN=NPH_1772 PE=4 SV=1
+tr|A0A0F2NKD5|A0A0F2NKD5_9FIRM -          Nms-subB_AnHyDeg     -            5.4e-47  146.6   2.2   5.8e-47  146.4   2.2   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase beta subunit domain-containing protein OS=Peptococcaceae bacterium BRH_c4a OX=1629716 GN=VR68_06830 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      Nms-subB.hmm
+# Target file:     Nms-subB.faa
+# Option settings: hmmsearch --tblout Nms-subB.tbl Nms-subB.hmm Nms-subB.faa 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Sun Jun 30 20:47:10 2024
+# [ok]

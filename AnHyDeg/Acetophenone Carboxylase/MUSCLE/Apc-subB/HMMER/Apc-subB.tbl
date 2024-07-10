@@ -1,0 +1,31 @@
+#                                                                 --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name          accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#  ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+UniRef90_UPI0021AAA49C -          Apc-subB_AnHyDeg     -            2.6e-68  218.0   0.2     3e-68  217.8   0.2   1.0   1   0   0   1   1   1   1 acetophenone carboxylase subunit beta n=1 Tax=Bradyrhizobium sp. CB1015 TaxID=2976822 RepID=UPI0021AAA49C
+UniRef90_UPI00235DB858 -          Apc-subB_AnHyDeg     -            6.1e-68  216.8   0.3     7e-68  216.6   0.3   1.0   1   0   0   1   1   1   1 acetophenone carboxylase subunit beta n=1 Tax=Hydrogenophaga electricum TaxID=1230953 RepID=UPI00235DB858
+UniRef90_UPI00286AF543 -          Apc-subB_AnHyDeg     -            9.1e-68  216.3   0.0     1e-67  216.1   0.0   1.0   1   0   0   1   1   1   1 acetophenone carboxylase subunit beta n=1 Tax=Methylibium sp. TaxID=2067992 RepID=UPI00286AF543
+UniRef90_UPI001D00ACDD -          Apc-subB_AnHyDeg     -            1.8e-67  215.3   0.2   2.1e-67  215.1   0.2   1.0   1   0   0   1   1   1   1 acetophenone carboxylase subunit beta n=1 Tax=Mesopusillimonas faecipullorum TaxID=2755040 RepID=UPI001D00ACDD
+UniRef90_Q5P5G3        -          Apc-subB_AnHyDeg     -            1.3e-65  209.3   0.3   1.5e-65  209.1   0.3   1.0   1   0   0   1   1   1   1 Acetophenone carboxylase beta subunit n=2 Tax=Aromatoleum TaxID=551759 RepID=APCB_AROAE
+UniRef90_A0A916N901    -          Apc-subB_AnHyDeg     -            1.3e-64  206.1   0.2   1.4e-64  206.0   0.2   1.0   1   0   0   1   1   1   1 Acetophenone carboxylase beta subunit n=1 Tax=Georgfuchsia toluolica TaxID=424218 RepID=A0A916N901_9PROT
+UniRef90_A0A1V5CY22    -          Apc-subB_AnHyDeg     -            3.6e-64  204.6   1.0     4e-64  204.5   1.0   1.0   1   0   0   1   1   1   1 Acetophenone carboxylase beta subunit n=1 Tax=Syntrophorhabdus sp. PtaU1.Bin058 TaxID=1811704 RepID=A0A1V5CY22_9BACT
+UniRef90_UPI0003B4C0FD -          Apc-subB_AnHyDeg     -            3.1e-63  201.6   0.0   3.4e-63  201.5   0.0   1.0   1   0   0   1   1   1   1 acetophenone carboxylase subunit beta n=2 Tax=Nevskia ramosa TaxID=64002 RepID=UPI0003B4C0FD
+UniRef90_A0A9E7BZD0    -          Apc-subB_AnHyDeg     -              3e-62  198.4   0.5   3.3e-62  198.3   0.5   1.0   1   0   0   1   1   1   1 Acetophenone carboxylase beta subunit n=1 Tax=Capillimicrobium parvum TaxID=2884022 RepID=A0A9E7BZD0_9ACTN
+UniRef90_A0A940V004    -          Apc-subB_AnHyDeg     -            3.2e-62  198.3   0.3   3.5e-62  198.2   0.3   1.0   1   0   0   1   1   1   1 Subunit beta of acetophenone carboxylase n=1 Tax=Deltaproteobacteria bacterium TaxID=2026735 RepID=A0A940V004_UNCDE
+UniRef90_A0A940USM2    -          Apc-subB_AnHyDeg     -            4.8e-61  194.5   1.3   5.2e-61  194.4   1.3   1.0   1   0   0   1   1   1   1 Subunit beta of acetophenone carboxylase n=1 Tax=Deltaproteobacteria bacterium TaxID=2026735 RepID=A0A940USM2_UNCDE
+UniRef90_A0A1V5BXJ0    -          Apc-subB_AnHyDeg     -              1e-60  193.5   2.8   1.1e-60  193.3   2.8   1.0   1   0   0   1   1   1   1 Acetophenone carboxylase beta subunit n=1 Tax=Syntrophorhabdaceae bacterium PtaU1.Bin034 TaxID=1811715 RepID=A0A1V5BXJ0_9BACT
+UniRef90_A0A653AHM5    -          Apc-subB_AnHyDeg     -            2.9e-60  192.0   0.0   3.2e-60  191.9   0.0   1.0   1   0   0   1   1   1   1 Acetophenone carboxylase beta subunit n=2 Tax=Desulfatiglans TaxID=1549126 RepID=A0A653AHM5_UNCDX
+UniRef90_A0A1V5BE15    -          Apc-subB_AnHyDeg     -            3.9e-57  181.9   0.8   4.2e-57  181.8   0.8   1.0   1   0   0   1   1   1   1 Acetophenone carboxylase beta subunit n=1 Tax=Pelotomaculum sp. PtaU1.Bin035 TaxID=1811695 RepID=A0A1V5BE15_9FIRM
+UniRef90_A0A1J5RNH4    -          Apc-subB_AnHyDeg     -            5.8e-56  178.1   0.2   6.5e-56  178.0   0.2   1.0   1   0   0   1   1   1   1 Acetophenone carboxylase beta subunit n=1 Tax=mine drainage metagenome TaxID=410659 RepID=A0A1J5RNH4_9ZZZZ
+UniRef90_A0A5S9N9P3    -          Apc-subB_AnHyDeg     -            5.9e-54  171.6   0.4   6.5e-54  171.5   0.4   1.0   1   0   0   1   1   1   1 Acetophenone carboxylase beta subunit n=1 Tax=Zhongshania aliphaticivorans TaxID=1470434 RepID=A0A5S9N9P3_9GAMM
+UniRef90_A0A1Y2N7N6    -          Apc-subB_AnHyDeg     -            2.5e-53  169.6   0.6   2.8e-53  169.5   0.6   1.0   1   0   0   1   1   1   1 Acetophenone carboxylase beta subunit n=1 Tax=Pseudonocardia autotrophica TaxID=2074 RepID=A0A1Y2N7N6_PSEAH
+UniRef90_A0A1V5BEY2    -          Apc-subB_AnHyDeg     -            5.2e-37  116.9   2.0   6.2e-37  116.7   2.0   1.1   1   0   0   1   1   1   1 Acetophenone carboxylase beta subunit n=1 Tax=Pelotomaculum sp. PtaU1.Bin035 TaxID=1811695 RepID=A0A1V5BEY2_9FIRM
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      Apc-subB.hmm
+# Target file:     Apc-subB.faa
+# Option settings: hmmsearch --tblout Apc-subB.tbl Apc-subB.hmm Apc-subB.faa 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Sun Jun 30 21:23:08 2024
+# [ok]

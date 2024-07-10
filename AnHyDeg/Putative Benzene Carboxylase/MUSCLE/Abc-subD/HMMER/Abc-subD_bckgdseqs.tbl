@@ -1,0 +1,40 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|D8WWP7|D8WWP7_9FIRM         -          Abc-subD_AnHyDeg     -            8.4e-78  254.9   0.1   9.2e-78  254.8   0.1   1.0   1   0   0   1   1   1   1 Putative anaerobic benzene carboxylase AbcD (Fragment) OS=Clostridia bacterium enrichment culture clone BF OX=857391 PE=4 SV=1
+tr|A0A1G1EF50|A0A1G1EF50_9BACT -          Abc-subD_AnHyDeg     -            2.4e-77  253.4   0.1   2.7e-77  253.3   0.1   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Nitrospinae bacterium RIFCSPLOWO2_12_FULL_45_22 OX=1801687 GN=A3G93_12290 PE=4 SV=1
+tr|A0A9D8JWM5|A0A9D8JWM5_UNCCH -          Abc-subD_AnHyDeg     -            3.7e-13   46.0   0.0   4.4e-13   45.8   0.0   1.1   1   0   0   1   1   1   1 Phenylphosphate carboxylase subunit gamma OS=Chloroflexota bacterium OX=2026724 GN=FJ030_02570 PE=4 SV=1
+tr|A0A809R6F3|A0A809R6F3_9PROT -          Abc-subD_AnHyDeg     -            1.4e-11   40.9   0.0   1.6e-11   40.7   0.0   1.1   1   0   0   1   1   1   1 Phenylphosphate carboxylase subunit gamma OS=Candidatus Desulfobacillus denitrificans OX=2608985 GN=DSYM_29670 PE=4 SV=1
+tr|A0A7V7WSP6|A0A7V7WSP6_9BURK -          Abc-subD_AnHyDeg     -              2e-11   40.4   0.0   2.2e-11   40.2   0.0   1.1   1   0   0   1   1   1   1 Phenylphosphate carboxylase subunit gamma OS=Burkholderiales bacterium OX=1891238 GN=BURK2_03635 PE=4 SV=1
+tr|A0A6M8WDS1|A0A6M8WDS1_UNCPS -          Abc-subD_AnHyDeg     -            1.2e-10   37.9   0.0   1.4e-10   37.7   0.0   1.1   1   0   0   1   1   1   1 Phenylphosphate carboxylase subunit gamma OS=Pseudomonadota bacterium OX=1977087 GN=DWQ09_01190 PE=4 SV=1
+tr|A0A935A9M1|A0A935A9M1_9PROT -          Abc-subD_AnHyDeg     -            1.7e-10   37.4   0.1   1.9e-10   37.3   0.1   1.1   1   0   0   1   1   1   1 Phenylphosphate carboxylase subunit gamma OS=Betaproteobacteria bacterium OX=1891241 GN=ppcG PE=4 SV=1
+tr|A0A363SLH4|A0A363SLH4_9RHOO -          Abc-subD_AnHyDeg     -            1.9e-10   37.3   0.0   2.1e-10   37.1   0.0   1.1   1   0   0   1   1   1   1 Phenylphosphate carboxylase subunit gamma OS=Rhodocyclales bacterium OX=2072421 GN=ppcG PE=4 SV=1
+tr|A0A953IR52|A0A953IR52_9RHOO -          Abc-subD_AnHyDeg     -            1.9e-10   37.3   0.0   2.1e-10   37.1   0.0   1.1   1   0   0   1   1   1   1 Phenylphosphate carboxylase subunit gamma OS=Rhodocyclaceae bacterium OX=1898103 GN=ppcG PE=4 SV=1
+tr|A0A9D6DH87|A0A9D6DH87_9RHOO -          Abc-subD_AnHyDeg     -            2.2e-10   37.0   0.0   2.5e-10   36.9   0.0   1.0   1   0   0   1   1   1   1 Phenylphosphate carboxylase subunit gamma OS=Rhodocyclales bacterium OX=2072421 GN=ppcG PE=4 SV=1
+tr|A0A7V7XMG8|A0A7V7XMG8_9RHOO -          Abc-subD_AnHyDeg     -            7.2e-10   35.4   0.0   8.4e-10   35.2   0.0   1.1   1   0   0   1   1   1   1 Phenylphosphate carboxylase subunit gamma OS=Rhodocyclaceae bacterium OX=1898103 GN=F9K21_11610 PE=4 SV=1
+tr|Q5P481|Q5P481_AROAE         -          Abc-subD_AnHyDeg     -            7.6e-10   35.3   0.0   8.8e-10   35.1   0.0   1.1   1   0   0   1   1   1   1 Phenylphosphate carboxylase, delta subunit OS=Aromatoleum aromaticum (strain EbN1) OX=76114 GN=ppcD PE=4 SV=1
+tr|A0A936TX75|A0A936TX75_9PROT -          Abc-subD_AnHyDeg     -            8.5e-10   35.1   0.0   9.8e-10   34.9   0.0   1.1   1   0   0   1   1   1   1 Phenylphosphate carboxylase subunit gamma OS=Sulfuritalea sp OX=2480090 GN=ppcG PE=4 SV=1
+tr|A0A933Q7S8|A0A933Q7S8_9RHOO -          Abc-subD_AnHyDeg     -            8.8e-10   35.1   0.0     1e-09   34.9   0.0   1.1   1   0   0   1   1   1   1 Phenylphosphate carboxylase subunit gamma OS=Rhodocyclales bacterium OX=2072421 GN=ppcG PE=4 SV=1
+tr|A0A962JND9|A0A962JND9_9GAMM -          Abc-subD_AnHyDeg     -            8.8e-10   35.1   0.0   9.1e-10   35.0   0.0   1.1   1   0   0   1   1   1   1 Phenylphosphate carboxylase subunit gamma OS=Pseudomonadales bacterium OX=1891229 GN=KDI20_02045 PE=4 SV=1
+tr|A0A2N2TX60|A0A2N2TX60_9PROT -          Abc-subD_AnHyDeg     -            3.5e-09   33.1   0.1     4e-09   32.9   0.1   1.1   1   0   0   1   1   1   1 Phenylphosphate carboxylase subunit gamma OS=Betaproteobacteria bacterium HGW-Betaproteobacteria-14 OX=2013705 GN=ppcG PE=4 SV=1
+tr|A0A963C6N7|A0A963C6N7_9RHOO -          Abc-subD_AnHyDeg     -            3.5e-09   33.1   0.1     4e-09   32.9   0.1   1.1   1   0   0   1   1   1   1 Phenylphosphate carboxylase subunit gamma OS=Rhodocyclaceae bacterium OX=1898103 GN=ppcG PE=4 SV=1
+tr|A0A2R4BR37|A0A2R4BR37_THAAR -          Abc-subD_AnHyDeg     -            5.3e-09   32.6   0.0     6e-09   32.4   0.0   1.1   1   0   0   1   1   1   1 Phenylphosphate carboxylase subunit gamma OS=Thauera aromatica K172 OX=44139 GN=Tharo_2780 PE=4 SV=1
+tr|Q7B0A1|Q7B0A1_THAAR         -          Abc-subD_AnHyDeg     -            5.3e-09   32.6   0.0     6e-09   32.4   0.0   1.1   1   0   0   1   1   1   1 Phenylphosphate carboxylase subunit gamma OS=Thauera aromatica OX=59405 PE=4 SV=1
+tr|A0A9D7SLF6|A0A9D7SLF6_9RHOO -          Abc-subD_AnHyDeg     -            7.8e-09   32.0   0.0   8.8e-09   31.8   0.0   1.1   1   0   0   1   1   1   1 Phenylphosphate carboxylase subunit gamma OS=Rhodocyclaceae bacterium OX=1898103 GN=IPP18_02075 PE=4 SV=1
+tr|A0A951VZJ8|A0A951VZJ8_9RHOO -          Abc-subD_AnHyDeg     -            1.4e-08   31.2   0.0   1.6e-08   31.0   0.0   1.0   1   0   0   1   1   1   1 Phenylphosphate carboxylase subunit gamma OS=Rhodocyclaceae bacterium OX=1898103 GN=ppcG PE=4 SV=1
+tr|A0A936FHS1|A0A936FHS1_9BURK -          Abc-subD_AnHyDeg     -            3.2e-08   30.0   0.0   3.8e-08   29.8   0.0   1.1   1   0   0   1   1   1   1 Phenylphosphate carboxylase subunit gamma OS=Burkholderiales bacterium OX=1891238 GN=IPN21_11545 PE=4 SV=1
+tr|A0A941Z188|A0A941Z188_UNCPS -          Abc-subD_AnHyDeg     -            3.8e-08   29.8   0.0   4.3e-08   29.6   0.0   1.1   1   0   0   1   1   1   1 Phenylphosphate carboxylase subunit gamma OS=Pseudomonadota bacterium OX=1977087 GN=JSR84_10595 PE=4 SV=1
+tr|A0A963JLL3|A0A963JLL3_9BURK -          Abc-subD_AnHyDeg     -            1.4e-07   28.0   0.0   1.6e-07   27.8   0.0   1.1   1   0   0   1   1   1   1 Phenylphosphate carboxylase subunit gamma OS=Rhodoferax sp OX=50421 GN=ppcG PE=4 SV=1
+tr|A0A1E4IF54|A0A1E4IF54_9BURK -          Abc-subD_AnHyDeg     -            3.9e-07   26.5   0.0   4.6e-07   26.3   0.0   1.1   1   0   0   1   1   1   1 Phenylphosphate carboxylase subunit gamma OS=Rubrivivax sp. SCN 71-131 OX=1660138 GN=ABS84_13825 PE=4 SV=1
+tr|A0A1N7AT45|A0A1N7AT45_9RHOO -          Abc-subD_AnHyDeg     -            2.4e-06   24.0   0.0   2.9e-06   23.7   0.0   1.1   1   0   0   1   1   1   1 Phenylphosphate carboxylase, gamma subunit OS=Aromatoleum tolulyticum OX=34027 GN=SAMN05421829_11528 PE=4 SV=1
+tr|H0Q4V5|H0Q4V5_9RHOO         -          Abc-subD_AnHyDeg     -            3.3e-06   23.5   0.0   3.9e-06   23.3   0.0   1.1   1   0   0   1   1   1   1 Phenylphosphate carboxylase, delta subunit OS=Azoarcus sp. KH32C OX=748247 GN=ppcD PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      Abc-subD.hmm
+# Target file:     AnHyDeg.faa
+# Option settings: hmmsearch --tblout Abc-subD_bckgdseqs.tbl Abc-subD.hmm AnHyDeg.faa 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Mon Jul  1 18:13:23 2024
+# [ok]

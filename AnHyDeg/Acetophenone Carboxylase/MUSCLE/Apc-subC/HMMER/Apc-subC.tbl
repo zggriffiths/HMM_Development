@@ -1,0 +1,76 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|A0A934GGM7|A0A934GGM7_9PROT -          Apc-subC_AnHyDeg     -                  0 1335.7   0.1         0 1335.3   0.1   1.0   1   0   0   1   1   1   1 Hydantoinase/oxoprolinase family protein OS=Betaproteobacteria bacterium OX=1891241 GN=HY847_00180 PE=4 SV=1
+tr|A0A916NHY0|A0A916NHY0_9PROT -          Apc-subC_AnHyDeg     -                  0 1323.2   0.0         0 1322.7   0.0   1.0   1   0   0   1   1   1   1 Acetophenone carboxylase gamma subunit OS=Georgfuchsia toluolica OX=424218 GN=apc PE=4 SV=1
+sp|Q5P5G4|APCC_AROAE           -          Apc-subC_AnHyDeg     -                  0 1322.2   0.0         0 1321.8   0.0   1.0   1   0   0   1   1   1   1 Acetophenone carboxylase gamma subunit OS=Aromatoleum aromaticum (strain EbN1) OX=76114 GN=apc3 PE=1 SV=1
+tr|A0A7V7E429|A0A7V7E429_9PROT -          Apc-subC_AnHyDeg     -                  0 1317.2   0.0         0 1316.9   0.0   1.0   1   0   0   1   1   1   1 Hydantoinase/oxoprolinase family protein OS=Rhodospirillaceae bacterium OX=1898112 GN=HPQ04_00685 PE=4 SV=1
+UPI00145C7576                  -          Apc-subC_AnHyDeg     -                  0 1317.0   0.0         0 1316.6   0.0   1.0   1   0   0   1   1   1   1 status=active
+UPI001D00F3EC                  -          Apc-subC_AnHyDeg     -                  0 1315.9   0.0         0 1315.5   0.0   1.0   1   0   0   1   1   1   1 status=active
+UPI00235D3A0D                  -          Apc-subC_AnHyDeg     -                  0 1315.4   0.0         0 1314.9   0.0   1.0   1   0   0   1   1   1   1 status=active
+UPI0025EE43C8                  -          Apc-subC_AnHyDeg     -                  0 1303.3   0.1         0 1303.1   0.1   1.0   1   0   0   1   1   1   1 status=active
+tr|A0A4R7P478|A0A4R7P478_9GAMM -          Apc-subC_AnHyDeg     -                  0 1301.1   0.1         0 1300.8   0.1   1.0   1   0   0   1   1   1   1 N-methylhydantoinase A/acetophenone carboxylase OS=Panacagrimonas perspica OX=381431 GN=DFR24_2370 PE=4 SV=1
+UPI0003B5EA71                  -          Apc-subC_AnHyDeg     -                  0 1300.2   0.2         0 1300.0   0.2   1.0   1   0   0   1   1   1   1 status=active
+UPI002357A1EF                  -          Apc-subC_AnHyDeg     -                  0 1300.1   0.1         0 1299.9   0.1   1.0   1   0   0   1   1   1   1 status=active
+tr|A0A0U2IM36|A0A0U2IM36_9BACL -          Apc-subC_AnHyDeg     -                  0 1299.8   0.0         0 1299.5   0.0   1.0   1   0   0   1   1   1   1 Subunit gamma of acetophenone carboxylaset OS=Paenibacillus naphthalenovorans OX=162209 GN=IJ22_15870 PE=4 SV=1
+UPI0021184A04                  -          Apc-subC_AnHyDeg     -                  0 1299.7   0.0         0 1299.3   0.0   1.0   1   0   0   1   1   1   1 status=active
+UPI0008920092                  -          Apc-subC_AnHyDeg     -                  0 1299.7   0.0         0 1299.3   0.0   1.0   1   0   0   1   1   1   1 status=active
+tr|A0A940T0H1|A0A940T0H1_9BACL -          Apc-subC_AnHyDeg     -                  0 1299.6   0.0         0 1299.2   0.0   1.0   1   0   0   1   1   1   1 N-methylhydantoinase A/acetophenone carboxylase OS=Paenibacillus sp. PvR098 OX=2806596 GN=JOE45_000777 PE=4 SV=1
+UPI0010AF6075                  -          Apc-subC_AnHyDeg     -                  0 1298.7   0.0         0 1298.3   0.0   1.0   1   0   0   1   1   1   1 status=active
+UPI001A8C684A                  -          Apc-subC_AnHyDeg     -                  0 1297.8   0.1         0 1297.6   0.1   1.0   1   0   0   1   1   1   1 status=active
+tr|A0A511D931|A0A511D931_9PSEU -          Apc-subC_AnHyDeg     -                  0 1296.2   0.0         0 1295.9   0.0   1.0   1   0   0   1   1   1   1 5-oxoprolinase OS=Pseudonocardia sulfidoxydans NBRC 16205 OX=1223511 GN=PSU4_02450 PE=4 SV=1
+tr|A0A1D2S9I0|A0A1D2S9I0_9BURK -          Apc-subC_AnHyDeg     -                  0 1295.7   0.0         0 1295.4   0.0   1.0   1   0   0   1   1   1   1 Acetophenone carboxylase OS=Comamonas sp. SCN 65-56 OX=1660095 GN=ABS45_04655 PE=4 SV=1
+UPI001E556028                  -          Apc-subC_AnHyDeg     -                  0 1295.7   0.0         0 1295.3   0.0   1.0   1   0   0   1   1   1   1 status=active
+tr|Q1AUX5|Q1AUX5_RUBXD         -          Apc-subC_AnHyDeg     -                  0 1295.5   0.0         0 1295.2   0.0   1.0   1   0   0   1   1   1   1 5-oxoprolinase (ATP-hydrolyzing) OS=Rubrobacter xylanophilus (strain DSM 9941 / NBRC 16129 / PRD-1) OX=266117 GN=Rxyl_1848 PE=4 SV=1
+UPI001C49F0D5                  -          Apc-subC_AnHyDeg     -                  0 1294.9   0.0         0 1294.6   0.0   1.0   1   0   0   1   1   1   1 status=active
+tr|F4D1X6|F4D1X6_PSEUX         -          Apc-subC_AnHyDeg     -                  0 1293.6   0.0         0 1293.1   0.0   1.0   1   0   0   1   1   1   1 5-oxoprolinase (ATP-hydrolyzing) OS=Pseudonocardia dioxanivorans (strain ATCC 55486 / DSM 44775 / JCM 13855 / CB1190) OX=675635 GN=Psed_5913 PE=4 SV=1
+tr|A0A4R1HXN7|A0A4R1HXN7_PSEEN -          Apc-subC_AnHyDeg     -                  0 1293.6   0.0         0 1293.3   0.0   1.0   1   0   0   1   1   1   1 N-methylhydantoinase A/acetophenone carboxylase OS=Pseudonocardia endophytica OX=401976 GN=EV378_2080 PE=4 SV=1
+UPI0023657286                  -          Apc-subC_AnHyDeg     -                  0 1292.7   0.0         0 1292.5   0.0   1.0   1   0   0   1   1   1   1 status=active
+tr|A0A3D0CVN9|A0A3D0CVN9_UNCCH -          Apc-subC_AnHyDeg     -                  0 1290.1   0.0         0 1290.0   0.0   1.0   1   0   0   1   1   1   1 Acetophenone carboxylase OS=Chloroflexota bacterium OX=2026724 GN=DEP84_08755 PE=4 SV=1
+UPI00200D4F47                  -          Apc-subC_AnHyDeg     -                  0 1288.4   0.1         0 1288.2   0.1   1.0   1   0   0   1   1   1   1 status=active
+tr|A0A939B2H5|A0A939B2H5_9GAMM -          Apc-subC_AnHyDeg     -                  0 1288.3   0.0         0 1287.9   0.0   1.0   1   0   0   1   1   1   1 Hydantoinase/oxoprolinase family protein OS=Gammaproteobacteria bacterium OX=1913989 GN=FJ191_04395 PE=4 SV=1
+UPI0028836E16                  -          Apc-subC_AnHyDeg     -                  0 1284.5   0.1         0 1284.4   0.1   1.0   1   0   0   1   1   1   1 status=active
+tr|A0A2D4SFU5|A0A2D4SFU5_9GAMM -          Apc-subC_AnHyDeg     -                  0 1281.4   0.0         0 1281.1   0.0   1.0   1   0   0   1   1   1   1 Acetophenone carboxylase OS=Salinisphaeraceae bacterium OX=2026789 GN=CMN28_15185 PE=4 SV=1
+tr|A0A953Q5S6|A0A953Q5S6_9BACT -          Apc-subC_AnHyDeg     -                  0 1276.7   0.0         0 1276.5   0.0   1.0   1   0   0   1   1   1   1 Hydantoinase/oxoprolinase family protein OS=Terriglobia bacterium OX=2081523 GN=LAO09_03475 PE=4 SV=1
+UPI0028839C1E                  -          Apc-subC_AnHyDeg     -                  0 1275.9   0.2         0 1275.8   0.2   1.0   1   0   0   1   1   1   1 status=active
+tr|A0A2V9SFQ4|A0A2V9SFQ4_UNCAI -          Apc-subC_AnHyDeg     -                  0 1275.2   0.0         0 1275.1   0.0   1.0   1   0   0   1   1   1   1 Acetophenone carboxylase OS=Acidobacteriota bacterium OX=1978231 GN=DMG89_09545 PE=4 SV=1
+tr|A0A2E9PSP5|A0A2E9PSP5_9CHLR -          Apc-subC_AnHyDeg     -                  0 1274.5   0.1         0 1274.3   0.1   1.0   1   0   0   1   1   1   1 Acetophenone carboxylase OS=Anaerolineaceae bacterium OX=2024896 GN=CL611_01965 PE=4 SV=1
+tr|A0A933CVX7|A0A933CVX7_UNCDE -          Apc-subC_AnHyDeg     -                  0 1273.8   0.0         0 1273.6   0.0   1.0   1   0   0   1   1   1   1 Hydantoinase/oxoprolinase family protein OS=Deltaproteobacteria bacterium OX=2026735 GN=HY695_32780 PE=4 SV=1
+UPI0021AA5A5F                  -          Apc-subC_AnHyDeg     -                  0 1273.2   0.0         0 1272.9   0.0   1.0   1   0   0   1   1   1   1 status=active
+tr|A0A2V9Y7J3|A0A2V9Y7J3_UNCAI -          Apc-subC_AnHyDeg     -                  0 1271.8   0.0         0 1271.7   0.0   1.0   1   0   0   1   1   1   1 Acetophenone carboxylase OS=Acidobacteriota bacterium OX=1978231 GN=DMG72_09695 PE=4 SV=1
+tr|A0A9D8JU00|A0A9D8JU00_UNCCH -          Apc-subC_AnHyDeg     -                  0 1271.5   0.0         0 1271.4   0.0   1.0   1   0   0   1   1   1   1 Hydantoinase/oxoprolinase family protein OS=Chloroflexota bacterium OX=2026724 GN=FJ030_03775 PE=4 SV=1
+UPI0006FB2634                  -          Apc-subC_AnHyDeg     -                  0 1271.3   0.2         0 1271.0   0.2   1.0   1   0   0   1   1   1   1 status=active
+tr|A0A2E7ZID2|A0A2E7ZID2_UNCDE -          Apc-subC_AnHyDeg     -                  0 1271.2   0.0         0 1271.1   0.0   1.0   1   0   0   1   1   1   1 Acetophenone carboxylase OS=Deltaproteobacteria bacterium OX=2026735 GN=CL925_06690 PE=4 SV=1
+tr|A0A953TQ93|A0A953TQ93_9BACT -          Apc-subC_AnHyDeg     -                  0 1270.5   0.0         0 1270.3   0.0   1.0   1   0   0   1   1   1   1 Hydantoinase/oxoprolinase family protein OS=Terriglobia bacterium OX=2081523 GN=LAO22_10470 PE=4 SV=1
+tr|A0A962RU89|A0A962RU89_9GAMM -          Apc-subC_AnHyDeg     -                  0 1269.9   0.0         0 1269.7   0.0   1.0   1   0   0   1   1   1   1 Hydantoinase/oxoprolinase family protein OS=Gammaproteobacteria bacterium OX=1913989 GN=KDK06_06070 PE=4 SV=1
+tr|A0A3D5HGT1|A0A3D5HGT1_UNCDE -          Apc-subC_AnHyDeg     -                  0 1269.8   0.0         0 1269.6   0.0   1.0   1   0   0   1   1   1   1 Acetophenone carboxylase OS=Deltaproteobacteria bacterium OX=2026735 GN=DF909_08055 PE=4 SV=1
+tr|A0A2D4TN76|A0A2D4TN76_UNCDE -          Apc-subC_AnHyDeg     -                  0 1269.3   0.0         0 1269.2   0.0   1.0   1   0   0   1   1   1   1 Acetophenone carboxylase OS=Deltaproteobacteria bacterium OX=2026735 GN=CL914_11935 PE=4 SV=1
+tr|A0A9E7BZG4|A0A9E7BZG4_9ACTN -          Apc-subC_AnHyDeg     -                  0 1267.9   0.0         0 1267.6   0.0   1.0   1   0   0   1   1   1   1 Acetophenone carboxylase gamma subunit OS=Capillimicrobium parvum OX=2884022 GN=apc3_5 PE=4 SV=1
+tr|A0A953P8X0|A0A953P8X0_9BACT -          Apc-subC_AnHyDeg     -                  0 1263.8   0.0         0 1263.6   0.0   1.0   1   0   0   1   1   1   1 Hydantoinase/oxoprolinase family protein OS=Terriglobia bacterium OX=2081523 GN=LAN71_06965 PE=4 SV=1
+tr|A0A944R8F6|A0A944R8F6_UNCDE -          Apc-subC_AnHyDeg     -                  0 1263.5   0.0         0 1263.3   0.0   1.0   1   0   0   1   1   1   1 Hydantoinase/oxoprolinase family protein OS=Deltaproteobacteria bacterium OX=2026735 GN=HN351_05905 PE=4 SV=1
+UPI00086ED211                  -          Apc-subC_AnHyDeg     -                  0 1262.1   0.1         0 1261.8   0.1   1.0   1   0   0   1   1   1   1 status=active
+tr|A0A2V9EIR9|A0A2V9EIR9_UNCAI -          Apc-subC_AnHyDeg     -                  0 1260.2   0.0         0 1260.0   0.0   1.0   1   0   0   1   1   1   1 Acetophenone carboxylase OS=Acidobacteriota bacterium OX=1978231 GN=DMG52_15460 PE=4 SV=1
+UPI000423EA07                  -          Apc-subC_AnHyDeg     -                  0 1259.1   0.0         0 1258.9   0.0   1.0   1   0   0   1   1   1   1 status=active
+tr|A0A2W5YBL3|A0A2W5YBL3_9BACT -          Apc-subC_AnHyDeg     -                  0 1256.4   0.0         0 1256.1   0.0   1.0   1   0   0   1   1   1   1 Acetophenone carboxylase OS=Candidatus Dormiibacterota bacterium OX=2052315 GN=DLM66_04120 PE=4 SV=1
+tr|A0A328VFE2|A0A328VFE2_9CHLR -          Apc-subC_AnHyDeg     -                  0 1252.2   0.0         0 1252.0   0.0   1.0   1   0   0   1   1   1   1 Acetophenone carboxylase OS=Thermogemmatispora tikiterensis OX=1825093 GN=A4R35_00720 PE=4 SV=1
+tr|A0A950UA40|A0A950UA40_9ACTN -          Apc-subC_AnHyDeg     -                  0 1251.6   0.0         0 1251.2   0.0   1.0   1   0   0   1   1   1   1 Hydantoinase/oxoprolinase family protein OS=Solirubrobacterales bacterium OX=1909295 GN=JO181_08910 PE=4 SV=1
+tr|A0A950YPB1|A0A950YPB1_9ACTN -          Apc-subC_AnHyDeg     -                  0 1250.5   0.0         0 1250.1   0.0   1.0   1   0   0   1   1   1   1 Hydantoinase/oxoprolinase family protein OS=Solirubrobacterales bacterium OX=1909295 GN=JOZ98_22015 PE=4 SV=1
+UPI0004104371                  -          Apc-subC_AnHyDeg     -                  0 1222.2   0.0         0 1222.1   0.0   1.0   1   0   0   1   1   1   1 status=active
+UPI00286CE7DF                  -          Apc-subC_AnHyDeg     -                  0 1201.5   0.0         0 1201.2   0.0   1.0   1   0   0   1   1   1   1 status=active
+UPI0026026E8B                  -          Apc-subC_AnHyDeg     -                  0 1195.3   0.1         0 1195.1   0.1   1.0   1   0   0   1   1   1   1 status=active
+UPI000C0BCE78                  -          Apc-subC_AnHyDeg     -                  0 1184.2   0.1         0 1184.1   0.1   1.0   1   0   0   1   1   1   1 status=active
+UPI000289D7EF                  -          Apc-subC_AnHyDeg     -                  0 1183.7   0.2         0 1183.6   0.2   1.0   1   0   0   1   1   1   1 status=active
+UPI0028122C3D                  -          Apc-subC_AnHyDeg     -                  0 1183.3   0.1         0 1183.1   0.1   1.0   1   0   0   1   1   1   1 status=active
+UPI00285350BA                  -          Apc-subC_AnHyDeg     -                  0 1182.4   0.1         0 1182.2   0.1   1.0   1   0   0   1   1   1   1 status=active
+tr|A0A1F8Q3Y0|A0A1F8Q3Y0_9CHLR -          Apc-subC_AnHyDeg     -                  0 1116.1   0.0         0 1115.9   0.0   1.0   1   0   0   1   1   1   1 Acetophenone carboxylase OS=Chloroflexi bacterium RBG_16_56_11 OX=1797649 GN=A2Z29_07655 PE=4 SV=1
+UPI002B4B88F2                  -          Apc-subC_AnHyDeg     -                  0 1089.0   0.0         0 1088.8   0.0   1.0   1   0   0   1   1   1   1 status=active
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      Apc-subC.hmm
+# Target file:     Apc-subC.faa
+# Option settings: hmmsearch --tblout Apc-subC.tbl Apc-subC.hmm Apc-subC.faa 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Sun Jun 30 21:31:53 2024
+# [ok]

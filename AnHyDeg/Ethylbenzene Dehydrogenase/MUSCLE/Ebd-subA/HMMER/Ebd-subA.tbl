@@ -1,0 +1,24 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q5P5I0|Q5P5I0_AROAE         -          EBDH-subA_AnHyDeg    -                  0 1976.4   2.2         0 1976.2   2.2   1.0   1   0   0   1   1   1   1 Alpha-subunit of ethylbenzene dehydrogenase OS=Aromatoleum aromaticum (strain EbN1) OX=76114 GN=ebdA PE=1 SV=1
+tr|Q93PD2|Q93PD2_9RHOO         -          EBDH-subA_AnHyDeg    -                  0 1970.4   2.0         0 1970.3   2.0   1.0   1   0   0   1   1   1   1 Ethylbenzene dehydrogenase subunit A OS=Azoarcus sp. EB1 OX=166498 GN=ebdA PE=3 SV=1
+tr|A0A934GLU4|A0A934GLU4_9PROT -          EBDH-subA_AnHyDeg    -                  0 1948.2   2.2         0 1948.0   2.2   1.0   1   0   0   1   1   1   1 Molybdopterin-dependent oxidoreductase OS=Betaproteobacteria bacterium OX=1891241 GN=HY847_13465 PE=3 SV=1
+tr|A0A916J4L4|A0A916J4L4_9PROT -          EBDH-subA_AnHyDeg    -                  0 1930.4   4.0         0 1930.2   4.0   1.0   1   0   0   1   1   1   1 Alpha-subunit of ethylbenzene dehydrogenase OS=Georgfuchsia toluolica OX=424218 GN=ebdA PE=3 SV=1
+tr|Q5NZV2|Q5NZV2_AROAE         -          EBDH-subA_AnHyDeg    -                  0 1918.3   2.4         0 1918.1   2.4   1.0   1   0   0   1   1   1   1 Ethylbenzene dehydrogenase, alpha subunit OS=Aromatoleum aromaticum (strain EbN1) OX=76114 GN=ebdA2 PE=3 SV=1
+tr|A0A951VAG4|A0A951VAG4_9SPHN -          EBDH-subA_AnHyDeg    -                  0 1855.8   0.4         0 1855.6   0.4   1.0   1   0   0   1   1   1   1 Molybdopterin-dependent oxidoreductase OS=Sphingomonadales bacterium OX=1978525 GN=H3C28_00075 PE=3 SV=1
+tr|A0A3A0F3A1|A0A3A0F3A1_UNCPS -          EBDH-subA_AnHyDeg    -                  0 1852.9   0.3         0 1852.7   0.3   1.0   1   0   0   1   1   1   1 Ethylbenzene dehydrogenase OS=Pseudomonadota bacterium OX=1977087 GN=DCC73_01050 PE=3 SV=1
+tr|A0A521WI77|A0A521WI77_9GAMM -          EBDH-subA_AnHyDeg    -                  0 1832.3   0.0         0 1832.1   0.0   1.0   1   0   0   1   1   1   1 Ethylbenzene dehydrogenase OS=Gammaproteobacteria bacterium OX=1913989 GN=EPO25_01875 PE=3 SV=1
+tr|A0A1B1YRC2|A0A1B1YRC2_9GAMM -          EBDH-subA_AnHyDeg    -                  0 1826.9   0.1         0 1826.7   0.1   1.0   1   0   0   1   1   1   1 Ethylbenzene dehydrogenase OS=Immundisolibacter cernigliae OX=1810504 GN=PG2T_03370 PE=3 SV=1
+tr|A0A661EL02|A0A661EL02_9GAMM -          EBDH-subA_AnHyDeg    -                  0 1562.6   0.0         0 1562.5   0.0   1.0   1   0   0   1   1   1   1 Ethylbenzene dehydrogenase (Fragment) OS=Gammaproteobacteria bacterium OX=1913989 GN=DRQ60_10555 PE=4 SV=1
+tr|A0A661ESV3|A0A661ESV3_9GAMM -          EBDH-subA_AnHyDeg    -            5.6e-39  122.9   0.1   6.1e-39  122.7   0.1   1.0   1   0   0   1   1   1   1 Twin-arginine translocation signal domain-containing protein (Fragment) OS=Gammaproteobacteria bacterium OX=1913989 GN=DRQ52_02640 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      Ebd-subA.hmm
+# Target file:     Ebd-subA.faa
+# Option settings: hmmsearch --tblout Ebd-subA.tbl Ebd-subA.hmm Ebd-subA.faa 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Sun Jun 30 22:48:36 2024
+# [ok]

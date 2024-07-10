@@ -1,0 +1,15 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|D8WWP7|D8WWP7_9FIRM         -          Abc-subD_AnHyDeg     -            1.2e-80  254.9   0.1   1.3e-80  254.8   0.1   1.0   1   0   0   1   1   1   1 Putative anaerobic benzene carboxylase AbcD (Fragment) OS=Clostridia bacterium enrichment culture clone BF OX=857391 PE=4 SV=1
+tr|A0A1G1EF50|A0A1G1EF50_9BACT -          Abc-subD_AnHyDeg     -            3.3e-80  253.4   0.1   3.7e-80  253.3   0.1   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Nitrospinae bacterium RIFCSPLOWO2_12_FULL_45_22 OX=1801687 GN=A3G93_12290 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      Abc-subD.hmm
+# Target file:     Abc-subD.faa
+# Option settings: hmmsearch --tblout Abc-subD.tbl Abc-subD.hmm Abc-subD.faa 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Mon Jul  1 18:13:16 2024
+# [ok]

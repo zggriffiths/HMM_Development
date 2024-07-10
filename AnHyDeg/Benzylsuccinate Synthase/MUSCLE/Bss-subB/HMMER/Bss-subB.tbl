@@ -1,0 +1,39 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|O87944|BSSB_THAAR           -          Bss-subB_AnHyDeg     -              3e-48  152.4   6.7   3.2e-48  152.3   6.7   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase beta subunit OS=Thauera aromatica OX=59405 GN=bssB PE=1 SV=1
+tr|A0A2R4BRW5|A0A2R4BRW5_THAAR -          Bss-subB_AnHyDeg     -              3e-48  152.4   6.7   3.2e-48  152.3   6.7   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase beta subunit BssB OS=Thauera aromatica K172 OX=44139 GN=Tharo_3071 PE=4 SV=1
+tr|A0A1H5T9M9|A0A1H5T9M9_9RHOO -          Bss-subB_AnHyDeg     -            3.6e-48  152.1   7.3   3.9e-48  152.0   7.3   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase beta subunit BssB OS=Thauera chlorobenzoica OX=96773 GN=Tchl_1404 PE=4 SV=1
+tr|A0A934GIG7|A0A934GIG7_9PROT -          Bss-subB_AnHyDeg     -            5.4e-48  151.6   5.5   6.1e-48  151.4   5.5   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase beta subunit family protein OS=Betaproteobacteria bacterium OX=1891241 GN=HY847_02510 PE=4 SV=1
+tr|Q8L1A2|Q8L1A2_9RHOO         -          Bss-subB_AnHyDeg     -            1.1e-47  150.6   5.3   1.3e-47  150.4   5.3   1.0   1   0   0   1   1   1   1 BssB OS=Thauera sp. DNT-1 OX=167065 GN=bssB PE=4 SV=1
+tr|A0A916NJ86|A0A916NJ86_9PROT -          Bss-subB_AnHyDeg     -            1.1e-47  150.5   6.7   1.3e-47  150.4   6.7   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase beta subunit OS=Georgfuchsia toluolica OX=424218 GN=bssB PE=4 SV=1
+tr|I6LHT9|I6LHT9_9RHOO         -          Bss-subB_AnHyDeg     -              2e-47  149.8   4.3   2.3e-47  149.6   4.3   1.0   1   0   0   1   1   1   1 BssB OS=Azoarcus sp. CIB OX=198107 GN=bssB PE=4 SV=1
+tr|Q8VPT6|Q8VPT6_9RHOO         -          Bss-subB_AnHyDeg     -              2e-47  149.8   4.3   2.3e-47  149.6   4.3   1.0   1   0   0   1   1   1   1 Beta subunit of benzylsuccinate synthase OS=Aromatoleum toluolicum OX=90060 GN=bssB PE=4 SV=1
+tr|A0A1N7CQK3|A0A1N7CQK3_9RHOO -          Bss-subB_AnHyDeg     -            2.1e-47  149.7   5.4   2.4e-47  149.5   5.4   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase OS=Aromatoleum tolulyticum OX=34027 GN=SAMN05421829_1275 PE=4 SV=1
+tr|O68396|O68396_THAAR         -          Bss-subB_AnHyDeg     -            2.4e-47  149.5   6.2   2.8e-47  149.3   6.2   1.0   1   0   0   1   1   1   1 TutG OS=Thauera aromatica OX=59405 GN=tutG PE=1 SV=1
+tr|Q5P6A1|Q5P6A1_AROAE         -          Bss-subB_AnHyDeg     -            2.4e-47  149.5   6.4   2.6e-47  149.4   6.4   1.0   1   0   0   1   1   1   1 Beta-Subunit of benzylsuccinate synthase OS=Aromatoleum aromaticum (strain EbN1) OX=76114 GN=bssB PE=4 SV=1
+tr|A0A5K8A0A1|A0A5K8A0A1_9BACT -          Bss-subB_AnHyDeg     -            4.3e-47  148.7   2.8   4.6e-47  148.6   2.8   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase beta subunit domain-containing protein OS=Desulfosarcina ovata subsp. sediminis OX=885957 GN=DSCO28_65250 PE=4 SV=1
+tr|A0A096ZP03|A0A096ZP03_9RHOO -          Bss-subB_AnHyDeg     -            5.5e-47  148.4   4.3   5.9e-47  148.3   4.3   1.0   1   0   0   1   1   1   1 4-isopropylbenzyl-succinate synthase beta subunit OS=Thauera sp. pCyN2 OX=1551544 GN=ibsB PE=4 SV=1
+tr|B9M020|B9M020_GEODF         -          Bss-subB_AnHyDeg     -            2.5e-46  146.2   4.3   2.7e-46  146.2   4.3   1.0   1   0   0   1   1   1   1 (R)-benzylsuccinate synthase, beta subunit OS=Geotalea daltonii (strain DSM 22248 / JCM 15807 / FRC-32) OX=316067 GN=bssB-1 PE=4 SV=1
+tr|B9M010|B9M010_GEODF         -          Bss-subB_AnHyDeg     -            2.9e-46  146.1   3.9   3.1e-46  146.0   3.9   1.0   1   0   0   1   1   1   1 (R)-benzylsuccinate synthase, beta subunit OS=Geotalea daltonii (strain DSM 22248 / JCM 15807 / FRC-32) OX=316067 GN=bssB-2 PE=4 SV=1
+tr|K0N2E2|K0N2E2_DESTT         -          Bss-subB_AnHyDeg     -            3.1e-46  145.9   4.4   3.4e-46  145.8   4.4   1.0   1   0   0   1   1   1   1 BssB: benzylsuccinate synthase, beta subunit OS=Desulfobacula toluolica (strain DSM 7467 / Tol2) OX=651182 GN=bssB PE=4 SV=1
+tr|A0A5K7ZGQ5|A0A5K7ZGQ5_9BACT -          Bss-subB_AnHyDeg     -            3.9e-46  145.6   3.9   4.2e-46  145.5   3.9   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase beta subunit domain-containing protein OS=Desulfosarcina ovata subsp. sediminis OX=885957 GN=DSCO28_00210 PE=4 SV=1
+tr|A0A5K8A2Q0|A0A5K8A2Q0_9BACT -          Bss-subB_AnHyDeg     -            3.9e-46  145.6   3.9   4.2e-46  145.5   3.9   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase beta subunit domain-containing protein OS=Desulfosarcina ovata subsp. ovata OX=2752305 GN=DSCOOX_00250 PE=4 SV=1
+tr|Q39VF2|Q39VF2_GEOMG         -          Bss-subB_AnHyDeg     -            6.6e-46  144.9   3.5   7.6e-46  144.7   3.5   1.1   1   0   0   1   1   1   1 (R)-benzylsuccinate synthase, beta subunit OS=Geobacter metallireducens (strain ATCC 53774 / DSM 7210 / GS-15) OX=269799 GN=bssB PE=4 SV=1
+tr|Q8KUX8|Q8KUX8_GEOME         -          Bss-subB_AnHyDeg     -            6.6e-46  144.9   3.5   7.6e-46  144.7   3.5   1.1   1   0   0   1   1   1   1 Benzylsuccinate synthase beta subunit OS=Geobacter metallireducens OX=28232 GN=bssB PE=4 SV=1
+tr|A0A916J163|A0A916J163_9PROT -          Bss-subB_AnHyDeg     -            8.6e-46  144.5   3.1   9.3e-46  144.4   3.1   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase beta subunit OS=Georgfuchsia toluolica OX=424218 GN=bssB PE=4 SV=1
+tr|A0A1V4RN92|A0A1V4RN92_9BACT -          Bss-subB_AnHyDeg     -            9.7e-46  144.4   2.6     1e-45  144.3   2.6   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase subunit beta OS=Desulfobacteraceae bacterium 4484_190.1 OX=1956167 GN=B1H11_13300 PE=4 SV=1
+tr|A0A562VL86|A0A562VL86_9BACT -          Bss-subB_AnHyDeg     -            2.1e-45  143.3   3.9   2.4e-45  143.1   3.9   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase OS=Geobacter argillaceus OX=345631 GN=JN12_02468 PE=4 SV=1
+tr|I7GF29|I7GF29_9PROT         -          Bss-subB_AnHyDeg     -            2.1e-45  143.3   3.6   2.6e-45  143.0   3.6   1.1   1   0   0   1   1   1   1 Putative benzylsuccinate synthase beta subunit OS=Magnetospirillum sp. TS-6 OX=267349 GN=bssB PE=4 SV=1
+tr|A0A661PRJ9|A0A661PRJ9_UNCDE -          Bss-subB_AnHyDeg     -            8.5e-44  138.1   5.1   9.9e-44  137.9   5.1   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase subunit beta OS=Deltaproteobacteria bacterium OX=2026735 GN=DRH08_00565 PE=4 SV=1
+tr|A0A5K7ZDT4|A0A5K7ZDT4_9BACT -          Bss-subB_AnHyDeg     -            1.1e-41  131.4   0.7   1.3e-41  131.2   0.7   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase beta subunit domain-containing protein OS=Desulfosarcina widdelii OX=947919 GN=DSCW_52800 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      Bss-subB.hmm
+# Target file:     Bss-subB.faa
+# Option settings: hmmsearch --tblout Bss-subB.tbl Bss-subB.hmm Bss-subB.faa 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Sun Jun 30 22:02:41 2024
+# [ok]

@@ -1,0 +1,26 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|Q8L1A4|Q8L1A4_9RHOO         -          Hbs-subC_AnHyDeg     -            3.8e-38  118.8   5.0   4.1e-38  118.7   5.0   1.0   1   0   0   1   1   1   1 BssC OS=Thauera sp. DNT-1 OX=167065 GN=bssC PE=4 SV=1
+tr|A0A1H2E0E3|A0A1H2E0E3_9BACT -          Hbs-subC_AnHyDeg     -            4.5e-38  118.5   5.2   4.8e-38  118.4   5.2   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase OS=Desulfobacula phenolica OX=90732 GN=SAMN04487931_102376 PE=4 SV=1
+tr|K0NCS2|K0NCS2_DESTT         -          Hbs-subC_AnHyDeg     -            4.5e-38  118.5   5.2   4.8e-38  118.4   5.2   1.0   1   0   0   1   1   1   1 HbsC: hydroxybenzylsuccinate synthase, gamma subunit OS=Desulfobacula toluolica (strain DSM 7467 / Tol2) OX=651182 GN=hbsC PE=4 SV=1
+tr|A0A1H2JTQ0|A0A1H2JTQ0_9BACT -          Hbs-subC_AnHyDeg     -            6.2e-38  118.1   4.2   6.7e-38  118.0   4.2   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase OS=Desulfobacula phenolica OX=90732 GN=SAMN04487931_11527 PE=4 SV=1
+tr|K0NIT0|K0NIT0_DESTT         -          Hbs-subC_AnHyDeg     -            6.2e-38  118.1   4.2   6.7e-38  118.0   4.2   1.0   1   0   0   1   1   1   1 BssC3: benzylsuccinate synthase, gamma subunit OS=Desulfobacula toluolica (strain DSM 7467 / Tol2) OX=651182 GN=bssC3 PE=4 SV=1
+tr|I6LHT7|I6LHT7_9RHOO         -          Hbs-subC_AnHyDeg     -            6.2e-38  118.1   4.2   6.9e-38  118.0   4.2   1.0   1   0   0   1   1   1   1 BssC OS=Azoarcus sp. CIB OX=198107 GN=bssC PE=4 SV=1
+tr|Q8VPT8|Q8VPT8_9RHOO         -          Hbs-subC_AnHyDeg     -            6.2e-38  118.1   4.2   6.9e-38  118.0   4.2   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase gamma subunit OS=Aromatoleum toluolicum OX=90060 GN=bssC PE=4 SV=1
+tr|O68394|O68394_THAAR         -          Hbs-subC_AnHyDeg     -              7e-38  117.9   4.9   7.6e-38  117.8   4.9   1.0   1   0   0   1   1   1   1 TutF OS=Thauera aromatica OX=59405 GN=tutF PE=1 SV=1
+tr|A0A934GJK0|A0A934GJK0_9PROT -          Hbs-subC_AnHyDeg     -            7.2e-37  114.7   3.6     8e-37  114.5   3.6   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase gamma subunit family protein OS=Betaproteobacteria bacterium OX=1891241 GN=HY847_02500 PE=4 SV=1
+tr|A0A975GU72|A0A975GU72_9BACT -          Hbs-subC_AnHyDeg     -            2.1e-36  113.2   5.0   2.3e-36  113.1   5.0   1.0   1   0   0   1   1   1   1 Hydroxybenzylsuccinate synthase, gamma subunit OS=Desulfonema magnum OX=45655 GN=hbsC PE=4 SV=1
+tr|A0A5K8A1U6|A0A5K8A1U6_9BACT -          Hbs-subC_AnHyDeg     -            3.7e-36  112.4   2.0     4e-36  112.3   2.0   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase beta subunit domain-containing protein OS=Desulfosarcina ovata subsp. sediminis OX=885957 GN=DSCO28_71310 PE=4 SV=1
+tr|A0A661KSY0|A0A661KSY0_UNCDE -          Hbs-subC_AnHyDeg     -            2.4e-35  109.8   5.2   2.6e-35  109.7   5.2   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase subunit gamma OS=Deltaproteobacteria bacterium OX=2026735 GN=DRG39_04875 PE=4 SV=1
+tr|A0A5K8AL44|A0A5K8AL44_9BACT -          Hbs-subC_AnHyDeg     -            3.1e-32   99.8   1.1   3.3e-32   99.8   1.1   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Desulfosarcina ovata subsp. ovata OX=2752305 GN=DSCOOX_66010 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      Hbs-subC.hmm
+# Target file:     Hbs-subC.faa
+# Option settings: hmmsearch --tblout Hbs-subC.tbl Hbs-subC.hmm Hbs-subC.faa 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Mon Jul  1 15:53:06 2024
+# [ok]

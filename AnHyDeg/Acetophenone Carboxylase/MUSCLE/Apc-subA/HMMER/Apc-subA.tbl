@@ -1,0 +1,30 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+sp|Q5P5G2|APCA_AROAE           -          Apc-subA_AnHyDeg     -                  0 1255.7   0.8         0 1255.6   0.8   1.0   1   0   0   1   1   1   1 Acetophenone carboxylase alpha subunit OS=Aromatoleum aromaticum (strain EbN1) OX=76114 GN=apc1 PE=1 SV=1
+UPI00145FAED6                  -          Apc-subA_AnHyDeg     -                  0 1255.3   0.2         0 1255.1   0.2   1.0   1   0   0   1   1   1   1 status=active
+UPI00235D8525                  -          Apc-subA_AnHyDeg     -                  0 1233.5   3.5         0 1233.3   3.5   1.0   1   0   0   1   1   1   1 status=active
+UPI00286D15C4                  -          Apc-subA_AnHyDeg     -                  0 1228.2   1.1         0 1228.0   1.1   1.0   1   0   0   1   1   1   1 status=active
+UPI001D0339CB                  -          Apc-subA_AnHyDeg     -                  0 1225.2   1.2         0 1225.0   1.2   1.0   1   0   0   1   1   1   1 status=active
+tr|A0A7V7E425|A0A7V7E425_9PROT -          Apc-subA_AnHyDeg     -                  0 1223.2   0.1         0 1223.1   0.1   1.0   1   0   0   1   1   1   1 Hydantoinase/oxoprolinase family protein OS=Rhodospirillaceae bacterium OX=1898112 GN=HPQ04_00695 PE=4 SV=1
+tr|A0A934GIY0|A0A934GIY0_9PROT -          Apc-subA_AnHyDeg     -                  0 1222.4   0.7         0 1222.3   0.7   1.0   1   0   0   1   1   1   1 Hydantoinase/oxoprolinase family protein OS=Betaproteobacteria bacterium OX=1891241 GN=HY847_00190 PE=4 SV=1
+UPI002352BF2D                  -          Apc-subA_AnHyDeg     -                  0 1220.3   2.6         0 1220.1   2.6   1.0   1   0   0   1   1   1   1 status=active
+UPI0003B554B8                  -          Apc-subA_AnHyDeg     -                  0 1218.4   2.2         0 1218.2   2.2   1.0   1   0   0   1   1   1   1 status=active
+UPI0021AB0846                  -          Apc-subA_AnHyDeg     -                  0 1217.6   1.6         0 1217.5   1.6   1.0   1   0   0   1   1   1   1 status=active
+tr|A0A4R7P2Q6|A0A4R7P2Q6_9GAMM -          Apc-subA_AnHyDeg     -                  0 1215.9   0.1         0 1215.7   0.1   1.0   1   0   0   1   1   1   1 N-methylhydantoinase A/acetophenone carboxylase OS=Panacagrimonas perspica OX=381431 GN=DFR24_2373 PE=4 SV=1
+tr|A0A938WEV2|A0A938WEV2_9GAMM -          Apc-subA_AnHyDeg     -                  0 1207.1   0.9         0 1207.0   0.9   1.0   1   0   0   1   1   1   1 Hydantoinase/oxoprolinase family protein OS=Gammaproteobacteria bacterium OX=1913989 GN=FJ191_04405 PE=4 SV=1
+tr|A0A916J5M5|A0A916J5M5_9PROT -          Apc-subA_AnHyDeg     -                  0 1207.0   0.2         0 1206.8   0.2   1.0   1   0   0   1   1   1   1 Acetophenone carboxylase alpha subunit OS=Georgfuchsia toluolica OX=424218 GN=apc PE=4 SV=1
+tr|A0A1D2S9H9|A0A1D2S9H9_9BURK -          Apc-subA_AnHyDeg     -                  0 1184.1   0.4         0 1184.0   0.4   1.0   1   0   0   1   1   1   1 Hydantoinase OS=Comamonas sp. SCN 65-56 OX=1660095 GN=ABS45_04645 PE=4 SV=1
+UPI0028849E6A                  -          Apc-subA_AnHyDeg     -                  0 1181.1   0.3         0 1180.9   0.3   1.0   1   0   0   1   1   1   1 status=active
+UPI002887FEB0                  -          Apc-subA_AnHyDeg     -                  0 1179.7   0.2         0 1179.6   0.2   1.0   1   0   0   1   1   1   1 status=active
+tr|A0A2D4SFT9|A0A2D4SFT9_9GAMM -          Apc-subA_AnHyDeg     -                  0 1153.8   0.6         0 1153.7   0.6   1.0   1   0   0   1   1   1   1 Hydantoinase OS=Salinisphaeraceae bacterium OX=2026789 GN=CMN28_15175 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      Apc-subA.hmm
+# Target file:     Apc-subA.faa
+# Option settings: hmmsearch --tblout Apc-subA.tbl Apc-subA.hmm Apc-subA.faa 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Sun Jun 30 21:18:30 2024
+# [ok]

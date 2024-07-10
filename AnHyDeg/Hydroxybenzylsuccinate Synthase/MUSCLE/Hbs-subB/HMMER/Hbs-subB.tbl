@@ -1,0 +1,22 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|K0NFX4|K0NFX4_DESTT         -          Hbs-subB_AnHyDeg     -            1.6e-49  155.3   1.2   1.8e-49  155.2   1.2   1.0   1   0   0   1   1   1   1 HbsB1: predicted hydroxybenzylsuccinate synthase, beta subunit OS=Desulfobacula toluolica (strain DSM 7467 / Tol2) OX=651182 GN=hbsB1 PE=4 SV=1
+tr|K0N3F9|K0N3F9_DESTT         -          Hbs-subB_AnHyDeg     -            1.7e-49  155.2   1.3   1.9e-49  155.1   1.3   1.0   1   0   0   1   1   1   1 HbsB2: predicted hydroxybenzylsuccinate synthase, beta subunit OS=Desulfobacula toluolica (strain DSM 7467 / Tol2) OX=651182 GN=hbsB2 PE=4 SV=1
+tr|A0A1H2E0B0|A0A1H2E0B0_9BACT -          Hbs-subB_AnHyDeg     -            1.9e-49  155.1   1.9   2.1e-49  155.0   1.9   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase OS=Desulfobacula phenolica OX=90732 GN=SAMN04487931_102379 PE=4 SV=1
+tr|A0A1H2E0L6|A0A1H2E0L6_9BACT -          Hbs-subB_AnHyDeg     -            2.2e-49  154.9   1.5   2.4e-49  154.8   1.5   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase OS=Desulfobacula phenolica OX=90732 GN=SAMN04487931_102378 PE=4 SV=1
+tr|S0FYS1|S0FYS1_9BACT         -          Hbs-subB_AnHyDeg     -            3.2e-48  151.2   2.3   3.5e-48  151.1   2.3   1.0   1   0   0   1   1   1   1 Uncharacterized protein OS=Desulfotignum phosphitoxidans DSM 13687 OX=1286635 GN=Dpo_4c03720 PE=4 SV=1
+tr|A0A1W9M5F9|A0A1W9M5F9_9BACT -          Hbs-subB_AnHyDeg     -            2.3e-47  148.5   1.0   2.5e-47  148.3   1.0   1.0   1   0   0   1   1   1   1 Hydrogenase OS=Desulfobacteraceae bacterium IS3 OX=1934248 GN=BWK80_43635 PE=4 SV=1
+tr|A0A5K8A248|A0A5K8A248_9BACT -          Hbs-subB_AnHyDeg     -            5.5e-47  147.2   3.7     6e-47  147.1   3.7   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase beta subunit domain-containing protein OS=Desulfosarcina ovata subsp. sediminis OX=885957 GN=DSCO28_71330 PE=4 SV=1
+tr|A0A5K8AL33|A0A5K8AL33_9BACT -          Hbs-subB_AnHyDeg     -            5.5e-47  147.2   3.7     6e-47  147.1   3.7   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase beta subunit domain-containing protein OS=Desulfosarcina ovata subsp. ovata OX=2752305 GN=DSCOOX_66030 PE=4 SV=1
+tr|A0A934A075|A0A934A075_UNCDE -          Hbs-subB_AnHyDeg     -            1.5e-45  142.6   3.7   1.6e-45  142.5   3.7   1.0   1   0   0   1   1   1   1 Hydrogenase OS=Deltaproteobacteria bacterium OX=2026735 GN=HY881_00040 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      Hbs-subB.hmm
+# Target file:     Hbs-subB.faa
+# Option settings: hmmsearch --tblout Hbs-subB.tbl Hbs-subB.hmm Hbs-subB.faa 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Mon Jul  1 15:52:16 2024
+# [ok]

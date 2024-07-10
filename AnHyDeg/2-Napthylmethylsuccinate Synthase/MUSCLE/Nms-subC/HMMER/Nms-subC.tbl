@@ -1,0 +1,19 @@
+#                                                                         --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name                  accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#          ------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+tr|R4KCA8|R4KCA8_9FIRM         -          Nms-subC_AnHyDeg     -            7.4e-42  129.7   5.2     8e-42  129.6   5.2   1.0   1   0   0   1   1   1   1 BssC/TutF protein OS=Desulfoscipio gibsoniae DSM 7213 OX=767817 GN=Desgi_0649 PE=4 SV=1
+tr|D8WWC1|D8WWC1_9FIRM         -          Nms-subC_AnHyDeg     -            2.8e-40  124.7   6.7     3e-40  124.6   6.7   1.0   1   0   0   1   1   1   1 Putative benzylsuccinate synthase BssC (Fragment) OS=Clostridia bacterium enrichment culture clone BF OX=857391 PE=4 SV=1
+tr|R4KAJ4|R4KAJ4_9FIRM         -          Nms-subC_AnHyDeg     -            6.2e-40  123.6   5.4   6.7e-40  123.5   5.4   1.0   1   0   0   1   1   1   1 BssC/TutF protein OS=Desulfoscipio gibsoniae DSM 7213 OX=767817 GN=Desgi_0658 PE=4 SV=1
+tr|D2XBH9|D2XBH9_9BACT         -          Nms-subC_AnHyDeg     -            2.9e-39  121.5   4.7   3.1e-39  121.3   4.7   1.0   1   0   0   1   1   1   1 Putative naphthyl-2-methyl-succinate synthase gamma subunit (Fragment) OS=bacterium enrichment culture clone N47 OX=700510 GN=nmsC PE=4 SV=1
+tr|D8FBK8|D8FBK8_9DELT         -          Nms-subC_AnHyDeg     -            9.6e-38  116.6   4.8     1e-37  116.5   4.8   1.0   1   0   0   1   1   1   1 BssC/TutF protein OS=delta proteobacterium NaphS2 OX=88274 GN=NPH_4690 PE=4 SV=1
+tr|A0A562VLE1|A0A562VLE1_9BACT -          Nms-subC_AnHyDeg     -            3.8e-36  111.4   3.9   4.1e-36  111.3   3.9   1.0   1   0   0   1   1   1   1 Benzylsuccinate synthase/naphthyl-2-methylsuccinate synthase gamma subunit OS=Geobacter argillaceus OX=345631 GN=JN12_02470 PE=4 SV=1
+#
+# Program:         hmmsearch
+# Version:         3.1b1 (May 2013)
+# Pipeline mode:   SEARCH
+# Query file:      Nms-subC.hmm
+# Target file:     Nms-subC.faa
+# Option settings: hmmsearch --tblout Nms-subC.tbl Nms-subC.hmm Nms-subC.faa 
+# Current dir:     /home/zgriffiths/hmmer-3.4/HMM_development
+# Date:            Sun Jun 30 20:57:22 2024
+# [ok]
